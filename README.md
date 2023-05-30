@@ -40,18 +40,18 @@ Most of the companies below are in stealth mode, unless their homepage links are
 | Category | Description |
 | --- | --- |
 | 🤖 | Adaptable ASRS (automated storage and retrieval system) for warehouses. |
-| 🛡️ | Compliance and collaboration software for government primes and subcontractors. (https://www.govforce.us/) |
-| 🤖 | Comprehensive marketplace for industrial parts. (https://govolition.com/) |
+| 🛡️ | Compliance and collaboration software for government primes and subcontractors. ([GovForce](https://www.govforce.us/)) |
+| 🤖 | Comprehensive marketplace for industrial parts. ([Volition](https://govolition.com/)) |
 | 🔋 | Distributed network of balloon-based weather sensors. |
 | 🤖🛡️ | Drone swarms for military use cases. |
-| 🔋🤖 | Forest monitoring and inventory management using drones and robots. (https://www.treeswift.com/) |
+| 🔋🤖 | Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/)) |
 | 🤖 | Hardware-based precision crop load management. |
 | 🤝 | K-12 math practice software. |
 | 🤝 | Next gen property management platform. |
 | 🔋 | 🛡️Nuclear microreactors for defense applications. |
 | 🧬 | Protein design using generative AI. |
-| 🛡️ | Security middleware platform that gives users control and visibility over their security posture. (https://limacharlie.io/) |
+| 🛡️ | Security middleware platform that gives users control and visibility over their security posture. ([LimaCharlie](https://limacharlie.io/)) |
 | 🔋 | Site selection and permitting software for large cleantech projects. |
 | 🤝 | Super app for solopreneurs that helps with payments, scheduling, marketing, and more. |
 | 🤝 | System of record for account managers. |
-| 🤝 | Telehealth dietician platform. (https://www.usenourish.com/) |
+| 🤝 | Telehealth dietician platform. ([Nourish](https://www.usenourish.com/)) |
