@@ -35,6 +35,7 @@ Hiring support:
 
 Network
 * We'll make intros to other founders, domain experts, functional experts, investors, and anyone else in our network that you want to talk to.
+* For b2b companies, we will help you reach early customers through our 1st and 2nd degree network.
 
 Discounts
 * We have discounts with lots of service providers, and for commonly used tools (public clouds, ATS and CRM software, productivity tools, etc.)
