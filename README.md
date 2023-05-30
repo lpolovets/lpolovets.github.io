@@ -43,11 +43,12 @@ Discounts
 ## Portfolio Companies
 
 Categories:
-🤝Supportive Check
 🧬Biotech
 🔋Climate/Energy
+💰Crypto/Web3
 🛡️Defense/Security
 🤖Robotics/Manufacturing)
+🤝Supportive Check
 
 Most of the companies below are in stealth mode, unless their homepage links are included.
 
@@ -60,6 +61,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 | 🤖🛡️ | Drone swarms for military use cases. |
 | 🔋🤖 | Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/)) |
 | 🤖 | Hardware-based precision crop load management. |
+| 💰 | Highly efficient decentralized exchange. |
 | 🤝 | K-12 math practice software. |
 | 🤝 | Next gen property management platform. |
 | 🔋🛡️ | Nuclear microreactors for defense applications. |
