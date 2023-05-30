@@ -17,17 +17,19 @@ We try to do monthly syncs with every founder we work with, and of course we’r
 Our approach is to be actively helpful and supportive without being meddlesome or getting in the way. We're laid back and nonjudgmental -- whether things are going well or not, we're not going to add to your stress; we're just going to roll up our sleeves to help wherever we can.
 
 Areas where we can help:
-* fundraising
+* fundraising support:
   * narrative and pitch deck prep
   * pitch practice
   * intros to top investors
-* product and copy feedback
-* GTM strategy
-* pricing design
-* hiring
- * we help with sourcing whenever we meet a great person that could be a mutual fit for your company. (VCs often promising sourcing help, but unless they have a large recruiting team they are unlikely to fulfill that promise. One recruiter across dozens of companies can only do so much). 
- * where we can help is with recruiting process design, job spec reviews, and comp planning.
- * we can also help close candidates by getting on the phone with them and sharing why investors are excited about your company.
+* feedback and strategy brainstorming on:
+  * product feedback
+  * copy feedback
+  * GTM strategy
+  * pricing design
+* hiring support:
+  * we help with sourcing whenever we meet a great person that could be a mutual fit for your company. (VCs often promising sourcing help, but unless they have a large recruiting team they are unlikely to fulfill that promise. One recruiter across dozens of companies can only do so much). 
+  * where we can help is with recruiting process design, job spec reviews, and comp planning.
+  * we can also help close candidates by getting on the phone with them and sharing why investors are excited about your company.
 * intros to other founders, domain experts, functional experts, and anyone else in our network that you want to talk to.
 * we have discounts with lots of service providers, and for commonly used tools (public clouds, ATS and CRM software, productivity tools, etc.)
 
