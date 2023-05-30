@@ -35,7 +35,12 @@ Areas where we can help:
 
 ## Portfolio Companies
 
-(🤝Supportive Check, 🧬Biotech, 🔋Climate/Energy, 🛡️Defense/Security, 🤖Robotics/Manufacturing)
+Categories:
+🤝Supportive Check
+🧬Biotech
+🔋Climate/Energy
+🛡️Defense/Security
+🤖Robotics/Manufacturing)
 
 Most of the companies below are in stealth mode, unless their homepage links are included.
 
@@ -50,7 +55,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 | 🤖 | Hardware-based precision crop load management. |
 | 🤝 | K-12 math practice software. |
 | 🤝 | Next gen property management platform. |
-| 🔋 | 🛡️Nuclear microreactors for defense applications. |
+| 🔋🛡️ | Nuclear microreactors for defense applications. |
 | 🧬 | Protein design using generative AI. |
 | 🛡️ | Security middleware platform that gives users control and visibility over their security posture. ([LimaCharlie](https://limacharlie.io/)) |
 | 🔋 | Site selection and permitting software for large cleantech projects. |
