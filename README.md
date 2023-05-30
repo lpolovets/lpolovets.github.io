@@ -8,7 +8,7 @@ We bring over a decade of institutional VC experience developed through supporti
 
 ## Team
 
-Humba is principally run by Leo Polovets ([LinkedIn](https://www.linkedin.com/in/lpolovets/), [Twitter](https://twitter.com/lpolovets)) and Pratyush Buddiga ([LinkedIn](https://www.linkedin.com/in/pratyush-buddiga-9238b4156/), [Twitter](https://twitter.com/pratyushbuddiga)), with support from the larger Susa team.
+Humba is principally run by Leo Polovets [<img src="linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/lpolovets/) [<img src="twitter_logo.png" width="14" height="14">](https://twitter.com/lpolovets) and Pratyush Buddiga [<img src="linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/pratyush-buddiga-9238b4156/) [<img src="twitter_logo.png" width="14" height="14">](https://twitter.com/pratyushbuddiga), with support from the larger Susa team.
 
 ## Working with Humba Ventures
 
