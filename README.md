@@ -14,16 +14,22 @@ Humba is principally run by Leo Polovets ([LinkedIn](https://www.linkedin.com/in
 
 We try to do monthly syncs with every founder we work with, and of course we’re always available ad hoc whenever anything urgent comes up.
 
+Our approach is to be actively helpful and supportive without being meddlesome or getting in the way. We're laid back and nonjudgmental -- whether things are going well or not, we're not going to add to your stress; we're just going to roll up our sleeves to help wherever we can.
+
 Areas where we can help:
 * fundraising
   * narrative and pitch deck prep
   * pitch practice
   * intros to top investors
-* pricing design
-* GTM strategy
 * product and copy feedback
-* intros to domain experts and functional experts
-* discounts for commonly used tools (cloud credits, ATS and CRM software, productivity tools, etc.)
+* GTM strategy
+* pricing design
+* hiring
+ * we help with sourcing whenever we meet a great person that could be a mutual fit for your company. (VCs often promising sourcing help, but unless they have a large recruiting team they are unlikely to fulfill that promise. One recruiter across dozens of companies can only do so much). 
+ * where we can help is with recruiting process design, job spec reviews, and comp planning.
+ * we can also help close candidates by getting on the phone with them and sharing why investors are excited about your company.
+* intros to other founders, domain experts, functional experts, and anyone else in our network that you want to talk to.
+* we have discounts with lots of service providers, and for commonly used tools (public clouds, ATS and CRM software, productivity tools, etc.)
 
 ## Portfolio Companies
 
