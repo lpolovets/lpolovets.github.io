@@ -14,9 +14,20 @@ Humba is principally run by Leo Polovets ([LinkedIn](https://www.linkedin.com/in
 
 We try to do monthly syncs with every founder we work with, and of course we’re always available ad hoc whenever anything urgent comes up.
 
+Areas where we can help:
+* fundraising
+  * narrative and pitch deck prep
+  * pitch practice
+  * intros to top investors
+* pricing design
+* GTM strategy
+* product and copy feedback
+* intros to domain experts and functional experts
+* discounts for commonly used tools (cloud credits, ATS and CRM software, productivity tools, etc.)
+
 ## Portfolio Companies
 
-(🤝Supportive Check,🧬Biotech,🔋Climate/Energy,🛡️Defense/Security,🤖Robotics/Manufacturing)
+(🤝Supportive Check, 🧬Biotech, 🔋Climate/Energy, 🛡️Defense/Security, 🤖Robotics/Manufacturing)
 
 Most of the companies below are in stealth mode, unless their homepage links are included.
 
