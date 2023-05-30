@@ -1,4 +1,4 @@
-# Humba Ventures
+# 🦍 Humba Ventures
 
 Humba Ventures is a pre-seed and seed fund in the [Susa Ventures](https://www.susaventures.com/) family. While Susa Ventures is focused on leading early stage rounds in traditional sectors like enterprise SaaS, fintech, healthcare, and logistics, Humba Ventures is principally focused on smaller, emerging sectors and technologies like robotics and manufacturing, climate and energy, and defense and security. Humba also occasionally invests as a supportive, non-lead investor in traditional sectors.
 
