@@ -59,6 +59,7 @@ Strategic support
 * We'll provide feedback on your product, website, marketing copy, etc. whenever you want.
 * We can help with GTM design and strategy.
 * We'll help you level up your product's pricing.
+* We're good thought partners for general company strategy: thinking about product roadmaps, moat development, navigating against key competitors, etc.
 
 Hiring support:
 * We help with sourcing whenever we meet a great candidate that could be a fit for your company.
