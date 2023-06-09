@@ -12,7 +12,7 @@ Leo ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linke
 - 10 years of software eng experience: 2nd engineering hire at LinkedIn, 3 years at Google working on payment fraud detection, 4 years at Factual working on data cleaning and deduping softawre.
 - Co-founded Susa Ventures ($500m+ AUM, seed investor in companies like Robinhood, Flexport, Mux, Expanse, Mashgin, and Andela)
 
-Pratyush ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/pratyush-buddiga-9238b4156/) [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/pratyushbuddiga)[blog](https://pratyushbuddiga.substack.com/))
+Pratyush ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/pratyush-buddiga-9238b4156/) [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/pratyushbuddiga) [blog](https://pratyushbuddiga.substack.com/))
 - Won US Spelling Bee.
 - Professional poker player for 6 years, reaching \#2 in the world for tournament play.
 - Early employee at a crypto gaming company and Chief of Staff at Volley (YC-backed voice gaming startup)
