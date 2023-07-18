@@ -32,6 +32,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 | 🔋🤖 | Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/)) |
 | 🤖 | Hardware-based precision crop load management. |
 | 💰 | Highly efficient decentralized exchange. |
+| 🧬 | Organoids for drug testing and drug development. |
 | 🤝 | K-12 math practice software. |
 | 🤝 | Next gen property management platform. |
 | 🔋🛡️ | Nuclear microreactors for defense applications. |
