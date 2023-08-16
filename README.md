@@ -31,7 +31,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 | 🔋 | Distributed network of balloon-based weather sensors. |
 | 🔋🤖 | Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/)) |
 | 🤖 | Hardware-based precision crop load management. |
-| 💰 | Highly efficient decentralized exchange. |
+| 💰 | Highly efficient decentralized exchange. ([Ambient Finance](https://us.ambient.finance/)) |
 | 🤝 | K-12 math practice software. |
 | 🤝 | Next gen property management platform. |
 | 🔋🛡️ | Nuclear microreactors for defense applications. |
