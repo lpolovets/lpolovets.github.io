@@ -33,9 +33,9 @@ Our process is typically 3 meetings:
 - follow-up meeting with 1-2 investors
 - final meeting with 2 investors
 
-In parallel, if we know a domain experts or potential customers that are especially relevant to your business, we'll introduce you to them during the due diligence process.
+In parallel, if we know domain experts or potential customers that are especially relevant to your business, we'll introduce you to them during the due diligence process.
 
-A typical diligence timeline is 1-2 weeks.
+A typical diligence timeline is 1.5-2 weeks.
 
 ## What we look for in potential investments
 
