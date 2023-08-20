@@ -9,7 +9,7 @@ $500k. We participate in pre-seed and seed rounds, and can lead or co-lead small
 ## Investor bios
 Leo ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/lpolovets/) [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/lpolovets) [blog](https://codingvc.com))
 - Numerous Top 100 finishes in national math, programming, and science competitions in high school and college.
-- 10 years of software eng experience: 2nd engineering hire at LinkedIn, 3 years at Google working on payment fraud detection, 4 years at Factual working on data cleaning and deduping softawre.
+- 10 years of software eng experience: 2nd engineering hire at LinkedIn, 3 years at Google working on payment fraud detection, 4 years at Factual working on data cleaning and deduping software.
 - Co-founded Susa Ventures ($500m+ AUM, seed investor in companies like Robinhood, Flexport, Mux, Expanse, Mashgin, and Andela)
 
 Pratyush ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/pratyush-buddiga-9238b4156/) [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/pratyushbuddiga) [blog](https://pratyushbuddiga.substack.com/))
@@ -47,4 +47,6 @@ There are no hard and fast rules when it comes to building or investing in start
 - Not overly capital intensive -- the less capital you need to get your product into customers' hands, the more of a fit we will be.
 
 ## Ethics
-Ethics and integrity are very important to us. As a matter of principle, we always strive to make recommendations that are in the best interest of the company, not ourselves. We won't invest in your competitors, won't share your deck with them, and won't share their decks with you.
+Ethics and integrity are very important to us. We won’t invest in your competitors, won’t share your deck with them, and won’t share their decks with you. 
+
+As a matter of principle, we always strive to make recommendations that are in the best interest of the company, not ourselves.
