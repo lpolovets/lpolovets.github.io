@@ -18,7 +18,7 @@ Pratyush ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.
 - Early employee at a crypto gaming company and Chief of Staff at Volley (YC-backed voice gaming startup)
 
 
-Team's previous fund and angel investments: [CloudTrucks ($850m)](https://www.cloudtrucks.com/), [Dusty Robotics (🤫)](https://www.dustyrobotics.com/), [Hightouch ($450m)](https://hightouch.com/), [Mashgin ($1.5b)](https://www.mashgin.com/), [Placer ($1b)](https://www.placer.ai/), [Scalyr (acquired)](https://www.dataset.com/), [Veho ($1.5b)](https://shipveho.com/), [Vetcove (🤫)](https://www.vetcove.com/).
+Team's previous fund and angel investments: [CloudTrucks ($850m)](https://www.cloudtrucks.com/), [Dusty Robotics (🤫)](https://www.dustyrobotics.com/), [Hightouch ($615m)](https://hightouch.com/), [Mashgin ($1.5b)](https://www.mashgin.com/), [Placer ($1b)](https://www.placer.ai/), [Scalyr (acquired)](https://www.dataset.com/), [Veho ($1.5b)](https://shipveho.com/), [Vetcove (🤫)](https://www.vetcove.com/).
 
 ## Focus areas
 - climate and energy
