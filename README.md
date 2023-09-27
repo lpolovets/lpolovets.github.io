@@ -37,6 +37,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 | 🔋🛡️ | Nuclear microreactors for defense applications. |
 | 🧬 | Organoids for drug testing and drug development. |
 | 🧬 | Protein design using generative AI. |
+| 🛡️ | Search engine for geospatial data that targets defense & government use cases. |
 | 🛡️ | Security middleware platform that gives users control and visibility over their security posture. ([LimaCharlie](https://limacharlie.io/)) |
 | 🔋 | Site selection and permitting software for large cleantech projects. |
 | 🤝 | Super app for solopreneurs that helps with payments, scheduling, marketing, and more. |
