@@ -1,6 +1,6 @@
 # Humba Ventures
 
-Humba Ventures is a pre-seed and seed fund in the [Susa Ventures](https://www.susaventures.com/) family. While Susa Ventures is focused on leading early stage rounds in traditional sectors like enterprise SaaS, fintech, healthcare, and logistics, Humba Ventures is mainly focused on smaller, emerging sectors and technologies like robotics and manufacturing, climate and energy, and defense and security. Humba also occasionally invests as a supportive, non-lead investor in traditional sectors.
+Humba Ventures is a pre-seed and seed fund in the [Susa Ventures](https://www.susaventures.com/){:target="_blank" rel="noopener"} family. While Susa Ventures is focused on leading early stage rounds in traditional sectors like enterprise SaaS, fintech, healthcare, and logistics, Humba Ventures is mainly focused on smaller, emerging sectors and technologies like robotics and manufacturing, climate and energy, and defense and security. Humba also occasionally invests as a supportive, non-lead investor in traditional sectors.
 
 Humba typically writes $250k-$500k core checks with a high engagement model, and occasionally writes $50k-$100k scout checks.
 
@@ -8,7 +8,7 @@ We bring over a decade of institutional VC experience developed through supporti
 
 ## Team
 
-Humba is principally run by Leo Polovets [<img src="linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/lpolovets/) [<img src="twitter_logo.png" width="14" height="14">](https://twitter.com/lpolovets) and Pratyush Buddiga [<img src="linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/pratyush-buddiga-9238b4156/) [<img src="twitter_logo.png" width="14" height="14">](https://twitter.com/pratyushbuddiga), with support from the larger Susa team.
+Humba is principally run by Leo Polovets [<img src="linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/lpolovets/){:target="_blank" rel="noopener"} [<img src="twitter_logo.png" width="14" height="14">](https://twitter.com/lpolovets){:target="_blank" rel="noopener"} and Pratyush Buddiga [<img src="linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/pratyush-buddiga-9238b4156/){:target="_blank" rel="noopener"} [<img src="twitter_logo.png" width="14" height="14">](https://twitter.com/pratyushbuddiga){:target="_blank" rel="noopener"}, with support from the larger Susa team.
 
 ## Portfolio Companies
 
@@ -26,24 +26,24 @@ Most of the companies below are in stealth mode, unless their homepage links are
 | --- | --- |
 | 🤖 | Adaptable ASRS (automated storage and retrieval system) for warehouses. |
 | 🤖🛡️ | Autonomous drone swarms for military applications. |
-| 🛡️ | Compliance and collaboration software for government primes and subcontractors. ([GovForce](https://www.govforce.us/)) |
-| 🤖 | Comprehensive marketplace for industrial parts. ([Volition](https://govolition.com/)) |
+| 🛡️ | Compliance and collaboration software for government primes and subcontractors. ([GovForce](https://www.govforce.us/){:target="_blank" rel="noopener"}) |
+| 🤖 | Comprehensive marketplace for industrial parts. ([Volition](https://govolition.com/){:target="_blank" rel="noopener"}) |
 | 🔋 | Distributed network of balloon-based weather sensors. |
-| 🔋🤖 | Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/)) |
+| 🔋🤖 | Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/){:target="_blank" rel="noopener"}) |
 | 🤖 | Hardware-based precision crop load management. |
-| 💰 | Highly efficient decentralized exchange. ([Ambient Finance](https://us.ambient.finance/)) |
+| 💰 | Highly efficient decentralized exchange. ([Ambient Finance](https://us.ambient.finance/){:target="_blank" rel="noopener"}) |
 | 🤝 | K-12 math practice software. |
 | 🤝 | Next gen property management platform. |
 | 🔋🛡️ | Nuclear microreactors for defense applications. |
 | 🧬 | Organoids for drug testing and drug development. |
 | 🧬 | Protein design using generative AI. |
-| 🛡️ | Search engine for geospatial data that targets defense & government use cases. ([Danti](https://danti.ai/)) |
-| 🛡️ | Security middleware platform that gives users control and visibility over their security posture. ([LimaCharlie](https://limacharlie.io/)) |
+| 🛡️ | Search engine for geospatial data that targets defense & government use cases. ([Danti](https://danti.ai/){:target="_blank" rel="noopener"}) |
+| 🛡️ | Security middleware platform that gives users control and visibility over their security posture. ([LimaCharlie](https://limacharlie.io/){:target="_blank" rel="noopener"}) |
 | 🔋 | Site selection and permitting software for large cleantech projects. |
 | 🛡️ | Software platform that makes it easier for the US to share info with its allies in a faster, more secure way. |
 | 🤝 | Super app for solopreneurs that helps with payments, scheduling, marketing, and more. |
 | 🤝 | System of record for account managers. |
-| 🤝 | Telehealth dietician platform. ([Nourish](https://www.usenourish.com/)) |
+| 🤝 | Telehealth dietician platform. ([Nourish](https://www.usenourish.com/){:target="_blank" rel="noopener"}) |
 
 ## Working with Humba Ventures
 
