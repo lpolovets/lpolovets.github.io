@@ -7,18 +7,18 @@ $500k. We participate in pre-seed and seed rounds, and can lead or co-lead small
 10 investments per year.
 
 ## Investor bios
-Leo ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/lpolovets/) [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/lpolovets) [blog](https://codingvc.com))
+Leo ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/lpolovets/){:target="_blank" rel="noopener"} [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/lpolovets){:target="_blank" rel="noopener"} [blog](https://codingvc.com){:target="_blank" rel="noopener"})
 - Numerous Top 100 finishes in national math, programming, and science competitions in high school and college.
 - 10 years of software eng experience: 2nd engineering hire at LinkedIn, 3 years at Google working on payment fraud detection, 4 years at Factual working on data cleaning and deduping software.
 - Co-founded Susa Ventures ($500m+ AUM, seed investor in companies like Robinhood, Flexport, Mux, Expanse, Mashgin, and Andela)
 
-Pratyush ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/pratyush-buddiga-9238b4156/) [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/pratyushbuddiga) [blog](https://pratyushbuddiga.substack.com/))
+Pratyush ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/pratyush-buddiga-9238b4156/){:target="_blank" rel="noopener"} [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/pratyushbuddiga){:target="_blank" rel="noopener"} [blog](https://pratyushbuddiga.substack.com/){:target="_blank" rel="noopener"})
 - Won US Spelling Bee.
 - Professional poker player for 6 years, reaching \#2 in the world for tournament play.
 - Early employee at a crypto gaming company and Chief of Staff at Volley (YC-backed voice gaming startup)
 
 
-Team's previous fund and angel investments: [CloudTrucks ($850m)](https://www.cloudtrucks.com/), [Dusty Robotics (🤫)](https://www.dustyrobotics.com/), [Hightouch ($615m)](https://hightouch.com/), [Mashgin ($1.5b)](https://www.mashgin.com/), [Placer ($1b)](https://www.placer.ai/), [Scalyr (acquired)](https://www.dataset.com/), [Veho ($1.5b)](https://shipveho.com/), [Vetcove (🤫)](https://www.vetcove.com/).
+Team's previous fund and angel investments: [CloudTrucks ($850m)](https://www.cloudtrucks.com/){:target="_blank" rel="noopener"}, [Dusty Robotics (🤫)](https://www.dustyrobotics.com/){:target="_blank" rel="noopener"}, [Hightouch ($615m)](https://hightouch.com/){:target="_blank" rel="noopener"}, [Mashgin ($1.5b)](https://www.mashgin.com/){:target="_blank" rel="noopener"}, [Placer ($1b)](https://www.placer.ai/){:target="_blank" rel="noopener"}, [Scalyr (acquired)](https://www.dataset.com/){:target="_blank" rel="noopener"}, [Veho ($1.5b)](https://shipveho.com/){:target="_blank" rel="noopener"}, [Vetcove (🤫)](https://www.vetcove.com/){:target="_blank" rel="noopener"}.
 
 ## Focus areas
 - climate and energy
