@@ -34,7 +34,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 | 💰 | Highly efficient decentralized exchange. ([Ambient Finance](https://us.ambient.finance/){:target="_blank" rel="noopener"}) |
 | 🤝 | K-12 math practice software. |
 | 🤝 | Next gen property management platform. |
-| 🔋🛡️ | Nuclear microreactors for defense applications. |
+| 🔋🛡️ | Nuclear microreactors for defense applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"}) |
 | 🧬 | Organoids for drug testing and drug development. |
 | 🧬 | Protein design using generative AI. |
 | 🛡️ | Search engine for geospatial data that targets defense & government use cases. ([Danti](https://danti.ai/){:target="_blank" rel="noopener"}) |
