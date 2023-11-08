@@ -1,7 +1,7 @@
 # One-Pager
 
 ## Target check size
-$500k. We participate in pre-seed and seed rounds, and can lead or co-lead smaller pre-seed rounds.
+$250k-500k. We participate in pre-seed and seed rounds, and can lead or co-lead smaller pre-seed rounds.
 
 ## Investment pace
 10 investments per year.
