@@ -1,3 +1,5 @@
+![Logo](../humba_logo.png)
+
 # One-Pager
 
 ## Target check size
