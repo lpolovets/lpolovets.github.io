@@ -1,4 +1,3 @@
-<link href="https://fonts.googleapis.com/css?family=Press Start 2P" rel="stylesheet">
 <link rel="stylesheet" href="../style.css">
 
 [![Logo](../humba_logo.png)](https://humbaventures.com/)
