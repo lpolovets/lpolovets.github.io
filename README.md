@@ -1,8 +1,6 @@
 ![Logo](humba_logo.png)
 
-<div align="center">
- [About](https://humbaventures.com/#about) [Team](https://humbaventures.com/#team) [Portfolio](https://humbaventures.com/#portfolio) [Working with Humba Ventures](https://humbaventures.com/#working-with-humba-ventures)
-</div>
+[About](https://humbaventures.com/#about) | [Team](https://humbaventures.com/#team) | [Portfolio](https://humbaventures.com/#portfolio) | [Working with Humba Ventures](https://humbaventures.com/#working-with-humba-ventures)
 
 # About
 
