@@ -1,4 +1,4 @@
-![Logo](../humba_logo.png)
+[![Logo](../humba_logo.png)](https://humbaventures.com/)
 
 # One-Pager
 
