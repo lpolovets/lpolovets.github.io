@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="style.css">
 
 ![Logo](humba_logo.png)
 
