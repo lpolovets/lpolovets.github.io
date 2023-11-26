@@ -1,12 +1,16 @@
 ![Logo](humba_logo.png)
 
+<p align="center">[About](#about) | [Team](#team) | [Portfolio](#portfolio)</p>
+
+# About
+
 Humba Ventures is a pre-seed and seed fund in the [Susa Ventures](https://www.susaventures.com/){:target="_blank" rel="noopener"} family. While Susa Ventures is focused on leading early stage rounds in traditional sectors like enterprise SaaS, fintech, healthcare, and logistics, Humba Ventures is mainly focused on smaller, emerging sectors and technologies like robotics and manufacturing, climate and energy, and defense and security. Humba also occasionally invests as a supportive, non-lead investor in traditional sectors.
 
 Humba typically writes $250k-$500k core checks with a high engagement model, and occasionally writes $50k-$100k scout checks.
 
 We bring over a decade of institutional VC experience developed through supporting companies like Robinhood, Flexport, and Mux at their earliest stages, and apply that experience to founders building companies at the frontiers of technology.
 
-## Team
+# Team
 
 Humba is principally run by Leo Polovets and Pratyush Buddiga, with support from the larger Susa team.
 
@@ -23,7 +27,7 @@ Pratyush ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.
 
 Team's previous fund and angel investments: [CloudTrucks ($850m)](https://www.cloudtrucks.com/){:target="_blank" rel="noopener"}, [Dusty Robotics (🤫)](https://www.dustyrobotics.com/){:target="_blank" rel="noopener"}, [Hightouch ($615m)](https://hightouch.com/){:target="_blank" rel="noopener"}, [Mashgin ($1.5b)](https://www.mashgin.com/){:target="_blank" rel="noopener"}, [Placer ($1b)](https://www.placer.ai/){:target="_blank" rel="noopener"}, [Scalyr (acquired)](https://www.dataset.com/){:target="_blank" rel="noopener"}, [Veho ($1.5b)](https://shipveho.com/){:target="_blank" rel="noopener"}, [Vetcove (🤫)](https://www.vetcove.com/){:target="_blank" rel="noopener"}.
 
-## Portfolio Companies
+# Portfolio
 
 Categories:<br>
 🧬Biotech<br>
@@ -58,7 +62,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 | 🤝 | System of record for account managers. |
 | 🤝 | Telehealth dietician platform. ([Nourish](https://www.usenourish.com/){:target="_blank" rel="noopener"}) |
 
-## Working with Humba Ventures
+# Working with Humba Ventures
 
 We try to do monthly syncs with every core check founder, and of course we’re always available ad hoc whenever anything urgent comes up.
 
