@@ -1,4 +1,4 @@
-
+<a href="#top"></a>
 ![Logo](humba_logo.png)
 
 [About](https://humbaventures.com/#about) &#124; [Team](https://humbaventures.com/#team) &#124; [Portfolio](https://humbaventures.com/#portfolio) &#124; [Working with Humba Ventures](https://humbaventures.com/#working-with-humba-ventures)
@@ -10,6 +10,8 @@ Humba Ventures is a pre-seed and seed fund in the [Susa Ventures](https://www.su
 Humba typically writes $250k-$500k core checks with a high engagement model, and occasionally writes $50k-$100k scout checks.
 
 We bring over a decade of institutional VC experience developed through supporting companies like Robinhood, Flexport, and Mux at their earliest stages, and apply that experience to founders building companies at the frontiers of technology.
+
+[↑ back to top](#top)
 
 ### TEAM
 
