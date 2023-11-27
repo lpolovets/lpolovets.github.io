@@ -53,14 +53,10 @@ Ethics and integrity are very important to us. We won’t invest in your competi
 
 As a matter of principle, we always strive to make recommendations that are in the best interest of the company, not ourselves.
 
-<span class="f1">
-# Mixed Case Humba Ventures
-</span>
+<h2 class="f1">Mixed Case Humba Ventures</h2>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<span class="f1">
-# CAP CASE HUMBA VENTURES
-</span>
+<h2 class="f1">CAP CASE HUMBA VENTURES</h2>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
