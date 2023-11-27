@@ -1,3 +1,29 @@
-
 @import url('https://fonts.googleapis.com/css?family=Press Start 2P');
-h2 {font-family: 'Press Start 2P', sans-serif;}
+@import url('https://fonts.googleapis.com/css?family=DM Sans');
+@import url('https://fonts.googleapis.com/css?family=Bebas Neue');
+@import url('https://fonts.googleapis.com/css?family=Josefin Sans');
+@import url('https://fonts.googleapis.com/css?family=Russo One');
+@import url('https://fonts.googleapis.com/css?family=Changa');
+@import url('https://fonts.googleapis.com/css?family=Francois One');
+@import url('https://fonts.googleapis.com/css?family=Blinker');
+@import url('https://fonts.googleapis.com/css?family=Secular One');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+@import url('https://fonts.googleapis.com/css?family=Oxanium');
+@import url('https://fonts.googleapis.com/css?family=Black Ops One');
+
+.f1 {font-family: 'Press Start 2P', sans-serif;}
+.f2 {font-family: 'DM Sans', sans-serif;}
+.f3 {font-family: 'Bebas Neue', sans-serif;}
+.f4 {font-family: 'Josefin Sans', sans-serif;}
+.f5 {font-family: 'Russo One', sans-serif;}
+.f6 {font-family: 'Changa', sans-serif;}
+.f7 {font-family: 'Francois One', sans-serif;}
+.f8 {font-family: 'Blinker', sans-serif;}
+.f9 {font-family: 'Secular One', sans-serif;}
+.f10 {font-family: 'Oswald', sans-serif;}
+.f11 {font-family: 'Lato', sans-serif;}
+.f12 {font-family: 'Orbitron', sans-serif;}
+.f13 {font-family: 'Oxanium', sans-serif;}
+.f14 {font-family: 'Black Ops One', sans-serif;}
