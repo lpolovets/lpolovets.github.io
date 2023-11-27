@@ -2,11 +2,10 @@
 
 [![Logo](../humba_logo.png)](https://humbaventures.com/)
 
-### TARGET CHECK SIZE
-$250k-500k. We participate in pre-seed and seed rounds, and can lead or co-lead smaller pre-seed rounds.
+### INVESTING PACE AND STYLE
+We make about ten $250k-500k investments each year. We participate in pre-seed and seed rounds, and can lead or co-lead smaller pre-seed rounds.
 
-### INVESTMENT PACE
-10 investments per year.
+When partnering with founders, we strive to be highly engaged but not meddlesome.
 
 ### INVESTOR BIOS
 Leo ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/lpolovets/){:target="_blank" rel="noopener"} [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/lpolovets){:target="_blank" rel="noopener"} [blog](https://www.codingvc.com){:target="_blank" rel="noopener"})
