@@ -2,8 +2,18 @@
 
 [![Logo](../humba_logo.png)](https://humbaventures.com/)
 
-<h3 class="f2">TARGET CHECK SIZE</h3>
+<h3 class="f4">TARGET CHECK SIZE</h3>
 $250k-500k. We participate in pre-seed and seed rounds, and can lead or co-lead smaller pre-seed rounds.
+
+<h3 class="f7">TARGET CHECK SIZE</h3>
+$250k-500k. We participate in pre-seed and seed rounds, and can lead or co-lead smaller pre-seed rounds.
+
+<h3 class="f8">TARGET CHECK SIZE</h3>
+$250k-500k. We participate in pre-seed and seed rounds, and can lead or co-lead smaller pre-seed rounds.
+
+<h3 class="f9">TARGET CHECK SIZE</h3>
+$250k-500k. We participate in pre-seed and seed rounds, and can lead or co-lead smaller pre-seed rounds.
+
 
 ## Investment pace
 10 investments per year.
