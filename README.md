@@ -46,6 +46,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 
 | Category | Description |
 | --- | --- |
+| 🤖 | 3D printer that can produce production-grade carbon fiber parts quickly and affordably. |
 | 🤖 | Adaptable ASRS (automated storage and retrieval system) for warehouses. |
 | 🤖🛡️ | Autonomous drone swarms for military applications. |
 | 🛡️ | Compliance and collaboration software for government primes and subcontractors. ([GovForce](https://www.govforce.us/){:target="_blank" rel="noopener"}) |
