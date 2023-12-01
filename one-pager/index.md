@@ -39,14 +39,14 @@ We're open-minded and have invested in other areas like AI-enabled drug discover
 <sub>[↑ back to top](#top)</sub>
 
 ### PROCESS
-Our process is typically 3 meetings:
+Our process is typically 3-4 meetings:
 - intro meeting with 1 investor
-- follow-up meeting with 1-2 investors
+- 1-2 follow-up meeting with 1-2 investors
 - final meeting with 2 investors
 
 In parallel, if we know domain experts or potential customers that are especially relevant to your business, we'll introduce you to them during the due diligence process.
 
-A typical diligence timeline is 1.5-2 weeks.
+A typical diligence timeline is ~2 weeks.
 
 <sub>[↑ back to top](#top)</sub>
 
