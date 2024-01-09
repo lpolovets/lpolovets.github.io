@@ -40,6 +40,7 @@ Categories:<br>
 💰Crypto/Web3<br>
 🛡️Defense/Security<br>
 🤖Robotics/Manufacturing<br>
+🚀Space
 🤝Supportive Check
 
 Most of the companies below are in stealth mode, unless their homepage links are included.
@@ -56,6 +57,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 | 🤖 | Hardware-based precision crop load management. |
 | 💰 | Highly efficient decentralized exchange. ([Ambient Finance](https://us.ambient.finance/){:target="_blank" rel="noopener"}) |
 | 🤝 | K-12 math practice software. |
+| 🚀 | A modern ground station network for satellites. |
 | 🤝 | Next gen property management platform. |
 | 🔋🛡️ | Nuclear microreactors for defense applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"}) |
 | 🧬 | Organoids for drug testing and drug development. |
