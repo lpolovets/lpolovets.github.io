@@ -52,13 +52,13 @@ Most of the companies below are in stealth mode, unless their homepage links are
 | 🤖 | Adaptable ASRS (automated storage and retrieval system) for warehouses. |
 | 🤖🛡️ | Autonomous drone swarms for military applications. |
 | 🛡️ | Compliance and collaboration software for government primes and subcontractors. ([GovForce](https://www.govforce.us/){:target="_blank" rel="noopener"}) |
-| 🤖 | Comprehensive marketplace for industrial parts. ([Volition](https://govolition.com/){:target="_blank" rel="noopener"}) |
-| 🔋 | Distributed network of balloon-based weather sensors. |
+| 🤖 | Cybersecurity risk assessment and insurance platform. |
+| 🔋🤖 | Distributed network of balloon-based weather sensors. ([Windborne](https://windbornesystems.com/{:target="_blank" rel="noopener"}) |
 | 🔋🤖 | Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/){:target="_blank" rel="noopener"}) |
 | 🤖 | Hardware-based precision crop load management. |
 | 💰 | Highly efficient decentralized exchange. ([Ambient Finance](https://us.ambient.finance/){:target="_blank" rel="noopener"}) |
 | 🏫 | K-12 math practice software. |
-| 🚀 | A modern ground station network for satellites. |
+| 🚀 | Modern ground station network for satellites. |
 | 🤝 | Next gen property management platform. |
 | 🔋🛡️ | Nuclear microreactors for defense applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"}) |
 | 🧬 | Organoids for drug testing and drug development. |
