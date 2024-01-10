@@ -35,13 +35,14 @@ Team's previous fund and angel investments: [CloudTrucks ($850m)](https://www.cl
 ### PORTFOLIO
 
 Categories:<br>
-🧬Biotech<br>
-🔋Climate/Energy<br>
-💰Crypto/Web3<br>
-🛡️Defense/Security<br>
-🤖Robotics/Manufacturing<br>
-🚀Space
-🤝Supportive Check
+🧬 Biotech<br>
+🔋 Climate/Energy<br>
+💰 Crypto/Web3<br>
+🛡️ Defense/Security<br>
+🏫 Education<br>
+🤖 Robotics/Manufacturing<br>
+🚀 Space<br>
+🤝 Supportive Check
 
 Most of the companies below are in stealth mode, unless their homepage links are included.
 
@@ -56,7 +57,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 | 🔋🤖 | Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/){:target="_blank" rel="noopener"}) |
 | 🤖 | Hardware-based precision crop load management. |
 | 💰 | Highly efficient decentralized exchange. ([Ambient Finance](https://us.ambient.finance/){:target="_blank" rel="noopener"}) |
-| 🤝 | K-12 math practice software. |
+| 🏫 | K-12 math practice software. |
 | 🚀 | A modern ground station network for satellites. |
 | 🤝 | Next gen property management platform. |
 | 🔋🛡️ | Nuclear microreactors for defense applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"}) |
