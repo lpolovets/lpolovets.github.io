@@ -1,4 +1,4 @@
-(click on the links to see high res versions of logs)
+(click on the links to see high res versions of logos)
 
 [logo, black](logo-black.png)
 
