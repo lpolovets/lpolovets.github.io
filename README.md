@@ -7,7 +7,7 @@
 
 Humba Ventures is a pre-seed and seed fund in the [Susa Ventures](https://www.susaventures.com/){:target="_blank" rel="noopener"} family. While Susa Ventures is focused on leading early stage rounds in traditional sectors like enterprise SaaS, fintech, healthcare, and logistics, Humba Ventures is mainly focused on smaller, emerging sectors and technologies like robotics and manufacturing, climate and energy, and defense and security. Humba also occasionally invests as a supportive, non-lead investor in traditional sectors.
 
-Humba typically writes $250k-$500k core checks with a high engagement model, and occasionally writes $50k-$100k scout checks.
+Humba typically writes $250k-$750k core checks with a high engagement model, and occasionally writes $50k-$100k scout checks.
 
 We bring over a decade of institutional VC experience developed through supporting companies like Robinhood, Flexport, and Mux at their earliest stages, and apply that experience to founders building companies at the frontiers of technology.
 
