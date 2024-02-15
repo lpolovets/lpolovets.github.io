@@ -64,6 +64,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 | 🤝 | Next gen property management platform. |
 | 🔋🛡️ | Nuclear microreactors for defense applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"}) |
 | 🧬 | Organoids for drug testing and drug development. |
+| 🧬 | Platform for designing and testing oncolytic viral therapies. |
 | 🧬 | Protein design using generative AI. |
 | 🛡️ | Search engine for geospatial data that targets defense & government use cases. ([Danti](https://danti.ai/){:target="_blank" rel="noopener"}) |
 | 🛡️ | Security middleware platform that gives users control and visibility over their security posture. ([LimaCharlie](https://limacharlie.io/){:target="_blank" rel="noopener"}) |
