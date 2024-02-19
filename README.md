@@ -60,7 +60,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 | 💰 | Highly efficient decentralized exchange. ([Ambient Finance](https://us.ambient.finance/){:target="_blank" rel="noopener"}) |
 | 🏫 | K-12 math practice software. |
 | 🤖 | Marketplace for industrial components. ([Volition](https://www.govolition.com/){:target="_blank" rel="noopener"}) |
-| 🚀 | Modern ground station network for satellites. |
+| 🚀 | Modern ground station network for satellites. ([Northwood Space](https://www.northwoodspace.io/){:target="_blank" rel="noopener"}) |
 | 🤝 | Next gen property management platform. |
 | 🔋🛡️ | Nuclear microreactors for defense applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"}) |
 | 🧬 | Organoids for drug testing and drug development. |
