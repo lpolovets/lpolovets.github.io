@@ -46,7 +46,7 @@ Our process is typically 3-4 meetings:
 
 In parallel, if we know domain experts or potential customers that are especially relevant to your business, we'll introduce you to them during the due diligence process.
 
-A typical diligence timeline is ~2 weeks.
+A typical diligence timeline is 2-3 weeks.
 
 <sub>[↑ back to top](#top)</sub>
 
