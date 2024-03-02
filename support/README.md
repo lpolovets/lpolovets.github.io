@@ -13,23 +13,23 @@ Below are some specific areas where we can help.
 
 ## Fundraising Support
 
+* The rate at which companies we work with raise follow-on rounds has historically been ~70% at both Humba and Susa Ventures. This is about 2x the 30-35% industry average.
 * We’ll iterate on the deck content together, then introduce you to designers when the deck is ready for final touches.
 * We’ll do pitch practice sessions together until you’re comfortable with the pitch.
 * We’ll introduce you to the best investors for you – both the well-known ones that everyone wants to talk to, and the under the radar investors that have deep experience in the category you’re focused on.
-* The rate at which companies we work with raise follow-on rounds has historically been ~70% at both Humba and Susa Ventures. This is about 2x the 30-35% industry average.
 
 ## Strategic Support
 
+* We’re good thought partners for general company strategy: thinking about product roadmaps, moat development, navigating against key competitors, etc. We've worked with 100+ companies across many sectors and business models and have a lot of hard-fought lessons that we can share.
 * We’ll provide feedback on your product, website, marketing copy, etc. whenever you want.
 * We can help with GTM design and strategy.
 * We’ll help you level up your product’s pricing.
-* We’re good thought partners for general company strategy: thinking about product roadmaps, moat development, navigating against key competitors, etc.
 
 ## Hiring Support
 
-* We help with sourcing whenever we meet a great candidate that could be a fit for your company.
+* We’ll help you close key candidates by getting on the phone with them and sharing why investors like us are excited about your company.
 * We can help with recruiting process design, job spec reviews, and comp benchmarking.
-* We’ll also help you close key candidates by getting on the phone with them and sharing why investors like us are excited about your company.
+* We help with sourcing whenever we meet a great candidate that could be a fit for your company.
 
 ## Network/intros
 
@@ -40,3 +40,5 @@ Below are some specific areas where we can help.
 
 * We have negotiated discounts with lots of service providers, and for commonly used tools (public clouds, ATS and CRM software, productivity tools, etc.)
 * We'll amplify your key announcements on social media, and we'll write a "Why We're Excited" blog post when you announce your funding round.
+* We are not an events-heavy fund, but occasionally run events with our sister fund, [Susa Ventures](https://susaventures.com/).
+* If you're not based in SF but are visiting, you can use the Susa/Humba office space in the Mission district.
