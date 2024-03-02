@@ -1,7 +1,7 @@
 <a href="#top"></a>
 ![Logo](humba_logo.png)
 
-[About](https://humbaventures.com/#about) &#124; [Team](https://humbaventures.com/#team) &#124; [Portfolio](https://humbaventures.com/#portfolio) &#124; [Working with Humba Ventures](https://humbaventures.com/#working-with-humba-ventures)
+[About](https://humbaventures.com/#about) &#124; [Team](https://humbaventures.com/#team) &#124; [Portfolio](https://humbaventures.com/#portfolio) &#124; [Working with Humba Ventures](https://humbaventures.com/support)
 
 ### ABOUT
 
@@ -73,38 +73,5 @@ Most of the companies below are in stealth mode, unless their homepage links are
 | 🤝 | Super app for solopreneurs that helps with payments, scheduling, marketing, and more. |
 | 🤝 | System of record for account managers. |
 | 🤝 | Telehealth dietician platform. ([Nourish](https://www.usenourish.com/){:target="_blank" rel="noopener"}) |
-
-<sub>[↑ back to top](#top)</sub>
-
-### WORKING WITH HUMBA VENTURES
-
-We try to do monthly syncs with every core check founder, and of course we’re always available ad hoc whenever anything urgent comes up.
-
-Our approach is to be actively helpful and supportive without being meddlesome or getting in the way. We're laid back and nonjudgmental -- whether things are going well or not, we're not going to add to your stress; we're just going to roll up our sleeves to help wherever we can.
-
-Areas where we can help:
-
-FUNDRAISING SUPPORT
-* We'll iterate on the deck content together, then introduce you to designers when the deck is ready for final touches.
-* We'll do pitch practice sessions together until you're comfortable with the pitch.
-* We'll introduce you to the best investors for you -- both the well known ones that everyone wants to talk to, and the under the radar investors that have deep experience in the category you're focused on.
- 
-STRATEGIC SUPPORT
-* We'll provide feedback on your product, website, marketing copy, etc. whenever you want.
-* We can help with GTM design and strategy.
-* We'll help you level up your product's pricing.
-* We're good thought partners for general company strategy: thinking about product roadmaps, moat development, navigating against key competitors, etc.
-
-HIRING SUPPORT
-* We help with sourcing whenever we meet a great candidate that could be a fit for your company.
-* We can help with recruiting process design, job spec reviews, and comp planning.
-* We'll also help you close candidates by getting on the phone with them and sharing why investors like us are excited about your company.
-
-NETWORK
-* We'll make intros to other founders, domain experts, functional experts, investors, and anyone else in our network that you want to talk to.
-* For b2b companies, we will help you reach early customers through our 1st and 2nd degree network.
-
-DISCOUNTS
-* We have discounts with lots of service providers, and for commonly used tools (public clouds, ATS and CRM software, productivity tools, etc.)
 
 <sub>[↑ back to top](#top)</sub>
