@@ -4,7 +4,7 @@
 
 [![Logo](../humba_logo.png)](https://humbaventures.com/)
 
-# Why Humba
+# Why Humba?
 
 * We have 2x the follow-on rate vs the industry average (~70% of companies we work with raise a follow-on round, vs. 30-35% for early stage startups in general)
 * Being part of the broader Susa Ventures fund family (~$800m AUM) gives us outsized resources: visiting expert speakers, negotiated service provider discounts, office space that you can use in SF if you're coming in from out of town, etc. Humba is $40m fund whose resources feel closer to those of a $100m+ fund.
