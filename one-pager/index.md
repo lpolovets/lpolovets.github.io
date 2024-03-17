@@ -7,7 +7,7 @@
 [Investing Style](https://humbaventures.com/one-pager#investing-pace-and-style) &#124; [Team](https://humbaventures.com/one-pager#investor-bios) &#124; [Focus Areas](https://humbaventures.com/one-pager#focus-areas) &#124; [Process](https://humbaventures.com/one-pager#process) &#124; [What We Look For](https://humbaventures.com/one-pager#what-we-look-for-in-potential-investments) &#124; [Ethics](https://humbaventures.com/one-pager#ethics)
 
 ### INVESTING PACE AND STYLE
-We make about ten $250k-750k investments each year. We participate in pre-seed and seed rounds, and can lead or co-lead smaller pre-seed rounds.
+We make about ten $250k-$1m investments each year. We participate in pre-seed and seed rounds, and can lead or co-lead smaller pre-seed rounds.
 
 When partnering with founders, we strive to be highly engaged but not meddlesome.
 
