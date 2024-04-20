@@ -69,7 +69,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 | 🧬 | Protein design using generative AI. |
 | 🛡️ | Search engine for geospatial data that targets defense & government use cases. ([Danti](https://danti.ai/){:target="_blank" rel="noopener"}) |
 | 🛡️ | Security middleware platform that gives users control and visibility over their security posture. ([LimaCharlie](https://limacharlie.io/){:target="_blank" rel="noopener"}) |
-| 🔋 | Site selection and permitting software for large cleantech projects. |
+| 🔋 | Site selection and permitting software for large cleantech projects. ([Blumen Systems](https://www.blumensystems.com/){:target="_blank" rel="noopener"})  |
 | 🤖 | Software infrastructure for robot arms. |
 | 🛡️ | Software platform that makes it easier for the US to share info with its allies in a faster, more secure way. |
 | 🤝 | Super app for solopreneurs that helps with payments, scheduling, marketing, and more. |
