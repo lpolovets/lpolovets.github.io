@@ -56,8 +56,8 @@ Most of the companies below are in stealth mode, unless their homepage links are
 | 🛡️ | Compliance and collaboration software for government primes and subcontractors. ([GovPort](https://www.govport.com/){:target="_blank" rel="noopener"}) |
 | 🤖 | Cybersecurity risk assessment and insurance platform. |
 | 🔋🤖 | Distributed network of balloon-based weather sensors. ([Windborne](https://windbornesystems.com/){:target="_blank" rel="noopener"}) |
-| 🔋🤖 | Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/){:target="_blank" rel="noopener"}) |
 | 🤖 | Fast, automated eye exam platform. |
+| 🔋🤖 | Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/){:target="_blank" rel="noopener"}) |
 | 🤖 | Hardware-based precision crop load management. ([Orchard Robotics](https://www.orchard-robotics.com/){:target="_blank" rel="noopener"}) |
 | 💰 | Highly efficient decentralized exchange. ([Ambient Finance](https://us.ambient.finance/){:target="_blank" rel="noopener"}) |
 | 🏫 | K-12 math practice software. |
