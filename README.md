@@ -56,6 +56,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 | 🤖🛡️ | Autonomous drone swarms for military applications. |
 | 🛡️ | Compliance and collaboration software for government primes and subcontractors. ([GovPort](https://www.govport.com/){:target="_blank" rel="noopener"}) |
 | 🤖 | Cybersecurity risk assessment and insurance platform. |
+| 🧬 | Data warehouse for genomic data. |
 | 🔋🤖 | Distributed network of balloon-based weather sensors. ([Windborne](https://windbornesystems.com/){:target="_blank" rel="noopener"}) |
 | 🤖 | Fast, automated eye exam platform. |
 | 🔋🤖 | Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/){:target="_blank" rel="noopener"}) |
@@ -66,6 +67,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 | 🚀 | Modern ground station network for satellites. ([Northwood Space](https://www.northwoodspace.io/){:target="_blank" rel="noopener"}) |
 | 🤝 | Next gen property management platform. |
 | 🔋🛡️ | Nuclear microreactors for defense applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"}) |
+| 🤖 | Next gen sawmills. |
 | 🧬 | Organoids for drug testing and drug development. |
 | 🧬 | Platform for designing and testing oncolytic viral therapies. |
 | 🧬 | Protein design using generative AI. |
