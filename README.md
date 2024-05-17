@@ -52,7 +52,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 | 🤖 | Adaptable ASRS (automated storage and retrieval system) for warehouses. |
 | 🔋 | Affordable, dispatchable baseload geothermal power. |
 | 🤖 | Automated wig manufacturing. |
-| 🤖 | Automation solutions for fish processing. |
+| 🤖 | Automation solutions for fish processing. ([Shinkei](https://www.shinkei.systems/){:target="_blank" rel="noopener"})|
 | 🤖🛡️ | Autonomous drone swarms for military applications. |
 | 🛡️ | Compliance and collaboration software for government primes and subcontractors. ([GovPort](https://www.govport.com/){:target="_blank" rel="noopener"}) |
 | 🤖 | Cybersecurity risk assessment and insurance platform. |
@@ -62,13 +62,13 @@ Most of the companies below are in stealth mode, unless their homepage links are
 | 🔋🤖 | Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/){:target="_blank" rel="noopener"}) |
 | 🤖 | Hardware-based precision crop load management. ([Orchard Robotics](https://www.orchard-robotics.com/){:target="_blank" rel="noopener"}) |
 | 💰 | Highly efficient decentralized exchange. ([Ambient Finance](https://us.ambient.finance/){:target="_blank" rel="noopener"}) |
-| 🏫 | K-12 math practice software. |
+| 🏫 | K-12 math practice software. ([Edia](https://edia.app/){:target="_blank" rel="noopener"})|
 | 🤖 | Marketplace for industrial components. ([Volition](https://www.govolition.com/){:target="_blank" rel="noopener"}) |
 | 🚀 | Modern ground station network for satellites. ([Northwood Space](https://www.northwoodspace.io/){:target="_blank" rel="noopener"}) |
 | 🤝 | Next gen property management platform. |
 | 🔋🛡️ | Nuclear microreactors for defense applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"}) |
 | 🤖 | Next gen sawmills. |
-| 🧬 | Organoids for drug testing and drug development. |
+| 🧬 | Organoids for drug testing and drug development. ([Parallel Bio](https://www.parallel.bio/){:target="_blank" rel="noopener"})|
 | 🧬 | Platform for designing and testing oncolytic viral therapies. |
 | 🧬 | Protein design using generative AI. |
 | 🛡️ | Search engine for geospatial data that targets defense & government use cases. ([Danti](https://danti.ai/){:target="_blank" rel="noopener"}) |
