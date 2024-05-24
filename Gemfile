@@ -1,1 +1,0 @@
-gem "empty-jekyll-theme"
