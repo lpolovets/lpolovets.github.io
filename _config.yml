@@ -2,3 +2,5 @@ name: Humba Ventures
 title: null
 description: Humba Ventures
 markdown: kramdown
+
+theme: empty-jekyll-theme
