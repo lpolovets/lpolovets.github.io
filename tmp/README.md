@@ -84,7 +84,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 
 #### Supportive checks
 
-(These were checks written early on between Humba's creation and the establishment of its focus on deep tech and American Dynamism.)
+_(These were checks written early on between Humba's creation and the establishment of its focus on deep tech and American Dynamism.)_
 
 🏢 Next gen property management platform.  
 📱 Super app for solopreneurs that helps with payments, scheduling, marketing, and more.  
