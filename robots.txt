@@ -3,5 +3,5 @@ Allow: /$
 Allow: /support
 Allow: /tmp
 Allow: /tmp/
-Allow: /humba_logo.png
+Allow: /twitter_card.png
 Disallow: /
