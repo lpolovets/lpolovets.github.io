@@ -1,7 +1,2 @@
 User-agent: *
-Allow: /$
-Allow: /support
-Allow: /tmp
-Allow: /tmp/
-Allow: /twitter_card.png
-Disallow: /
+Allow: *
