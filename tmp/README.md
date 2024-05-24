@@ -1,6 +1,5 @@
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@humbavc" />
-<meta name="twitter:title" content="Humba Ventures" />
 <meta name="twitter:image" content="https://humbaventures.com/twitter_card.png" />
 
 <a href="#top"></a>
