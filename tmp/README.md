@@ -36,56 +36,58 @@ Team's previous fund and angel investments: [CloudTrucks ($850m)](https://www.cl
 
 Most of the companies below are in stealth mode, unless their homepage links are included. Companies are listed in each theme that they fall into.
 
+
 #### Automation, robotics, and manufacturing
-* Autonomous drone swarms for military applications. 
-* 3D printer that can produce production-grade carbon fiber parts quickly and affordably. 
-* Adaptable ASRS (automated storage and retrieval system) for warehouses. 
-* Automated wig manufacturing. 
-* Automation solutions for fish processing. ([Shinkei](https://www.shinkei.systems/){:target="_blank" rel="noopener"})
-* Cybersecurity risk assessment and insurance platform. 
-* Distributed network of balloon-based weather sensors. ([Windborne](https://windbornesystems.com/){:target="_blank" rel="noopener"}) 
-* Fast, automated eye exam platform. 
-* Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/){:target="_blank" rel="noopener"}) 
-* Hardware-based precision crop load management. ([Orchard Robotics](https://www.orchard-robotics.com/){:target="_blank" rel="noopener"}) 
-* Marketplace for industrial components. ([Volition](https://www.govolition.com/){:target="_blank" rel="noopener"}) 
-* Next gen sawmills. 
-* Software infrastructure for robot arms. 
+🚁 Autonomous drone swarms for military applications. 
+🖨 3D printer that can produce production-grade carbon fiber parts quickly and affordably. 
+📦 Adaptable ASRS (automated storage and retrieval system) for warehouses. 
+🦱 Automated wig manufacturing. 
+🐟 Automation solutions for fish processing. ([Shinkei](https://www.shinkei.systems/){:target="_blank" rel="noopener"})
+🛡 Cybersecurity risk assessment and insurance platform. 
+🌦 Distributed network of balloon-based weather sensors. ([Windborne](https://windbornesystems.com/){:target="_blank" rel="noopener"}) 
+👓 Fast, automated eye exam platform. 
+🌲 Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/){:target="_blank" rel="noopener"}) 
+🍏 Hardware-based precision crop load management. ([Orchard Robotics](https://www.orchard-robotics.com/){:target="_blank" rel="noopener"}) 
+🔩 Marketplace for industrial components. ([Volition](https://www.govolition.com/){:target="_blank" rel="noopener"}) 
+🪚 Next gen sawmills. 
+🦾 Software infrastructure for robot arms. 
 
 #### Bio and Food
-* Automation solutions for fish processing. ([Shinkei](https://www.shinkei.systems/){:target="_blank" rel="noopener"})
-* Data warehouse for genomic data. 
-* Hardware-based precision crop load management. ([Orchard Robotics](https://www.orchard-robotics.com/){:target="_blank" rel="noopener"}) 
-* Organoids for drug testing and drug development. ([Parallel Bio](https://www.parallel.bio/){:target="_blank" rel="noopener"})
-* Platform for designing and testing oncolytic viral therapies. 
-* Protein design using generative AI. 
+🐟 Automation solutions for fish processing. ([Shinkei](https://www.shinkei.systems/){:target="_blank" rel="noopener"})
+🧬 Data warehouse for genomic data. 
+🍏 Hardware-based precision crop load management. ([Orchard Robotics](https://www.orchard-robotics.com/){:target="_blank" rel="noopener"}) 
+🫁 Organoids for drug testing and drug development. ([Parallel Bio](https://www.parallel.bio/){:target="_blank" rel="noopener"})
+🦠 Platform for designing and testing oncolytic viral therapies. 
+🧬 Protein design using generative AI. 
 
 #### Climate and energy
-* Affordable, dispatchable baseload geothermal power. 
-* Distributed network of balloon-based weather sensors. ([Windborne](https://windbornesystems.com/){:target="_blank" rel="noopener"}) 
-* Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/){:target="_blank" rel="noopener"}) 
-* Isotope enrichment for fission and fusion reactor fuels. 
-* Nuclear microreactors for defense applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"}) 
-* Site selection and permitting software for large cleantech projects. ([Blumen Systems](https://www.blumensystems.com/){:target="_blank" rel="noopener"})  
+🏭 Affordable, dispatchable baseload geothermal power. 
+🌦 Distributed network of balloon-based weather sensors. ([Windborne](https://windbornesystems.com/){:target="_blank" rel="noopener"}) 
+🌲 Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/){:target="_blank" rel="noopener"}) 
+⚛️ Isotope enrichment for fission and fusion reactor fuels. 
+🏭 Nuclear microreactors for defense applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"}) 
+📝 Site selection and permitting software for large cleantech projects. ([Blumen Systems](https://www.blumensystems.com/){:target="_blank" rel="noopener"})  
 
 #### Defense, government, and aerospace
-* Autonomous drone swarms for military applications. 
-* Compliance and collaboration software for government primes and subcontractors. ([GovPort](https://www.govport.com/){:target="_blank" rel="noopener"}) 
-* Modern ground station network for satellites. ([Northwood Space](https://www.northwoodspace.io/){:target="_blank" rel="noopener"}) 
-* Nuclear microreactors for defense applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"}) 
-* Search engine for geospatial data that targets defense & government use cases. ([Danti](https://danti.ai/){:target="_blank" rel="noopener"}) 
-* Security middleware platform that gives users control and visibility over their security posture. ([LimaCharlie](https://limacharlie.io/){:target="_blank" rel="noopener"}) 
-* Software platform that makes it easier for the US to share info with its allies in a faster, more secure way. 
+🚁 Autonomous drone swarms for military applications. 
+📝 Compliance and collaboration software for government primes and subcontractors. ([GovPort](https://www.govport.com/){:target="_blank" rel="noopener"}) 
+🛰 Modern ground station network for satellites. ([Northwood Space](https://www.northwoodspace.io/){:target="_blank" rel="noopener"}) 
+🏭 Nuclear microreactors for defense applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"}) 
+🌎 Search engine for geospatial data that targets defense & government use cases. ([Danti](https://danti.ai/){:target="_blank" rel="noopener"}) 
+🔒 Security middleware platform that gives users control and visibility over their security posture. ([LimaCharlie](https://limacharlie.io/){:target="_blank" rel="noopener"}) 
+🧑‍🤝‍🧑 Software platform that makes it easier for the US to share info with its allies in a faster, more secure way. 
 
 #### Other deep tech/American Dynamism areas
 
-* Highly efficient decentralized exchange. ([Ambient Finance](https://us.ambient.finance/){:target="_blank" rel="noopener"}) 
-* K-12 math practice software. ([Edia](https://edia.app/){:target="_blank" rel="noopener"})
+💱 Highly efficient decentralized exchange. ([Ambient Finance](https://us.ambient.finance/){:target="_blank" rel="noopener"}) 
+🏫 K-12 math practice software. ([Edia](https://edia.app/){:target="_blank" rel="noopener"})
 
 #### Supportive checks
-* Next gen property management platform. 
+
+🏢 Next gen property management platform. 
 * Super app for solopreneurs that helps with payments, scheduling, marketing, and more. 
-* System of record for account managers. 
-* Telehealth dietician platform. ([Nourish](https://www.usenourish.com/){:target="_blank" rel="noopener"}) 
+🧑‍💼️ System of record for account managers. 
+🥗 Telehealth dietician platform. ([Nourish](https://www.usenourish.com/){:target="_blank" rel="noopener"}) 
 
 
 
