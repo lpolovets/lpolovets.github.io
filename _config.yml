@@ -3,4 +3,6 @@ title: null
 description: Humba Ventures
 markdown: kramdown
 
-theme: empty-jekyll-theme
+remote_theme: garcon/empty-jekyll-theme
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
