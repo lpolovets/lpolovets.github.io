@@ -2,4 +2,6 @@ User-agent: *
 Allow: /$
 Allow: /support
 Allow: /tmp
+Allow: /tmp/
+Allow: /humba_logo.png
 Disallow: /
