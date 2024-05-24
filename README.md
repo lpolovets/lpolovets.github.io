@@ -56,7 +56,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🪚 Next gen sawmills.  
 🦾 Software infrastructure for robot arms.  
 
-#### Bio and Food
+#### Bio and food
 🐟 Automation solutions for fish processing. ([Shinkei](https://www.shinkei.systems/){:target="_blank" rel="noopener"})  
 🧬 Data warehouse for genomic data.  
 🍏 Hardware-based precision crop load management. ([Orchard Robotics](https://www.orchard-robotics.com/){:target="_blank" rel="noopener"})   
@@ -88,7 +88,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 
 #### Supportive checks
 
-_(These were checks written early on between Humba's creation and the establishment of its focus on deep tech and American Dynamism.)_
+_(These were checks written very early on, between Humba's creation and the establishment of its focus on deep tech and American Dynamism.)_
 
 🏢 Next gen property management platform.  
 📱 Super app for solopreneurs that helps with payments, scheduling, marketing, and more.  
