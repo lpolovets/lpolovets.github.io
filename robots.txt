@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /$
 Allow: /support
+Allow: /tmp
 Disallow: /
