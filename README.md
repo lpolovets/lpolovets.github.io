@@ -49,7 +49,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🐟 Automation solutions for fish processing. ([Shinkei](https://www.shinkei.systems/){:target="_blank" rel="noopener"})  
 🛡 Cybersecurity risk assessment and insurance platform.  
 🌦 Distributed network of balloon-based weather sensors. ([Windborne](https://windbornesystems.com/){:target="_blank" rel="noopener"})  
-👓 Fast, automated eye exam platform.  
+👓 Fast, automated eye exam platform. ([Eyebot](https://eyebot.co/){:target="_blank" rel="noopener"})  
 🌲 Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/){:target="_blank" rel="noopener"})  
 🍏 Hardware-based precision crop load management. ([Orchard Robotics](https://www.orchard-robotics.com/){:target="_blank" rel="noopener"})  
 🔩 Marketplace for industrial components. ([Volition](https://www.govolition.com/){:target="_blank" rel="noopener"})  
