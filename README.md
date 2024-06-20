@@ -47,7 +47,6 @@ Most of the companies below are in stealth mode, unless their homepage links are
 📦 Adaptable ASRS (automated storage and retrieval system) for warehouses.  
 🦱 Automated wig manufacturing.  
 🐟 Automation solutions for fish processing. ([Shinkei](https://www.shinkei.systems/){:target="_blank" rel="noopener"})  
-🛡 Cybersecurity risk assessment and insurance platform.  
 🌦 Distributed network of balloon-based weather sensors. ([Windborne](https://windbornesystems.com/){:target="_blank" rel="noopener"})  
 👓 Fast, automated eye exam platform. ([Eyebot](https://eyebot.co/){:target="_blank" rel="noopener"})  
 🌲 Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/){:target="_blank" rel="noopener"})  
@@ -62,7 +61,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🍏 Hardware-based precision crop load management. ([Orchard Robotics](https://www.orchard-robotics.com/){:target="_blank" rel="noopener"})   
 🫁 Organoids for drug testing and drug development. ([Parallel Bio](https://www.parallel.bio/){:target="_blank" rel="noopener"})  
 🦠 Platform for designing and testing oncolytic viral therapies.   
-🧬 Protein design using generative AI.  
+🧬 Protein design using generative AI. ([Diffuse Bio](https://www.diffuse.bio/){:target="_blank" rel="noopener"})  
 
 #### Climate and energy
 🏭 Affordable, dispatchable baseload geothermal power.  
@@ -72,11 +71,12 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🏭 Nuclear microreactors for defense applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"})  
 📝 Site selection and permitting software for large cleantech projects. ([Blumen Systems](https://www.blumensystems.com/){:target="_blank" rel="noopener"})    
 
-#### Defense, government, and aerospace
+#### Defense (including govtech and cybersecurity) and Aerospace
 🚁 Autonomous drone swarms for military applications.  
 📝 Compliance and collaboration software for government primes and subcontractors. ([GovPort](https://www.govport.com/){:target="_blank" rel="noopener"})  
+🛡 Cybersecurity risk assessment and insurance platform.  
 🛰 Modern ground station network for satellites. ([Northwood Space](https://www.northwoodspace.io/){:target="_blank" rel="noopener"})  
-🏭 Nuclear microreactors for defense applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"})  
+🏭 Nuclear microreactors for defense and space applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"})  
 🌎 Search engine for geospatial data that targets defense & government use cases. ([Danti](https://danti.ai/){:target="_blank" rel="noopener"})  
 🔒 Security middleware platform that gives users control and visibility over their security posture. ([LimaCharlie](https://limacharlie.io/){:target="_blank" rel="noopener"})  
 🧑‍🤝‍🧑 Software platform that makes it easier for the US to share info with its allies in a faster, more secure way.  
@@ -92,7 +92,7 @@ _(These were checks written very early on, between Humba's creation and the esta
 
 🏢 Next gen property management platform.  
 📱 Super app for solopreneurs that helps with payments, scheduling, marketing, and more.  
-🧑‍💼️ System of record for account managers.  
+🧑‍💼️ System of record for account managers.  ([Callypso](https://www.callypso.co/){:target="_blank" rel="noopener"})  
 🥗 Telehealth dietician platform. ([Nourish](https://www.usenourish.com/){:target="_blank" rel="noopener"})  
 
 <sub>[↑ back to top](#top)</sub>
