@@ -33,8 +33,9 @@ Team's previous fund and angel investments: [CloudTrucks ($850m)](https://www.cl
 - climate and energy
 - robotics and manufacturing
 - defense and cybersecurity
+- bio and agtech
 
-We're open-minded and have invested in other areas like AI-enabled drug discovery and decentralized exchanges.
+We're open-minded and have spent time in areas like mining, BCIs, space, and so on.
 
 <sub>[↑ back to top](#top)</sub>
 
