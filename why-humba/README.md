@@ -6,7 +6,7 @@
 
 # Why Humba?
 
-_TLDR: engaged, low-friction support; highly effective follow-on funding help; the perpsective of a technical investor w/10+ years of VC experience; significant discounts across numerous software and service providers; and access to our SF office space if you're visiting from out of town._
+_TLDR: engaged, low-friction support; highly effective follow-on funding help; the perspective of a technical investor w/10+ years of VC experience; significant discounts across numerous software and service providers; and access to our SF office space if you're visiting from out of town._
 
 * We have 2x the follow-on rate vs. the industry average (~70% of companies we work with raise a follow-on round, vs. 30-35% for early-stage startups in general)
 * Being part of the broader Susa Ventures fund family (~$800m AUM) allows us to offer outsized resources: online talks from expert speakers, negotiated software and service provider discounts, office space that you can use in SF if you're coming in from out of town, etc. Humba's check size is that of a $40m fund, but our resources are similar to those of a $100m+ fund.
