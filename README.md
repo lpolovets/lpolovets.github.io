@@ -5,7 +5,7 @@
 <a href="#top"></a>
 ![Logo](humba_logo.png)
 
-[About](https://humbaventures.com/#about) &#124; [Team](https://humbaventures.com/#team) &#124; [Portfolio](https://humbaventures.com/#portfolio) &#124; [Working with Humba](https://humbaventures.com/support) &#124; [Jobs at Humba Companies](https://jobs.humbaventures.com/jobs)
+[About](https://humbaventures.com/#about) &#124; [Team](https://humbaventures.com/#team) &#124; [Portfolio](https://humbaventures.com/#portfolio) &#124; [Working with Humba](https://humbaventures.com/support) &#124; [Jobs at Humba Companies](https://jobs.humbaventures.com/jobs){:target="_blank" rel="noopener"}
 
 ### ABOUT
 
