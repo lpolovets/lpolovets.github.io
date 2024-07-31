@@ -44,7 +44,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 #### Automation, robotics, and manufacturing
 🚁 Autonomous drone swarms for military applications.  
 🖨 3D printer that can produce production-grade carbon fiber parts quickly and affordably.  
-📦 Adaptable ASRS (automated storage and retrieval system) for warehouses.  
+📦 Adaptable ASRS (automated storage and retrieval system) for warehouses. ([Mytra](https://mytra.ai/){:target="_blank" rel="noopener"})   
 🦱 Automated wig manufacturing.  
 🐟 Automation solutions for fish processing. ([Shinkei](https://www.shinkei.systems/){:target="_blank" rel="noopener"})  
 🌦 Distributed network of balloon-based weather sensors. ([Windborne](https://windbornesystems.com/){:target="_blank" rel="noopener"})  
