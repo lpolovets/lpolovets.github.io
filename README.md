@@ -32,7 +32,7 @@ Pratyush ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.
 - Early employee at a crypto gaming company and Chief of Staff at Volley (YC-backed voice gaming startup)
 
 
-Team's previous fund and angel investments: [CloudTrucks ($850m)](https://www.cloudtrucks.com/){:target="_blank" rel="noopener"}, [Dusty Robotics (🤫)](https://www.dustyrobotics.com/){:target="_blank" rel="noopener"}, [Hightouch ($615m)](https://hightouch.com/){:target="_blank" rel="noopener"}, [Mashgin ($1.5b)](https://www.mashgin.com/){:target="_blank" rel="noopener"}, [Placer ($1b)](https://www.placer.ai/){:target="_blank" rel="noopener"}, [Scalyr (acquired)](https://www.dataset.com/){:target="_blank" rel="noopener"}, [Veho ($1.5b)](https://shipveho.com/){:target="_blank" rel="noopener"}, [Vetcove (🤫)](https://www.vetcove.com/){:target="_blank" rel="noopener"}.
+Team's previous fund and angel investments: [CloudTrucks ($850m)](https://www.cloudtrucks.com/){:target="_blank" rel="noopener"}, [Dusty Robotics (🤫)](https://www.dustyrobotics.com/){:target="_blank" rel="noopener"}, [Hightouch ($615m)](https://hightouch.com/){:target="_blank" rel="noopener"}, [Mashgin ($1.5b)](https://www.mashgin.com/){:target="_blank" rel="noopener"}, [Placer ($1.5b)](https://www.placer.ai/){:target="_blank" rel="noopener"}, [Scalyr (acquired)](https://www.dataset.com/){:target="_blank" rel="noopener"}, [Veho ($1.5b)](https://shipveho.com/){:target="_blank" rel="noopener"}, [Vetcove (🤫)](https://www.vetcove.com/){:target="_blank" rel="noopener"}.
 
 <sub>[↑ back to top](#top)</sub>
 
