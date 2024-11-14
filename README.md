@@ -19,14 +19,17 @@ We bring over a decade of institutional VC experience developed through supporti
 
 ### TEAM
 
-Humba is principally run by Leo Polovets and Pratyush Buddiga, with support from the larger Susa team.
-
 Leo ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/lpolovets/){:target="_blank" rel="noopener"} [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/lpolovets){:target="_blank" rel="noopener"} [blog](https://www.codingvc.com){:target="_blank" rel="noopener"})
 - Numerous Top 100 finishes in national math, programming, and science competitions in high school and college.
 - 10 years of software eng experience: 2nd engineering hire at LinkedIn, 3 years at Google working on payment fraud detection, 4 years at Factual working on data cleaning and deduping software.
 - Co-founded Susa Ventures ($500m+ AUM, seed investor in companies like Robinhood, Flexport, Mux, Expanse, Mashgin, and Andela)
 
-Pratyush ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/pratyush-buddiga-9238b4156/){:target="_blank" rel="noopener"} [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/pratyushbuddiga){:target="_blank" rel="noopener"} [blog](https://pratyushbuddiga.substack.com/){:target="_blank" rel="noopener"})
+Anna-Sofia ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/anna-sofia-lesiv/){:target="_blank" rel="noopener"} [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/annasofialesiv){:target="_blank" rel="noopener"} [blog](https://www.contrary.com/foundations-and-frontiers){:target="_blank" rel="noopener"})
+- Author behind [Foundations & Frontiers](https://www.contrary.com/foundations-and-frontiers){:target="_blank" rel="noopener"} at Contrary Capital
+- Previously at 8VC, Founders Fund and Bridgewater
+- Executive Editor of the Stanford Daily
+  
+Pratyush (part-time [<img src="../linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/pratyush-buddiga-9238b4156/){:target="_blank" rel="noopener"} [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/pratyushbuddiga){:target="_blank" rel="noopener"} [blog](https://pratyushbuddiga.substack.com/){:target="_blank" rel="noopener"})
 - Won US Spelling Bee.
 - Professional poker player for 6 years, reaching \#2 in the world for tournament play.
 - Early employee at a crypto gaming company and Chief of Staff at Volley (YC-backed voice gaming startup)
@@ -72,7 +75,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🌦 Distributed network of balloon-based weather sensors. ([Windborne](https://windbornesystems.com/){:target="_blank" rel="noopener"})  
 🌲 Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/){:target="_blank" rel="noopener"})  
 ⚛️ Isotope enrichment for fission and fusion reactor fuels.  
-🏭 Nuclear microreactors for defense applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"})  
+🏭 Nuclear microreactors for defense and space applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"})  
 📝 Site selection and permitting software for large cleantech projects. ([Blumen Systems](https://www.blumensystems.com/){:target="_blank" rel="noopener"})    
 
 #### Defense (including govtech and cybersecurity) and Aerospace
