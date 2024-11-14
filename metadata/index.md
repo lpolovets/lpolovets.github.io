@@ -17,7 +17,7 @@ When partnering with founders, we strive to be highly engaged but not meddlesome
 Leo ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/lpolovets/){:target="_blank" rel="noopener"} [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/lpolovets){:target="_blank" rel="noopener"} [blog](https://www.codingvc.com){:target="_blank" rel="noopener"})
 - Numerous Top 100 finishes in national math, programming, and science competitions in high school and college.
 - 10 years of software eng experience: 2nd engineering hire at LinkedIn, 3 years at Google working on payment fraud detection, 4 years at Factual working on data cleaning and deduping software.
-- Co-founded Susa Ventures ($500m+ AUM, seed investor in companies like Robinhood, Flexport, Mux, Expanse, Mashgin, and Andela)
+- Co-founded Susa Ventures ($750m+ AUM, seed investor in companies like Robinhood, Flexport, Mux, Expanse, Mashgin, and Andela)
 
 Anna-Sofia ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/anna-sofia-lesiv/){:target="_blank" rel="noopener"} [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/annasofialesiv){:target="_blank" rel="noopener"} [blog](https://www.contrary.com/foundations-and-frontiers){:target="_blank" rel="noopener"})
 - Author behind [Foundations & Frontiers](https://www.contrary.com/foundations-and-frontiers){:target="_blank" rel="noopener"} at Contrary Capital
