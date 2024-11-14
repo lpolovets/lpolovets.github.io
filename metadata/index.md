@@ -19,7 +19,12 @@ Leo ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linke
 - 10 years of software eng experience: 2nd engineering hire at LinkedIn, 3 years at Google working on payment fraud detection, 4 years at Factual working on data cleaning and deduping software.
 - Co-founded Susa Ventures ($500m+ AUM, seed investor in companies like Robinhood, Flexport, Mux, Expanse, Mashgin, and Andela)
 
-Pratyush ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/pratyush-buddiga-9238b4156/){:target="_blank" rel="noopener"} [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/pratyushbuddiga){:target="_blank" rel="noopener"} [blog](https://pratyushbuddiga.substack.com/){:target="_blank" rel="noopener"})
+Anna-Sofia ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/anna-sofia-lesiv/){:target="_blank" rel="noopener"} [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/annasofialesiv){:target="_blank" rel="noopener"} [blog](https://www.contrary.com/foundations-and-frontiers){:target="_blank" rel="noopener"})
+- Author behind [Foundations & Frontiers](https://www.contrary.com/foundations-and-frontiers){:target="_blank" rel="noopener"} at Contrary Capital
+- Previously at 8VC, Founders Fund and Bridgewater
+- Executive Editor of the Stanford Daily
+  
+Pratyush (part-time [<img src="../linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/pratyush-buddiga-9238b4156/){:target="_blank" rel="noopener"} [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/pratyushbuddiga){:target="_blank" rel="noopener"} [blog](https://pratyushbuddiga.substack.com/){:target="_blank" rel="noopener"})
 - Won US Spelling Bee.
 - Professional poker player for 6 years, reaching \#2 in the world for tournament play.
 - Early employee at a crypto gaming company and Chief of Staff at Volley (YC-backed voice gaming startup)
