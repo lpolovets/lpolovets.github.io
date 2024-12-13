@@ -61,9 +61,9 @@ Most of the companies below are in stealth mode, unless their homepage links are
 
 #### Bio and food
 🐟 Automation solutions for fish processing. ([Shinkei](https://www.shinkei.systems/){:target="_blank" rel="noopener"})  
-⚕️ Hardware device for continuous biomarker monitoring.  
 🖥️ Data warehouse for genomic data.  
 🍏 Hardware-based precision crop load management. ([Orchard Robotics](https://www.orchard-robotics.com/){:target="_blank" rel="noopener"})   
+⚕️ Hardware device for continuous biomarker monitoring.  
 🧪 mRNA sequence optimization that enables more mRNA therapeutics.  
 👶 Oogenesis and in vitro maturation platform.  
 🫁 Organoids for drug testing and drug development. ([Parallel Bio](https://www.parallel.bio/){:target="_blank" rel="noopener"})  
