@@ -56,7 +56,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🍏 Hardware-based precision crop load management. ([Orchard Robotics](https://www.orchard-robotics.com/){:target="_blank" rel="noopener"})  
 ☕ Intelligent beverage dispenser for coffee shops and restaurants.  
 🔩 Marketplace for industrial components. ([Volition](https://www.govolition.com/){:target="_blank" rel="noopener"})  
-🏭 Modern OS for manufacturing companies.
+🏭 Modern OS for manufacturing companies.  
 🪚 Next gen sawmills. ([The Lumber Manufactory](https://www.lumbermanufactory.com/){:target="_blank" rel="noopener"})    
 🦾 Software infrastructure for robot arms. ([Jacobi Robotics](https://jacobirobotics.com/){:target="_blank" rel="noopener"})  
 
