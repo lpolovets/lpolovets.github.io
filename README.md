@@ -71,7 +71,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 👶 Oogenesis and in vitro maturation platform.  
 🫁 Organoids for drug testing and drug development. ([Parallel Bio](https://www.parallel.bio/){:target="_blank" rel="noopener"})  
 📡 Platform for activating desirable cytokine signals in specific cell types.  
-🦠 Platform for designing and testing oncolytic viral therapies.   
+🦠 Platform for designing and testing oncolytic viral therapies.  ([Humane Genomics](https://humanegenomics.com/){:target="_blank" rel="noopener"})  
 🧬 Protein design using generative AI. ([Diffuse Bio](https://www.diffuse.bio/){:target="_blank" rel="noopener"})  
 🧠 Restoration of neural circuits and reversal of neurodegeneration.
 
@@ -89,9 +89,9 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🛡 Cybersecurity risk assessment and insurance platform.  
 🛰 Modern ground station network for satellites. ([Northwood Space](https://www.northwoodspace.io/){:target="_blank" rel="noopener"})  
 🏭 Nuclear microreactors for defense and space applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"})  
+🧑‍🤝‍🧑 Paperwork automation and easier compliance for defense and government applications.  ([Conductor AI](https://www.conductorai.co/){:target="_blank" rel="noopener"})  
 🌎 Search engine for geospatial data that targets defense & government use cases. ([Danti](https://danti.ai/){:target="_blank" rel="noopener"})  
 🔒 Security middleware platform that gives users control and visibility over their security posture. ([LimaCharlie](https://limacharlie.io/){:target="_blank" rel="noopener"})  
-🧑‍🤝‍🧑 Software platform that makes it easier for the US to share info with its allies in a faster, more secure way.  
 
 #### Other deep tech/American Dynamism areas
 
