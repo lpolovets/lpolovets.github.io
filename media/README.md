@@ -1,3 +1,5 @@
+All of these logos are transparent background .png files.
+
 (click on the links to see high res versions of logos)
 
 [logo, black](logo-black.png)
