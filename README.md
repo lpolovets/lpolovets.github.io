@@ -50,6 +50,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 📦 Adaptable ASRS (automated storage and retrieval system) for warehouses. ([Mytra](https://mytra.ai/){:target="_blank" rel="noopener"})   
 🦱 Automated wig manufacturing.  
 🐟 Automation solutions for fish processing. ([Shinkei](https://www.shinkei.systems/){:target="_blank" rel="noopener"})  
+📐 Automation of design for manufacturing.  
 🌦 Distributed network of balloon-based weather sensors. ([Windborne](https://windbornesystems.com/){:target="_blank" rel="noopener"})  
 👓 Fast, automated eye exam platform. ([Eyebot](https://eyebot.co/){:target="_blank" rel="noopener"})  
 🌲 Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/){:target="_blank" rel="noopener"})  
@@ -65,6 +66,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🖥️ Data warehouse for genomic data.  
 🍏 Hardware-based precision crop load management. ([Orchard Robotics](https://www.orchard-robotics.com/){:target="_blank" rel="noopener"})   
 ⚕️ Hardware device for continuous biomarker monitoring.  
+🧶 Luxurious synthetic fibers made from natural waste by-products.  
 🧪 mRNA sequence optimization that enables more mRNA therapeutics.  
 👶 Oogenesis and in vitro maturation platform.  
 🫁 Organoids for drug testing and drug development. ([Parallel Bio](https://www.parallel.bio/){:target="_blank" rel="noopener"})  
