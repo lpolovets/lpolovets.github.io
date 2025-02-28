@@ -38,7 +38,7 @@
 
 [logo+logotype, white, horizontal](logo-logotype-white-horizontal.png)
 
-<img src="logo-logotype-white-horizontal.png" width="300">
+<img src="logo-logotype-white-horizontal.png" width="300" style="background-color:black;">
 
 ---
 
