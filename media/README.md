@@ -36,6 +36,12 @@
 
 ---
 
+[logo+logotype, white, horizontal](logo-logotype-white-horizontal.png)
+
+<img src="logo-logotype-white-horizontal.png" width="300">
+
+---
+
 [logo+logotype, black, vertical](logo-logotype-black-vertical.png)
 
 <img src="logo-logotype-black-vertical.png" width="300">
