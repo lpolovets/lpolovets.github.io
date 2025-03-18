@@ -45,11 +45,11 @@ We're open-minded and have spent time in areas like mining, BCIs, space, and so 
 <sub>[↑ back to top](#top)</sub>
 
 ### PROCESS
-Our process is typically 3-4 meetings. You'll meet with Leo and/or Anna for the first 1-2 meetings, and with both of us for the last 1-2 meetings. Our preferred meeting length is 45 minutes -- it's less rushed than 30 minutes, and a good chance for both sides to ask any questions we have.
+Our process is typically 3-4 meetings. You'll meet with Leo and/or Anna for the first 1-2 meetings, and with both of us for the last 1-2 meetings. Our preferred meeting length is 45 minutes -- it's less rushed than 30 minutes, and a good chance for both sides to ask questions.
 
 In parallel, if we know domain experts or potential customers that are especially relevant to your business, we'll introduce you to them during the due diligence process.
 
-If you have a referenceable customer or LOI that we can chat with for 15 minutes, we'd love to do that as the very final step of our process.
+Finally, if you have a referenceable customer or LOI that we can chat with for 15 minutes, we'd love to do that as the very final step of our process.
 
 A typical diligence timeline is 2-3 weeks.
 
