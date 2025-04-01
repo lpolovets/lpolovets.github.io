@@ -7,7 +7,7 @@
 
 
 We've been investing in deep tech for a few years, but it's too hard and tbh we're tired. It's clear to us that the market has spoken:
-<p style="text-align:center;"><img src="fetch.jpeg" width="500"></p>
+<p style="text-align:center;"><img src="fetch.jpeg" width="100%"></p>
 
 It's clear to us that AI-generated companies are the future, and so we're going all in and renaming our fund to Slop Ventures. (Our motto: "we'll put as much time and effort into your company as you do!")
 
