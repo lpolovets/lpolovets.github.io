@@ -24,3 +24,5 @@ To make this more concrete, here's our new investing critera:
 Other VCs invest in priced rounds or on notes with a discount to the next round, but we think those models are antiquated. That's why we only invest on notes with a _premium_ to the next round. AGI is going to lead to explosive growth, and our entry prices should relfect that.
 
 If your fit our new criteria and find our investment offer attractive, please have your AI agent reach out to our AI agent. They'll know what that means.
+
+Finally, if for some reason you're interested in reading about our historical investment areas, you can find them archived [here](https://humbaventures.com/).
