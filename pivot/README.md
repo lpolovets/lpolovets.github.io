@@ -9,9 +9,7 @@
 We've been investing in deep tech for a few years, but it's too hard and tbh we're tired. It's clear to us that the market has spoken:
 <p style="text-align:center;"><img src="fetch.jpeg" width="500"></p>
 
-So, we're excited to announce Humba Ventures' new AI^2 initiative!
-
-We are **A**ll-**I**n on **AI**!
+It's clear to us that AI-generated companies are the future, and so we're going all in and renaming our fund to Slop Ventures. (Working tagline: "we'll put as much time and effort into your company as you do!")
 
 Here's our new investing criteria:
 1. **Is your company less than 3 weeks old but wildly profitable?** (If you're not wildly profitable, maybe venture capital funding is not for you.)
