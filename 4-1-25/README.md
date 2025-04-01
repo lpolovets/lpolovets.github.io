@@ -6,7 +6,7 @@
 ![Logo](../humba_logo.png)
 
 
-We're excited to announce our pivot from deep tech to shallow tech! We've been [beating](https://www.codingvc.com/p/betting-on-deep-tech) the [drum](https://www.codingvc.com/p/the-golden-age-of-deep-tech) for deep tech for the last few years, and tbh we're tired. It takes a lot of work to build [nuclear microreactors](https://antaresindustries.com/) or [organoids that accelerate drug testing](https://www.parallel.bio/) or [multistory warehouse robotics solutions](https://mytra.ai/) when you can build and launch a product with a prompt that's shorter than this paragraph.
+We're excited to announce our pivot from deep tech to shallow tech! We've been [beating](https://www.codingvc.com/p/betting-on-deep-tech){:target="_blank" rel="noopener"} the [drum](https://www.codingvc.com/p/the-golden-age-of-deep-tech){:target="_blank" rel="noopener"} for deep tech for the last few years, and tbh we're tired. It takes a lot of work to build [nuclear microreactors](https://antaresindustries.com/){:target="_blank" rel="noopener"} or [organoids that accelerate drug testing](https://www.parallel.bio/){:target="_blank" rel="noopener"} or [multistory warehouse robotics solutions](https://mytra.ai/){:target="_blank" rel="noopener"}, and why should we invest in those areas when we can back products launched with prompts shorter than this paragraph?
 
 It's clear to us that the market has spoken:
 <p style="text-align:center;"><img src="fetch.jpeg" width="500"></p>
