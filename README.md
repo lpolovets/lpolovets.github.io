@@ -66,8 +66,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🖥️ Data warehouse for genomic data.  
 🍏 Hardware-based precision crop load management. ([Orchard Robotics](https://www.orchard-robotics.com/){:target="_blank" rel="noopener"})   
 ⚕️ Hardware device for continuous biomarker monitoring.  
-🧶 Luxurious synthetic fibers made from natural waste by-products.  
-🧪 mRNA sequence optimization that enables more mRNA therapeutics.  
+🧪 mRNA sequence optimization that enables more mRNA therapeutics. ([Kerna Labs](https://kernalabs.ai/){:target="_blank" rel="noopener"})    
 👶 Oogenesis and in vitro maturation platform.  
 🫁 Organoids for drug testing and drug development. ([Parallel Bio](https://www.parallel.bio/){:target="_blank" rel="noopener"})  
 📡 Platform for activating desirable cytokine signals in specific cell types.  
@@ -102,8 +101,8 @@ Most of the companies below are in stealth mode, unless their homepage links are
 
 _(These were checks written very early on, between Humba's creation and the establishment of its focus on deep tech and American Dynamism.)_
 
+📱 AI Agents for workflow automation ([Glade](https://www.glade.ai/){:target="_blank" rel="noopener"})    
 🏢 Next gen property management platform.  
-📱 Super app for solopreneurs that helps with payments, scheduling, marketing, and more.  
 🧑‍💼️ System of record for account managers.  ([Callypso](https://www.callypso.co/){:target="_blank" rel="noopener"})  
 🥗 Telehealth dietician platform. ([Nourish](https://www.usenourish.com/){:target="_blank" rel="noopener"})  
 
