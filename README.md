@@ -81,6 +81,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 ⚛️ Isotope enrichment for fission and fusion reactor fuels.  
 🏭 Nuclear microreactors for defense and space applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"})  
 📝 Site selection and permitting software for large cleantech projects. ([Blumen Systems](https://www.blumensystems.com/){:target="_blank" rel="noopener"})    
+🔋 Solid state commercial=scale hydrogen batteries.  
 
 #### Defense (including govtech and cybersecurity) and Aerospace
 🚁 Autonomous drone swarms for military applications.  
