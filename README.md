@@ -84,6 +84,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🔋 Solid state commercial-scale hydrogen batteries.  
 
 #### Defense (including govtech and cybersecurity) and Aerospace
+📑 AI-enabled finance, compliance, and workforce solutions for defense companies.  
 🚁 Autonomous drone swarms for military applications.  
 📝 Compliance and collaboration software for government primes and subcontractors. ([GovPort](https://www.govport.com/){:target="_blank" rel="noopener"})  
 🛡 Cybersecurity risk assessment and insurance platform.  
