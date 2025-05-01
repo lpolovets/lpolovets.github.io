@@ -80,6 +80,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🌲 Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/){:target="_blank" rel="noopener"})  
 ⚛️ Isotope enrichment for fission and fusion reactor fuels. ([Hexium](https://www.hexium.us/){:target="_blank" rel="noopener"})  
 🏭 Nuclear microreactors for defense and space applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"})  
+♻️ Pre-treatment process for extracting and refining critical battery elements.  
 📝 Site selection and permitting software for large cleantech projects. ([Blumen Systems](https://www.blumensystems.com/){:target="_blank" rel="noopener"})    
 🔋 Solid state commercial-scale hydrogen batteries.  
 
