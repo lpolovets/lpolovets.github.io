@@ -20,7 +20,7 @@ Leo ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linke
 - Co-founded Susa Ventures ($750m+ AUM, seed investor in companies like Robinhood, Flexport, Mux, Expanse, Mashgin, and Andela)
 
 Anna-Sofia ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/anna-sofia-lesiv/){:target="_blank" rel="noopener"} [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/annasofialesiv){:target="_blank" rel="noopener"} [blog](https://www.contrary.com/foundations-and-frontiers){:target="_blank" rel="noopener"})
-- Author behind [Foundations & Frontiers](https://www.contrary.com/foundations-and-frontiers){:target="_blank" rel="noopener"} at Contrary Capital
+- Author behind [Foundations & Frontiers](https://www.contrary.com/foundations-and-frontiers){:target="_blank" rel="noopener"} at Contrary Capital and Humba's new [How It's Built](https://blog.humbaventures.com/s/how-its-built){:target="_blank" rel="noopener"} series.
 - Previously at 8VC, Founders Fund and Bridgewater
 - Executive Editor of the Stanford Daily
   
