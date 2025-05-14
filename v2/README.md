@@ -3,7 +3,7 @@
 <meta name="twitter:image" content="https://humbaventures.com/twitter_card.png" />
 
 <a href="#top"></a>
-![Logo](humba_logo.png)
+![Logo](../humba_logo.png)
 
 ## We invest in hard tech and hard sectors
 
