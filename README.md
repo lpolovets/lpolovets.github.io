@@ -57,6 +57,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🍏 Hardware-based precision crop load management. ([Orchard Robotics](https://www.orchard-robotics.com/){:target="_blank" rel="noopener"})  
 ☕ Intelligent beverage dispenser for coffee shops and restaurants. ([Sidework](https://www.sidework.co/){:target="_blank" rel="noopener"})  
 🔩 Marketplace for industrial components. ([Volition](https://www.govolition.com/){:target="_blank" rel="noopener"})  
+💉 MRI-guided high precision brain surgery  
 🏭 Modern OS for manufacturing companies. ([Heliux](https://www.heliux.com/){:target="_blank" rel="noopener"})  
 🪚 Next gen sawmills. ([The Lumber Manufactory](https://www.lumbermanufactory.com/){:target="_blank" rel="noopener"})    
 🦾 Software infrastructure for robot arms. ([Jacobi Robotics](https://jacobirobotics.com/){:target="_blank" rel="noopener"})  
@@ -66,6 +67,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🖥️ Data warehouse for genomic data.  
 🍏 Hardware-based precision crop load management. ([Orchard Robotics](https://www.orchard-robotics.com/){:target="_blank" rel="noopener"})   
 ⚕️ Hardware device for continuous biomarker monitoring.  
+💉 MRI-guided high precision brain surgery  
 🧪 mRNA sequence optimization that enables more mRNA therapeutics. ([Kerna Labs](https://kernalabs.ai/){:target="_blank" rel="noopener"})    
 👶 Oogenesis and in vitro maturation platform.  
 🫁 Organoids for drug testing and drug development. ([Parallel Bio](https://www.parallel.bio/){:target="_blank" rel="noopener"})  
