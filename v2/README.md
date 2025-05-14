@@ -9,7 +9,7 @@
 
 #### Nuclear reactor. Organoids sawmills. Drone swarms. Surgical robots. Farm automation. 3d printers. Industrial scale batteries. IVF 2.0.
 
-#### _The 21st century is going to be amazing_.
+#### **The 21st century is going to be amazing.**
 
 We're hyper curious and love ambitious founders and ideas. If you're building something valuable and hard, and that very few people in the world can build, then we want to work with you.
 
