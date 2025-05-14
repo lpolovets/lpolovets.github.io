@@ -7,7 +7,7 @@
 
 ## We invest in hard tech and hard sectors
 
-#### Nuclear reactor. Organoids sawmills. Drone swarms. Surgical robots. Farm automation. 3d printers. Industrial scale batteries. IVF 2.0.
+#### Nuclear reactors. Organoids. Next gen sawmills. Drone swarms. Surgical robots. Farm automation. 3d printers. Industrial scale batteries. IVF 2.0.
 
 #### **The 21st century is going to be amazing.**
 
