@@ -9,9 +9,23 @@
 
 ### We invest in hard tech and hard sectors. 
 
+☢️ Nuclear reactors<br>
+🫀 Organoids and improved IVF<br>
+🪚 Next gen sawmills<br>
+✈️ Drone swarms<br>
+🦾 Surgical robots<br>
+🔋 Industrial scale batteries<br>
+
+We've backed all of these, and plenty more that don't fit into neat categories.
+
+**We're hyper curious**; drawn to difficult, underexplored areas; and always up for a deep dive.
+
+Unlocking society's potential **depends on founders willing to build what others won't**.
+
+If **you're building something valuable that others can't**, we want to work with you.
+
 We've backed teams building nuclear reactors, organoids, next gen sawmills, drone swarms, surgical robots, farm automation, 3D printers, industrial scale batteries, improved IVF, and plenty more that doesn't fit into neat categories.
 
-We're hyper curious; drawn to difficult, underexplored areas; and always up for a deep dive. This century holds more potential than any before, but unlocking it depends on founders willing to build what others won't. If you're building something valuable that others can't, we want to work with you.
 
 ### While you build, we back you with:
 
