@@ -16,16 +16,13 @@
 🦾 Surgical robots<br>
 🔋 Industrial scale batteries<br>
 
-We've backed all of these, and plenty more that don't fit into neat categories.
+We've backed all of these, and plenty more companies that don't fit into neat categories.
 
 **We're hyper curious**; drawn to difficult, underexplored areas; and always up for a deep dive.
 
 Unlocking society's potential **depends on founders willing to build what others won't**.
 
 If **you're building something valuable that others can't**, we want to work with you.
-
-We've backed teams building nuclear reactors, organoids, next gen sawmills, drone swarms, surgical robots, farm automation, 3D printers, industrial scale batteries, improved IVF, and plenty more that doesn't fit into neat categories.
-
 
 ### While you build, we back you with:
 
