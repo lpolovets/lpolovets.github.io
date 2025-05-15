@@ -9,7 +9,7 @@
 
 ### We invest in hard tech and hard sectors. 
 
-We've backed teams building nuclear reactors, organoids, next gen sawmills, drone swarms, surgical robots, farm automation, 3D printers, industrial scale batteries, improved IVF and plenty more that doesn't fit into neat categories.
+We've backed teams building nuclear reactors, organoids, next gen sawmills, drone swarms, surgical robots, farm automation, 3D printers, industrial scale batteries, improved IVF, and plenty more that doesn't fit into neat categories.
 
 We're hyper curious; drawn to difficult, underexplored areas; and always up for a deep dive.
 
@@ -21,12 +21,12 @@ If you're building something valuable that others can't, we want to work with yo
 
 ### While you build, we back you with:
 
-* Help raising your current round (for every $1 we invest, we bring in $2-$3 more on average)
-* Help raising the next round (60% seed-to-Series-A graduation rate vs. 15% industry average)
-* Strategic and tactical tips learned from working with 150+ companies and 10+ unicorns over 12+ years
-* Storytelling for a wider audience
-* Customer and expert intros
-* Temporary SF office space, service provider and software discounts, and more
+* Help raising your current round (for every $1 we invest, we bring in $2-$3 more on average).
+* Help raising the next round (60% seed-to-Series-A graduation rate vs. 15% industry average).
+* Strategic and tactical tips learned from working with 150+ companies and 10+ unicorns over 12+ years.
+* Storytelling for a wider audience.
+* Customer and expert intros.
+* Temporary SF office space, service provider and software discounts, and more.
 
 <hr>
 
@@ -37,7 +37,7 @@ Leo ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linke
 - 10 years of software eng experience: 2nd engineering hire at LinkedIn, 3 years at Google working on payment fraud detection, 4 years at Factual working on data cleaning and deduping software.
 - Co-founded Susa Ventures ($750m+ AUM, seed investor in companies like Robinhood, Flexport, Mux, Expanse, Mashgin, and Andela)
 
-Anna-Sofia ([<img src="../linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/anna-sofia-lesiv/){:target="_blank" rel="noopener"} [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/annasofialesiv){:target="_blank" rel="noopener"} [blog](https://www.contrary.com/foundations-and-frontiers){:target="_blank" rel="noopener"})
+Anna-Sofia ([<img src="../linkedin_logo.png" width="14" height="14" margin-top="2px">](https://www.linkedin.com/in/anna-sofia-lesiv/){:target="_blank" rel="noopener"} [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/annasofialesiv){:target="_blank" rel="noopener"} [blog](https://www.contrary.com/foundations-and-frontiers){:target="_blank" rel="noopener"})
 - Author behind [Foundations & Frontiers](https://www.contrary.com/foundations-and-frontiers){:target="_blank" rel="noopener"} at Contrary Capital and Humba's new [How It's Built](https://blog.humbaventures.com/s/how-its-built){:target="_blank" rel="noopener"} series.
 - Previously at 8VC, Founders Fund and Bridgewater
 - Executive Editor of the Stanford Daily
