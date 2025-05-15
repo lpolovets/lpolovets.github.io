@@ -22,16 +22,14 @@ We've backed all of these, and plenty more companies that don't fit into neat ca
 
 Unlocking society's potential depends on **founders willing to build what others won't**.
 
-If **you're building something valuable that others can't**, we want to work with you.
+If **you're building something that others can't**, we want to work with you.
 
 ### While you build, we back you with:
 
-* Help raising your current round (for every $1 we invest, we help bring in $2-$3 more on average from great coinvestors).
-* Help raising your next round (60% seed-to-Series-A graduation rate vs. 15% industry average).
-* Strategic and tactical tips learned from working with 150+ companies and 10+ unicorns over 12+ years.
-* Storytelling for a wider audience.
-* Customer and expert intros.
-* Temporary SF office space, service provider and software discounts, and more.
+* **More capital for this round.** For every $1 we invest, we help bring in $2-$3 more on average from other great investors.
+* **More firepower for the next round.** 60% seed-to-Series-A graduation rate vs. 15% industry average.
+* **Strategic and tactical playbooks.** Lessons from 150+ companies and 10+ unicorns over 12+ years.
+* **Storytelling, customer intros, expert intros, and startup-friendly perks and discounts that move the needle.**
 
 ### TEAM
 
