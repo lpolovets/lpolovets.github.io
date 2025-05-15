@@ -20,7 +20,7 @@ If you're building something valuable that others can't, we want to work with yo
 ### While you build, we back you with:
 
 * Help raising your current round (for every $1 we invest, we bring in $2-$3 more on average)
-* Help raising the next round (60% seed-to-Series A graduation rate vs. 15% industry average)
+* Help raising the next round (60% seed-to-Series-A graduation rate vs. 15% industry average)
 * Strategic and tactical tips learned from working with 150+ companies and 10+ unicorns over 12+ years
 * Storytelling for a wider audience
 * Customer and expert intros
