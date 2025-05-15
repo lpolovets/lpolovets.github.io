@@ -14,11 +14,17 @@ We're hyper curious; drawn to difficult, underexplored areas; and always up for 
 This century holds more potential than any before, but unlocking it depends on founders willing to build what others won't.
 
 If you're building something valuable that others can't, we want to work with you.
+
 <hr>
+
 ### While you build, we back you with:
+
 * Help raising your current round (for every $1 we invest, we bring in $2-$3 more on average)
 * Help raising the next round (60% seed-to-Series A graduation rate vs. 15% industry average)
 * Strategic and tactical tips learned from working with 150+ companies and 10+ unicorns over 12+ years
 * Storytelling for a wider audience
 * Customer and expert intros
 * Temporary SF office space, service provider and software discounts, and more
+
+<hr>
+Portfolio, Team, Etc
