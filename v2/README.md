@@ -11,13 +11,7 @@
 
 We've backed teams building nuclear reactors, organoids, next gen sawmills, drone swarms, surgical robots, farm automation, 3D printers, industrial scale batteries, improved IVF, and plenty more that doesn't fit into neat categories.
 
-We're hyper curious; drawn to difficult, underexplored areas; and always up for a deep dive.
-
-This century holds more potential than any before, but unlocking it depends on founders willing to build what others won't.
-
-If you're building something valuable that others can't, we want to work with you.
-
-<hr>
+We're hyper curious; drawn to difficult, underexplored areas; and always up for a deep dive. This century holds more potential than any before, but unlocking it depends on founders willing to build what others won't. If you're building something valuable that others can't, we want to work with you.
 
 ### While you build, we back you with:
 
@@ -27,8 +21,6 @@ If you're building something valuable that others can't, we want to work with yo
 * Storytelling for a wider audience.
 * Customer and expert intros.
 * Temporary SF office space, service provider and software discounts, and more.
-
-<hr>
 
 ### TEAM
 
@@ -51,8 +43,6 @@ Pratyush (part-time [<img src="../linkedin_logo.png" width="14" height="14">](ht
 Team's previous fund and angel investments: [CloudTrucks ($850m)](https://www.cloudtrucks.com/){:target="_blank" rel="noopener"}, [Dusty Robotics (🤫)](https://www.dustyrobotics.com/){:target="_blank" rel="noopener"}, [Hightouch ($1.2b)](https://hightouch.com/){:target="_blank" rel="noopener"}, [Mashgin ($1.5b)](https://www.mashgin.com/){:target="_blank" rel="noopener"}, [Placer ($1.5b)](https://www.placer.ai/){:target="_blank" rel="noopener"}, [Scalyr (acquired)](https://www.dataset.com/){:target="_blank" rel="noopener"}, [Veho ($1.5b)](https://shipveho.com/){:target="_blank" rel="noopener"}, [Vetcove (🤫)](https://www.vetcove.com/){:target="_blank" rel="noopener"}.
 
 <sub>[↑ back to top](#top)</sub>
-
-<hr>
 
 ### PORTFOLIO
 
