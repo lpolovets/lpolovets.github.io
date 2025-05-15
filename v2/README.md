@@ -20,7 +20,7 @@ We've backed all of these, and plenty more companies that don't fit into neat ca
 
 **We're hyper curious**; drawn to difficult, underexplored areas; and always up for a deep dive.
 
-Unlocking society's potential **depends on founders willing to build what others won't**.
+Unlocking society's potential depends on **founders willing to build what others won't**.
 
 If **you're building something valuable that others can't**, we want to work with you.
 
