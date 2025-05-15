@@ -5,18 +5,20 @@
 <a href="#top"></a>
 ![Logo](../humba_logo.png)
 
-## We invest in hard tech and hard sectors
+### We invest in hard tech and hard sectors. 
 
-### Nuclear reactors. Organoids. Next gen sawmills. Drone swarms. Surgical robots. Farm automation. 3d printers. Industrial scale batteries. IVF 2.0.
+We've backed teams building nuclear reactors, organoids, next gen sawmills, drone swarms, surgical robots, farm automation, 3D printers, industrial scale batteries, improved IVF and plenty more that doesn't fit into neat categories.
 
-### **The 21st century is going to be amazing.**
+We're hyper curious; drawn to difficult, underexplored areas; and always up for a deep dive.
 
-We're hyper curious and love ambitious founders and ideas. If you're building something valuable and hard, and that very few people in the world can build, then we want to work with you.
+This century holds more potential than any before, but unlocking it depends on founders willing to build what others won't.
 
-## Our value add 
-* Help raising this round (for each $1 we invest, we bring in $2-$3 more on average)
-* Help raising next round (60% seed-to-Series A graduation rate, vs. 15% industry average)
+If you're building something valuable that others can't, we want to work with you.
+<hr>
+### While you build, we back you with:
+* Help raising your current round (for every $1 we invest, we bring in $2-$3 more on average)
+* Help raising the next round (60% seed-to-Series A graduation rate vs. 15% industry average)
 * Strategic and tactical tips learned from working with 150+ companies and 10+ unicorns over 12+ years
 * Storytelling for a wider audience
-* Customer intros and expert intros
+* Customer and expert intros
 * Temporary SF office space, service provider and software discounts, and more
