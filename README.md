@@ -6,15 +6,31 @@
 <a href="#top"></a>
 ![Logo](humba_logo.png)
 
-[About](https://humbaventures.com/#about) &#124; [Team](https://humbaventures.com/#team) &#124; [Portfolio](https://humbaventures.com/#portfolio) &#124; [Working with Humba](https://humbaventures.com/support) &#124; [Blog](https://blog.humbaventures.com/){:target="_blank" rel="noopener"} &#124; [Jobs at Humba Companies](https://jobs.humbaventures.com/jobs){:target="_blank" rel="noopener"}
+[About](https://humbaventures.com/#we-invest-in-hard-tech-and-hard-sectors) &#124; [Team](https://humbaventures.com/#team) &#124; [Portfolio](https://humbaventures.com/#portfolio) &#124; [Working with Humba](https://humbaventures.com/support) &#124; [Blog](https://blog.humbaventures.com/){:target="_blank" rel="noopener"} &#124; [Jobs at Humba Companies](https://jobs.humbaventures.com/jobs){:target="_blank" rel="noopener"}
 
-### ABOUT
+### We invest in hard tech and hard sectors. 
 
-Humba Ventures is a pre-seed and seed fund in the [Susa Ventures](https://www.susaventures.com/){:target="_blank" rel="noopener"} family. While Susa Ventures is focused on leading early stage rounds in traditional sectors like enterprise SaaS, fintech, healthcare, and logistics, Humba Ventures is mainly focused on smaller, emerging sectors and technologies like robotics and manufacturing, climate and energy, and defense and security. In its early days, Humba occasionally invested as a supportive, non-lead investor in traditional sectors.
+☢️ Nuclear reactors<br>
+🫀 Organoids and improved IVF<br>
+🪚 Next gen sawmills<br>
+✈️ Drone swarms<br>
+🦾 Surgical robots<br>
+🔋 Industrial scale batteries<br>
 
-Humba typically writes $250k-$1m core checks with a high engagement model.
+We've backed all of these, and plenty more companies that don't fit into neat categories.
 
-We bring over a decade of institutional VC experience developed through supporting companies like Robinhood, Flexport, and Mux at their earliest stages, and apply that experience to founders building companies at the frontiers of technology.
+**We're hyper curious**; drawn to difficult, underexplored areas; and always up for a deep dive.
+
+Unlocking society's potential depends on **founders willing to build what others won't**.
+
+If **you're building something that others can't**, we want to work with you.
+
+### While you build, we back you with:
+
+* **More capital for this round.** For every $1 we invest, we help bring in $2-$3 more on average from other great investors.
+* **More firepower for the next round.** 60% seed-to-Series-A graduation rate vs. 15% industry average.
+* **Strategic and tactical playbooks.** Lessons from 150+ companies and 10+ unicorns over 12+ years.
+* **Storytelling, customer intros, expert intros, and startup-friendly perks and discounts that move the needle.**
 
 <sub>[↑ back to top](#top)</sub>
 
