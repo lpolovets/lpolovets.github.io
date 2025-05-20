@@ -62,7 +62,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 
 
 #### Automation, robotics, and manufacturing
-🚁 Autonomous drone swarms for military applications.  
+🚁 Autonomous drone swarms for military applications. ([Swarm Aero](https://www.swarm.aero/){:target="_blank" rel="noopener"})   
 🖨 3D printer that can produce production-grade carbon fiber parts quickly and affordably.  
 📦 Adaptable ASRS (automated storage and retrieval system) for warehouses. ([Mytra](https://mytra.ai/){:target="_blank" rel="noopener"})   
 🦱 Automated wig manufacturing.  
@@ -105,7 +105,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 
 #### Defense (including govtech and cybersecurity) and Aerospace
 📑 AI-enabled finance, compliance, and workforce solutions for defense companies.  
-🚁 Autonomous drone swarms for military applications.  
+🚁 Autonomous drone swarms for military applications. ([Swarm Aero](https://www.swarm.aero/){:target="_blank" rel="noopener"})   
 📝 Compliance and collaboration software for government primes and subcontractors. ([GovPort](https://www.govport.com/){:target="_blank" rel="noopener"})  
 🛡 Cybersecurity risk assessment and insurance platform.  
 🛰 Modern ground station network for satellites. ([Northwood Space](https://www.northwoodspace.io/){:target="_blank" rel="noopener"})  
