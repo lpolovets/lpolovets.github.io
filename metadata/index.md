@@ -62,7 +62,7 @@ There are no hard and fast rules when it comes to building or investing in start
 - Spiky founders -- are you top 1% or even top 0.01% in something that you do?
 - Founder/market fit -- the more esoteric and challenging the sector you're in, the more we like to see past experience with the sector and with your target customers.
 - Deliberate decision making -- we love founders that have navigated the [idea maze](https://cdixon.org/2013/08/04/the-idea-maze){:target="_blank" rel="noopener"} and can articulate the reasoning behind major strategic decisions they've made.
-- Not overly capital intensive -- the less capital you need to get your product into customers' hands, the more of a fit we will be.
+- Not overly capital intensive -- the less capital you need to get your product into customers' hands, the more of a fit we will be. Many of the companies we work with will have revenue or some commercial validation before a Series A, and almost all will have commercial validation before a Series B or C.
 
 <sub>[↑ back to top](#top)</sub>
 
