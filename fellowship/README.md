@@ -29,3 +29,5 @@ We believe the best investment decisions and insights come from collaboration wi
 
 ## How To Apply
 We accept applications on a rolling basis. If working with Humba is something that interests you, we highly encourage you to apply here! 
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/appXTuJS9xxv67Z6E/pagrbbWjW59AKveq2/form" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
