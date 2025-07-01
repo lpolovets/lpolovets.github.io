@@ -40,5 +40,4 @@ The first 3 batches with 1-2 Fellows each will be:
 
 If working with Humba is something that interests you, we highly encourage you to apply below!
 
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/appXTuJS9xxv67Z6E/pagrbbWjW59AKveq2/form" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appXTuJS9xxv67Z6E/pag2Bb7PoVQej2dJ6/form" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
