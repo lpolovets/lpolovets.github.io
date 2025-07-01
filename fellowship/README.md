@@ -13,7 +13,7 @@ The Humba Ventures Fellowship is a part-time program for scientists, technologis
 We're going to run this Fellowship three times this year, with 1-2 Fellows at a time. If the experiment is a success, we'll do it on a regular basis in the future.
 
 ## Who This Is For
-We're looking for curious, sharp minds with deep technical or operational expertise. These might be scientists, engineers, researchers, ex-founders, startup operators, or domain specialists. You might be working at a lab, in industry, between ventures, or simply exploring what's next. If you've ever wanted to understand how early-stage deep tech companies get funded, and have ideas about what should be built, we'd love to meet you.
+We're looking for curious, sharp minds with deep technical or operational expertise. You might be a scientist, engineer, researcher, ex-founder, startup operator or domain specialist. Whether you're working at a lab, industry, between ventures, or simply exploring what's next, if you've ever wanted to understand how early-stage deep tech companies get funded, and have ideas about what should be built, we'd love to meet you.
 
 For now, Fellows must be based in the US or Canada, and your schedule should be flexible enough that you can join 5-10 hours of pitches and meetings each week.
 
