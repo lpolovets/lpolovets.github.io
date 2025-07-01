@@ -10,7 +10,7 @@
 
 The Humba Ventures Fellowship is a part-time program for scientists, technologists, founders, and domain experts who want a closer look at how ambitious technical ideas get funded. Over five weeks, Fellows will get a seat at the table, join live pitch meetings, work with frontier founders, and learn how investors evaluate markets, teams, and technologies. Whether your background is in materials, biotech, semiconductors, space, or something else entirely, the Fellowship is a chance to share your expertise, sharpen your thinking, and help shape what gets built next!
 
-We're going to run this fellowship three times this year, with 1-2 fellows at a time. If the experiment is a success, we'll do it on a regular basis in the future.
+We're going to run this Fellowship three times this year, with 1-2 Fellows at a time. If the experiment is a success, we'll do it on a regular basis in the future.
 
 ## Who This Is For
 We're looking for curious, sharp minds with deep technical or operational expertise. These might be scientists, engineers, researchers, ex-founders, startup operators, or domain specialists. You might be working at a lab, in industry, between ventures, or simply exploring what's next. If you've ever wanted to understand how early-stage deep tech companies get funded, and have ideas about what should be built, we'd love to meet you.
@@ -31,12 +31,12 @@ The Fellowship is a compensated, 5-week, part-time program designed to fit along
 We believe the best investment decisions and insights come from collaboration with people who've built, researched, or operated in these fields firsthand. This is a way for us to learn from your expertise, widen our lens, and maybe help you on your next chapter as a founder, investor, or technologist. It's also a chance to become part of Humba's growing community of technologists, passionate about building at the edge of the possible.
 
 ## How To Apply
-The first 3 batches with 1-2 fellows each will be:
+The first 3 batches with 1-2 Fellows each will be:
 * July 28 — August 29
 * September 1 — October 3
 * October 6 — November 7
 
-**We are accepting applications until 11:59pm PT on July 19**. We will reach out to finalists on July 21st, conduct interviews July 22-25, and start the first batch on July 28.
+**We are accepting applications until 11:59pm PT on July 19**. We will reach out to finalists on July 21st, conduct short video interviews July 22-25, and start the first batch on July 28.
 
 If working with Humba is something that interests you, we highly encourage you to apply below!
 
