@@ -32,11 +32,11 @@ We believe the best investment decisions and insights come from collaboration wi
 
 ## How To Apply
 The first 3 batches with 1-2 fellows each will be:
-* July 21st — August 22nd
-* August 25th — September 26th
-* September 29th — October 31st
+* July 28 — August 29
+* September 1 — October 3
+* October 6 — November 7
 
-**We are accepting applications until 11:59pm PT on July 13**. We will reach out to finalists on July 14th, conduct interviews July 15-18, and start the first batch on July 21.
+**We are accepting applications until 11:59pm PT on July 19**. We will reach out to finalists on July 21st, conduct interviews July 22-25, and start the first batch on July 28.
 
 If working with Humba is something that interests you, we highly encourage you to apply below!
 
