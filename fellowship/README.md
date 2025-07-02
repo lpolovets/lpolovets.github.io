@@ -3,14 +3,15 @@
 <meta name="twitter:image" content="https://humbaventures.com/twitter_card.png" />
 <link rel="stylesheet" type="text/css" href="https://lpolovets.github.io/style.css">
 
-<a href="#top"></a>
+<a href="https://humbaventures.com/">
 ![Logo](../humba_logo.png)
+</a>
 
 # The Humba Ventures Fellowship<sup> _BETA_</sup>
 
 The Humba Ventures Fellowship is a part-time program for scientists, technologists, founders, and domain experts who want a closer look at how ambitious technical ideas get funded. Over five weeks, Fellows will get a seat at the table, join live pitch meetings, work with frontier founders, and learn how investors evaluate markets, teams, and technologies. Whether your background is in materials, biotech, semiconductors, space, or something else entirely, the Fellowship is a chance to share your expertise, sharpen your thinking, and help shape what gets built next!
 
-We're going to run this Fellowship three times this year, with 1-2 Fellows at a time. If the experiment is a success, we'll do it on a regular basis in the future.
+We're going to run this Fellowship three times this year, with 1-2 Fellows at a time. If the first few cohorts are a success, we'll run the program on a regular basis in the future.
 
 ## Who This Is For
 We're looking for curious, sharp minds with deep technical or operational expertise. You might be a scientist, engineer, researcher, ex-founder, startup operator or domain specialist. Whether you're working at a lab, industry, between ventures, or simply exploring what's next, if you've ever wanted to understand how early-stage deep tech companies get funded, and have ideas about what should be built, we'd love to meet you.
