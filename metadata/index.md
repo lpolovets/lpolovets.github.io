@@ -24,11 +24,6 @@ Anna-Sofia ([<img src="../linkedin_logo.png" width="14" height="14">](https://ww
 - Previously at 8VC, Founders Fund and Bridgewater
 - Executive Editor of the Stanford Daily
   
-Pratyush (part-time [<img src="../linkedin_logo.png" width="14" height="14">](https://www.linkedin.com/in/pratyush-buddiga-9238b4156/){:target="_blank" rel="noopener"} [<img src="../twitter_logo.png" width="14" height="14">](https://twitter.com/pratyushbuddiga){:target="_blank" rel="noopener"} [blog](https://pratyushbuddiga.substack.com/){:target="_blank" rel="noopener"})
-- Won US Spelling Bee.
-- Professional poker player for 6 years, reaching \#2 in the world for tournament play.
-- Early employee at a crypto gaming company and Chief of Staff at Volley (YC-backed voice gaming startup)
-
 
 Team's previous fund and angel investments: [CloudTrucks ($850m)](https://www.cloudtrucks.com/){:target="_blank" rel="noopener"}, [Dusty Robotics (🤫)](https://www.dustyrobotics.com/){:target="_blank" rel="noopener"}, [Hightouch ($1.2b)](https://hightouch.com/){:target="_blank" rel="noopener"}, [Mashgin ($1.5b)](https://www.mashgin.com/){:target="_blank" rel="noopener"}, [Placer ($1.5b)](https://www.placer.ai/){:target="_blank" rel="noopener"}, [Scalyr (acquired)](https://www.dataset.com/){:target="_blank" rel="noopener"}, [Veho ($1.5b)](https://shipveho.com/){:target="_blank" rel="noopener"}, [Vetcove (🤫)](https://www.vetcove.com/){:target="_blank" rel="noopener"}.
 
