@@ -6,9 +6,9 @@
 
 # Why Humba?
 
-_TLDR: engaged, low-friction support; highly effective follow-on funding help; the perspective of a technical investor w/10+ years of VC experience; significant discounts across numerous software and service providers; and access to our SF office space if you're visiting from out of town._
+_TLDR: engaged, low-friction support; highly effective follow-on funding help; the perspective of a technical investor w/10+ years of VC experience and a writer who's excellent at explaining technical topics to broader audiences; significant discounts across numerous software and service providers; and access to our SF office space if you're visiting from out of town._
 
-* We have 2x the follow-on rate vs. the industry average (~70% of companies we work with raise a follow-on round, vs. 30-35% for early-stage startups in general)
+* We have 3-4x the follow-on rate vs. the industry average (>60% of seed companies we work with raise a Series A, vs. 15-20% for early-stage startups in general)
 * Being part of the broader Susa Ventures fund family (~$800m AUM) allows us to offer outsized resources: online talks from expert speakers, negotiated software and service provider discounts, office space that you can use in SF if you're coming in from out of town, etc. Humba's check size is that of a $40m fund, but our resources are similar to those of a $100m+ fund.
 * The Humba+Susa team has a very large combined network, which can be helpful for finding experts, investors, customers, etc.
 * Leo is a technical VC (Caltech BS, 10 years as a software engineer, still thinks and reasons like a software engineer despite being rusty 😅), so he can discuss opportunities and challenges that are hard to cover with non-technical investors.
