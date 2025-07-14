@@ -74,6 +74,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🏭 Modern OS for manufacturing companies. ([Heliux](https://www.heliux.com/){:target="_blank" rel="noopener"})  
 🪚 Next gen sawmills. ([The Lumber Manufactory](https://www.lumbermanufactory.com/){:target="_blank" rel="noopener"})    
 🦾 Software infrastructure for robot arms. ([Jacobi Robotics](https://jacobirobotics.com/){:target="_blank" rel="noopener"})  
+📦 Ultralight drones for package delivery.  
 
 #### Bio and food
 🐟 Automation solutions for fish processing. ([Shinkei](https://www.shinkei.systems/){:target="_blank" rel="noopener"})  
@@ -84,6 +85,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🧪 mRNA sequence optimization that enables more mRNA therapeutics. ([Kerna Labs](https://kernalabs.ai/){:target="_blank" rel="noopener"})    
 👶 Oogenesis and in vitro maturation platform.  
 🫁 Organoids for drug testing and drug development. ([Parallel Bio](https://www.parallel.bio/){:target="_blank" rel="noopener"})  
+🎗 Personalized cancer radiotherapy.  
 📡 Platform for activating desirable cytokine signals in specific cell types.  
 🦠 Platform for designing and testing oncolytic viral therapies.  ([Humane Genomics](https://humanegenomics.com/){:target="_blank" rel="noopener"})  
 🧬 Protein design using generative AI. ([Diffuse Bio](https://www.diffuse.bio/){:target="_blank" rel="noopener"})  
