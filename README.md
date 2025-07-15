@@ -61,7 +61,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🚁 Autonomous drone swarms for military applications. ([Swarm Aero](https://www.swarm.aero/){:target="_blank" rel="noopener"})   
 🖨 3D printer that can produce production-grade carbon fiber parts quickly and affordably.  
 📦 Adaptable ASRS (automated storage and retrieval system) for warehouses. ([Mytra](https://mytra.ai/){:target="_blank" rel="noopener"})   
-🦱 Automated wig manufacturing.  
+🦱 Automated wig manufacturing. ([The Renatural](https://therenatural.com/){:target="_blank" rel="noopener"})   
 🐟 Automation solutions for fish processing. ([Shinkei](https://www.shinkei.systems/){:target="_blank" rel="noopener"})  
 📐 Automation of design for manufacturing.  
 🌦 Distributed network of balloon-based weather sensors. ([Windborne](https://windbornesystems.com/){:target="_blank" rel="noopener"})  
