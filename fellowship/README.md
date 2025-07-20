@@ -37,8 +37,4 @@ The first 3 batches with 1-2 Fellows each will be:
 * September 1 — October 3
 * October 6 — November 7
 
-**We are accepting applications until 11:59pm PT on July 19**. We will reach out to finalists on July 21st, conduct short video interviews July 22-25, and start the first batch on July 28.
-
-If working with Humba is something that interests you, we highly encourage you to apply below!
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/appXTuJS9xxv67Z6E/pag2Bb7PoVQej2dJ6/form" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+**Applications are currently closed**. Updates on future cohorts will be posted on Humba's [blog](https://blog.humbaventures.com/){:target="_blank" rel="noopener"}.
