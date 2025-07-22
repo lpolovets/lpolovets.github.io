@@ -1,0 +1,11 @@
+[Humba Ventures](https://humbaventures.com/) is a $40m pre-seed and seed fund focused on deep tech and American Dynamism companies. We are a true generalist fund that’s invested in everything from organoids and battery recycling to wig-making robots and interceptor missiles.
+
+We’ve backed companies like [Mytra](https://mytra.ai/){:target="_blank" rel="noopener"} (Eclipse + Greenoaks), [Antares](https://antaresindustries.com/){:target="_blank" rel="noopener"} (Caffeinated + AltCap), [Northwood Space](https://www.northwoodspace.io/){:target="_blank" rel="noopener"} (a16z + Founders Fund), [Swarm Aero](https://www.swarm.aero/){:target="_blank" rel="noopener"} (Founders Fund + Khosla).
+
+What makes us different:
+* Uncommon perspectives: Leo was the 2nd engineering hire at LinkedIn and applies an engineer’s mindset to solving problems; Anna has published multiple [deep tech](https://research.contrary.com/foundations-and-frontiers){:target="_blank" rel="noopener"} [publications](https://blog.humbaventures.com/s/how-its-built){:target="_blank" rel="noopener"} and excels at helping technical companies tell clear, compelling stories.
+* We’re a sister fund to Susa Ventures ($750m+ AUM; seed investor in Robinhood, Flexport, etc). This gives us reach and resources well beyond our check size: temporary SF office space, event support, 100+ service provider discounts, and a powerful network. It’s like getting a boutique firm and a platform fund in one.
+* We help companies raise $2-$3 of co-investment for every $1 we invest, and our seed → Series A graduation rate is 3x+ the industry average. Helping founders raise great rounds is our obsession.
+* We’re engaged but not meddlesome. We have (optional) monthly catch-ups with every early stage founder, helping with closing hires, GTM, strategy, investor decks -- whatever’s highest leverage. If we’re not the best person to help, we’ll connect you to someone who is -- or step aside. We don’t panic, judge, or micromanage when things aren’t working well; we just help you think clearly and move forward.
+
+Check out our [website](https://humbaventures.com/) for more about our fund, the companies we work with, and what it’s like to partner with us.
