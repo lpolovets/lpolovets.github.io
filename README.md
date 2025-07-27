@@ -6,9 +6,7 @@
 <a href="#top"></a>
 ![Logo](humba_logo.png)
 
-[About](https://humbaventures.com/#we-invest-in-hard-tech-and-hard-sectors) &#124; [Team](https://humbaventures.com/#team) &#124; [Portfolio](https://humbaventures.com/#portfolio) &#124; [Working with Humba](https://humbaventures.com/support) &#124; [Blog](https://blog.humbaventures.com/){:target="_blank" rel="noopener"} &#124; [Jobs at Humba Companies](https://jobs.humbaventures.com/jobs){:target="_blank" rel="noopener"}
-
-[Deep Tech Fellowship -- APPLICATIONS ARE OPEN!](https://humbaventures.com/fellowship)
+[About](https://humbaventures.com/#we-invest-in-hard-tech-and-hard-sectors) &#124; [Team](https://humbaventures.com/#team) &#124; [Portfolio](https://humbaventures.com/#portfolio) &#124; [Working with Humba](https://humbaventures.com/support) &#124; [Blog](https://blog.humbaventures.com/){:target="_blank" rel="noopener"} &#124; [Jobs at Humba Companies](https://jobs.humbaventures.com/jobs){:target="_blank" rel="noopener"} &#124; [Deep Tech Fellowship](https://humbaventures.com/fellowship)
 
 ### We invest in hard tech and hard sectors. 
 
