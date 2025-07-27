@@ -9,6 +9,8 @@
 
 # The Humba Ventures Fellowship<sup> _BETA_</sup>
 
+<span style="color: red;">[Applications are currently closed. We expect the next set of fellowships to start in early 2026.]</span>
+
 The Humba Ventures Fellowship is a part-time program for scientists, technologists, founders, and domain experts who want a closer look at how ambitious technical ideas get funded. Over five weeks, Fellows will get a seat at the table, join live pitch meetings, work with frontier founders, and learn how investors evaluate markets, teams, and technologies. Whether your background is in materials, biotech, semiconductors, space, or something else entirely, the Fellowship is a chance to share your expertise, sharpen your thinking, and help shape what gets built next!
 
 We're going to run this Fellowship three times this year, with 1-2 Fellows at a time. If the first few cohorts are a success, we'll run the program on a regular basis in the future.
