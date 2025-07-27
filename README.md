@@ -54,20 +54,15 @@ Team's previous fund and angel investments: [CloudTrucks ($850m)](https://www.cl
 
 ### PORTFOLIO
 
-Most of the companies below are in stealth mode, unless their homepage links are included. Companies are listed in each theme that they fall into.
+Most of the companies below are in stealth mode, unless their homepage links are included. Companies are listed in core theme that they fall into.
 
 
 #### Automation, robotics, and manufacturing
-🚁 Autonomous drone swarms for military applications. ([Swarm Aero](https://www.swarm.aero/){:target="_blank" rel="noopener"})   
 🖨 3D printer that can produce production-grade carbon fiber parts quickly and affordably.  
 📦 Adaptable ASRS (automated storage and retrieval system) for warehouses. ([Mytra](https://mytra.ai/){:target="_blank" rel="noopener"})   
 🦱 Automated wig manufacturing. ([The Renatural](https://therenatural.com/){:target="_blank" rel="noopener"})   
-🐟 Automation solutions for fish processing. ([Shinkei](https://www.shinkei.systems/){:target="_blank" rel="noopener"})  
 📐 Automation of design for manufacturing.  
-🌦 Distributed network of balloon-based weather sensors. ([Windborne](https://windbornesystems.com/){:target="_blank" rel="noopener"})  
 👓 Fast, automated eye exam platform. ([Eyebot](https://eyebot.co/){:target="_blank" rel="noopener"})  
-🌲 Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/){:target="_blank" rel="noopener"})  
-🍏 Hardware-based precision crop load management. ([Orchard Robotics](https://www.orchard-robotics.com/){:target="_blank" rel="noopener"})  
 ☕ Intelligent beverage dispenser for coffee shops and restaurants. ([Sidework](https://www.sidework.co/){:target="_blank" rel="noopener"})  
 🔩 Marketplace for industrial components. ([Volition](https://www.govolition.com/){:target="_blank" rel="noopener"})  
 💉 MRI-guided high precision brain surgery.  
@@ -81,7 +76,6 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🖥️ Data warehouse for genomic data.  
 🍏 Hardware-based precision crop load management. ([Orchard Robotics](https://www.orchard-robotics.com/){:target="_blank" rel="noopener"})   
 ⚕️ Hardware device for continuous biomarker monitoring.  
-💉 MRI-guided high precision brain surgery.  
 🧪 mRNA sequence optimization that enables more mRNA therapeutics. ([Kerna Labs](https://kernalabs.ai/){:target="_blank" rel="noopener"})    
 👶 Oogenesis and in vitro maturation platform.  
 🫁 Organoids for drug testing and drug development. ([Parallel Bio](https://www.parallel.bio/){:target="_blank" rel="noopener"})  
@@ -90,22 +84,23 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🦠 Platform for designing and testing oncolytic viral therapies.  ([Humane Genomics](https://humanegenomics.com/){:target="_blank" rel="noopener"})  
 🧬 Protein design using generative AI. ([Diffuse Bio](https://www.diffuse.bio/){:target="_blank" rel="noopener"})  
 🧠 Restoration of neural circuits and reversal of neurodegeneration.
+🩸 The everything blood test. ([Caucell](https://caucell.com/){:target="_blank" rel="noopener"})   
 
 #### Climate and energy
 🏭 Affordable, dispatchable baseload geothermal power.  
 🌦 Distributed network of balloon-based weather sensors. ([Windborne](https://windbornesystems.com/){:target="_blank" rel="noopener"})  
 🌲 Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/){:target="_blank" rel="noopener"})  
 ⚛️ Isotope enrichment for fission and fusion reactor fuels. ([Hexium](https://www.hexium.us/){:target="_blank" rel="noopener"})  
-🏭 Nuclear microreactors for defense and space applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"})  
 ♻️ Pre-treatment process for extracting and refining critical battery elements.  
 📝 Site selection and permitting software for large cleantech projects. ([Blumen Systems](https://www.blumensystems.com/){:target="_blank" rel="noopener"})    
 🔋 Solid state commercial-scale hydrogen batteries.  
 
-#### Defense (including govtech and cybersecurity) and Aerospace
+#### Defense and Aerospace
 📑 AI-enabled finance, compliance, and workforce solutions for defense companies.  
 🚁 Autonomous drone swarms for military applications. ([Swarm Aero](https://www.swarm.aero/){:target="_blank" rel="noopener"})   
 📝 Compliance and collaboration software for government primes and subcontractors. ([GovPort](https://www.govport.com/){:target="_blank" rel="noopener"})  
 🛡 Cybersecurity risk assessment and insurance platform.  
+🚀 Highly manufacturable interceptor missiles.  
 🛰 Modern ground station network for satellites. ([Northwood Space](https://www.northwoodspace.io/){:target="_blank" rel="noopener"})  
 🏭 Nuclear microreactors for defense and space applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"})  
 🧑‍🤝‍🧑 Paperwork automation and easier compliance for defense and government applications.  ([Conductor AI](https://www.conductorai.co/){:target="_blank" rel="noopener"})  
