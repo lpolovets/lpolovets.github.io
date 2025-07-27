@@ -81,7 +81,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 📡 Platform for activating desirable cytokine signals in specific cell types.  
 🦠 Platform for designing and testing oncolytic viral therapies.  ([Humane Genomics](https://humanegenomics.com/){:target="_blank" rel="noopener"})  
 🧬 Protein design using generative AI. ([Diffuse Bio](https://www.diffuse.bio/){:target="_blank" rel="noopener"})  
-🧠 Restoration of neural circuits and reversal of neurodegeneration.
+🧠 Restoration of neural circuits and reversal of neurodegeneration.  
 🩸 The everything blood test. ([Caucell](https://caucell.com/){:target="_blank" rel="noopener"})   
 
 #### Climate and energy
@@ -108,7 +108,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 #### Other deep tech/American Dynamism areas
 
 💱 Highly efficient decentralized exchange. ([Ambient Finance](https://us.ambient.finance/){:target="_blank" rel="noopener"})  
-🏫 K-12 math practice software. ([Edia](https://edia.app/){:target="_blank" rel="noopener"}) 
+🏫 K-12 math practice software. ([Edia](https://edia.app/){:target="_blank" rel="noopener"})   
 
 #### Supportive checks
 
