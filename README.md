@@ -87,6 +87,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 #### Climate and energy
 🏭 Affordable, dispatchable baseload geothermal power.  
 🌦 Distributed network of balloon-based weather sensors. ([Windborne](https://windbornesystems.com/){:target="_blank" rel="noopener"})  
+🌽 Efficient conversion of waste into biochar fertilizer.  
 🌲 Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/){:target="_blank" rel="noopener"})  
 ⚛️ Isotope enrichment for fission and fusion reactor fuels. ([Hexium](https://www.hexium.us/){:target="_blank" rel="noopener"})  
 ♻️ Pre-treatment process for extracting and refining critical battery elements.  
