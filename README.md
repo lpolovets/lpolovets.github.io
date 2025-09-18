@@ -28,7 +28,7 @@ If **you're building something that others can't**, we want to work with you.
 ### While you build, we back you with:
 
 * **More capital for this round.** For every $1 we invest, we help bring in $2-$3 more on average from other great investors.
-* **More firepower for the next round.** 60% seed-to-Series-A graduation rate vs. 15% industry average.
+* **More firepower for the next round.** 60% seed-to-Series-A graduation rate vs. 20% industry average.
 * **Strategic and tactical playbooks.** Lessons from 150+ companies and 10+ unicorns over 12+ years.
 * **Storytelling, customer intros, expert intros, and startup-friendly perks and discounts that move the needle.**
 
