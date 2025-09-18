@@ -13,7 +13,7 @@ Below are some specific areas where we can help.
 
 ## Fundraising Support
 
-* The rate at which companies we work with raise follow-on rounds has historically been ~70% at both Humba and Susa Ventures. This is about 2x the 30-35% industry average.
+* The rate at which companies we work with raise follow-on rounds has historically been 60+% at both Humba and Susa Ventures. This is about 3x the 20% industry average.
 * We’ll iterate on the deck content together, then introduce you to designers when the deck is ready for final touches.
 * We’ll do pitch practice sessions together until you’re comfortable with the pitch.
 * We’ll introduce you to the best investors for you – both the well-known ones that everyone wants to talk to, and the under the radar investors that have deep experience in the category you’re focused on.
