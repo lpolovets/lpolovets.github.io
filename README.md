@@ -67,7 +67,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🏭 Modern OS for manufacturing companies. ([Heliux](https://www.heliux.com/){:target="_blank" rel="noopener"})  
 🪚 Next gen sawmills. ([The Lumber Manufactory](https://www.lumbermanufactory.com/){:target="_blank" rel="noopener"})    
 🦾 Software infrastructure for robot arms. ([Jacobi Robotics](https://jacobirobotics.com/){:target="_blank" rel="noopener"})  
-📦 Ultralight drones for package delivery.  
+📦 Ultralight drones for package delivery. ([Airbound](https://www.airbound.com/){:target="_blank" rel="noopener"})   
 
 #### Bio and food
 🐟 Automation solutions for fish processing. ([Shinkei](https://www.shinkei.systems/){:target="_blank" rel="noopener"})  
