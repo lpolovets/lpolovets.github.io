@@ -73,7 +73,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🐟 Automation solutions for fish processing. ([Shinkei](https://www.shinkei.systems/){:target="_blank" rel="noopener"})  
 🖥️ Data warehouse for genomic data.  
 🍏 Hardware-based precision crop load management. ([Orchard Robotics](https://www.orchard-robotics.com/){:target="_blank" rel="noopener"})   
-⚕️ Hardware device for continuous biomarker monitoring.  
+⚕️ Hardware device for continuous biomarker monitoring. ([Adaptyx](https://adaptyx.bio/){:target="_blank" rel="noopener"})  
 🧪 mRNA sequence optimization that enables more mRNA therapeutics. ([Kerna Labs](https://kernalabs.ai/){:target="_blank" rel="noopener"})    
 👶 Oogenesis and in vitro maturation platform.  
 🫁 Organoids for drug testing and drug development. ([Parallel Bio](https://www.parallel.bio/){:target="_blank" rel="noopener"})  
