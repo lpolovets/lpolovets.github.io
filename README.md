@@ -58,7 +58,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 #### Automation, robotics, and manufacturing
 🖨 3D printer that can produce production-grade carbon fiber parts quickly and affordably.  
 📦 Adaptable ASRS (automated storage and retrieval system) for warehouses. ([Mytra](https://mytra.ai/){:target="_blank" rel="noopener"})   
-☕ An electrochemical processoing platform that improves the taste of beverages without any additives.   
+☕ An electrochemical processing platform that improves the taste of beverages without any additives.   
 🦱 Automated wig manufacturing. ([The Renatural](https://therenatural.com/){:target="_blank" rel="noopener"})   
 📐 Automation of design for manufacturing.  
 👓 Fast, automated eye exam platform. ([Eyebot](https://eyebot.co/){:target="_blank" rel="noopener"})  
