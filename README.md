@@ -86,7 +86,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🩸 The everything blood test. ([Caucell](https://caucell.com/){:target="_blank" rel="noopener"})   
 
 #### Climate and energy
-🏭 Affordable, dispatchable baseload geothermal power.  
+🏭 Affordable, dispatchable baseload geothermal power. ([Critical Energy](https://criticalenergy.com/){:target="_blank" rel="noopener"})  
 🌦 Distributed network of balloon-based weather sensors. ([Windborne](https://windbornesystems.com/){:target="_blank" rel="noopener"})  
 🌽 Efficient conversion of waste into biochar fertilizer.  
 🌲 Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/){:target="_blank" rel="noopener"})  
