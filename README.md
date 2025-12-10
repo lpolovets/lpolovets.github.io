@@ -79,10 +79,10 @@ Most of the companies below are in stealth mode, unless their homepage links are
 👶 Oogenesis and in vitro maturation platform.  
 🫁 Organoids for drug testing and drug development. ([Parallel Bio](https://www.parallel.bio/){:target="_blank" rel="noopener"})  
 🎗 Personalized cancer radiotherapy.  
+🫁 Personalized tissue foundry.  ([Polyphron](https://www.polyphron.com/){:target="_blank" rel="noopener"})  
 📡 Platform for activating desirable cytokine signals in specific cell types.  
 🦠 Platform for designing and testing oncolytic viral therapies.  ([Humane Genomics](https://humanegenomics.com/){:target="_blank" rel="noopener"})  
 🧬 Protein design using generative AI. ([Diffuse Bio](https://www.diffuse.bio/){:target="_blank" rel="noopener"})  
-🧠 Restoration of neural circuits and reversal of neurodegeneration.  
 🩸 The everything blood test. ([Caucell](https://caucell.com/){:target="_blank" rel="noopener"})   
 
 #### Climate and energy
