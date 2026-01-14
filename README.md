@@ -61,14 +61,12 @@ Most of the companies below are in stealth mode, unless their homepage links are
 ☕ An electrochemical processing platform that improves the taste of beverages without any additives.   
 🦱 Automated wig manufacturing. ([The Renatural](https://therenatural.com/){:target="_blank" rel="noopener"})   
 📐 Automation of design for manufacturing.  
-👓 Fast, automated eye exam platform. ([Eyebot](https://eyebot.co/){:target="_blank" rel="noopener"})  
-☕ Intelligent beverage dispenser for coffee shops and restaurants. ([Sidework](https://www.sidework.co/){:target="_blank" rel="noopener"})  
+🤖 Custom robot hardware provider.  
 🔩 Marketplace for industrial components. ([Volition](https://www.govolition.com/){:target="_blank" rel="noopener"})  
 💉 MRI-guided high precision brain surgery.  
 🏭 Modern OS for manufacturing companies. ([Heliux](https://www.heliux.com/){:target="_blank" rel="noopener"})  
 🪚 Next gen sawmills. ([The Lumber Manufactory](https://www.lumbermanufactory.com/){:target="_blank" rel="noopener"})    
-🦾 Software infrastructure for robot arms. ([Jacobi Robotics](https://jacobirobotics.com/){:target="_blank" rel="noopener"})  
-📦 Ultralight drones for package delivery. ([Airbound](https://www.airbound.com/){:target="_blank" rel="noopener"})   
+🦾 Software infrastructure for robot arms. ([Jacobi Robotics](https://jacobirobotics.com/){:target="_blank" rel="noopener"}) 
 
 #### Bio and food
 🐟 Automation solutions for fish processing. ([Shinkei](https://www.shinkei.systems/){:target="_blank" rel="noopener"})  
@@ -106,6 +104,12 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🧑‍🤝‍🧑 Paperwork automation and easier compliance for defense and government applications.  ([Conductor AI](https://www.conductorai.co/){:target="_blank" rel="noopener"})  
 🌎 Search engine for geospatial data that targets defense & government use cases. ([Danti](https://danti.ai/){:target="_blank" rel="noopener"})  
 🔒 Security middleware platform that gives users control and visibility over their security posture. ([LimaCharlie](https://limacharlie.io/){:target="_blank" rel="noopener"})  
+
+#### Hardware products
+👓 Fast, automated eye exam platform. ([Eyebot](https://eyebot.co/){:target="_blank" rel="noopener"})  
+☕ Intelligent beverage dispenser for coffee shops and restaurants. ([Sidework](https://www.sidework.co/){:target="_blank" rel="noopener"})  
+📦 Ultralight drones for package delivery. ([Airbound](https://www.airbound.com/){:target="_blank" rel="noopener"})  
+🧺 Washer/dryer that doesn't require a plumbing connection.  
 
 #### Other deep tech/American Dynamism areas
 
