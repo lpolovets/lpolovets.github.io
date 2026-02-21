@@ -69,6 +69,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🦾 Software infrastructure for robot arms. ([Jacobi Robotics](https://jacobirobotics.com/){:target="_blank" rel="noopener"}) 
 
 #### Bio and food
+💊 AI that for designing pill variants of injectable antibody drugs.  
 🐟 Automation solutions for fish processing. ([Shinkei](https://www.shinkei.systems/){:target="_blank" rel="noopener"})  
 🖥️ Data warehouse for genomic data.  
 🍏 Hardware-based precision crop load management. ([Orchard Robotics](https://www.orchard-robotics.com/){:target="_blank" rel="noopener"})   
@@ -104,6 +105,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🧑‍🤝‍🧑 Paperwork automation and easier compliance for defense and government applications.  ([Conductor AI](https://www.conductorai.co/){:target="_blank" rel="noopener"})  
 🌎 Search engine for geospatial data that targets defense & government use cases. ([Danti](https://danti.ai/){:target="_blank" rel="noopener"})  
 🔒 Security middleware platform that gives users control and visibility over their security posture. ([LimaCharlie](https://limacharlie.io/){:target="_blank" rel="noopener"})  
+🤿 Underwater sensing and communication network.  
 
 #### Hardware products
 👓 Fast, automated eye exam platform. ([Eyebot](https://eyebot.co/){:target="_blank" rel="noopener"})  
