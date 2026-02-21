@@ -69,7 +69,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🦾 Software infrastructure for robot arms. ([Jacobi Robotics](https://jacobirobotics.com/){:target="_blank" rel="noopener"}) 
 
 #### Bio and food
-💊 AI that for designing pill variants of injectable antibody drugs.  
+💊 AI for designing simple pill variants of injectable antibody drugs.  
 🐟 Automation solutions for fish processing. ([Shinkei](https://www.shinkei.systems/){:target="_blank" rel="noopener"})  
 🖥️ Data warehouse for genomic data.  
 🍏 Hardware-based precision crop load management. ([Orchard Robotics](https://www.orchard-robotics.com/){:target="_blank" rel="noopener"})   
