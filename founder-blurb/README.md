@@ -1,6 +1,6 @@
 [Humba Ventures](https://humbaventures.com/) is a $40m pre-seed and seed fund focused on deep tech and American Dynamism companies. We are a true generalist fund that's invested in everything from organoids and battery recycling to wig-making robots and interceptor missiles.
 
-We've backed companies like [Mytra](https://mytra.ai/){:target="_blank" rel="noopener"} (Eclipse + Greenoaks), [Antares](https://antaresindustries.com/){:target="_blank" rel="noopener"} (Caffeinated + AltCap), [Northwood Space](https://www.northwoodspace.io/){:target="_blank" rel="noopener"} (a16z + Founders Fund), [Swarm Aero](https://www.swarm.aero/){:target="_blank" rel="noopener"} (Founders Fund + Khosla).
+We've backed companies like [Mytra](https://mytra.ai/){:target="_blank" rel="noopener"} (Eclipse + Greenoaks), [Antares](https://antaresindustries.com/){:target="_blank" rel="noopener"} (Caffeinated + AltCap), [Northwood Space](https://www.northwoodspace.io/){:target="_blank" rel="noopener"} (a16z + Founders Fund), and [Swarm Aero](https://www.swarm.aero/){:target="_blank" rel="noopener"} (Founders Fund + Khosla).
 
 What makes us different:
 * Uncommon perspectives: Leo was the 2nd engineering hire at LinkedIn and applies an engineer's mindset to solving problems; Anna has published multiple [deep tech](https://blog.humbaventures.com/s/how-its-built){:target="_blank" rel="noopener"} [publications](https://research.contrary.com/foundations-and-frontiers){:target="_blank" rel="noopener"} and excels at helping technical companies tell clear, compelling stories.
