@@ -8,4 +8,4 @@ What makes us different:
 * We help companies raise $2-$3 of co-investment for every $1 we invest, and our seed → Series A graduation rate is 3x+ the industry average. Helping founders raise great rounds is our obsession.
 * We're engaged but not meddlesome. We have (optional) monthly catch-ups with every early stage founder, and we help with closing hires, GTM, strategy, investor decks -- whatever's highest leverage. If we're not the best person to help, we'll connect you to someone who is -- or step aside. We don't panic, judge, or micromanage when things aren't working well; we just help you think clearly and move forward.
 
-Check out our [website](https://humbaventures.com/) for more about our fund, the companies we work with, and what it's like to partner with us.
+Our [website](https://humbaventures.com/) has more info about our fund, the companies we work with, and what it's like to partner with us.
