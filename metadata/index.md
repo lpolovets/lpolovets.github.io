@@ -25,7 +25,7 @@ Anna-Sofia ([<img src="../linkedin_logo.png" width="14" height="14">](https://ww
 - Executive Editor of the Stanford Daily
   
 
-Team's previous fund and angel investments: [CloudTrucks ($850m)](https://www.cloudtrucks.com/){:target="_blank" rel="noopener"}, [Dusty Robotics (🤫)](https://www.dustyrobotics.com/){:target="_blank" rel="noopener"}, [Hightouch ($1.2b)](https://hightouch.com/){:target="_blank" rel="noopener"}, [Mashgin ($1.5b)](https://www.mashgin.com/){:target="_blank" rel="noopener"}, [Placer ($1.5b)](https://www.placer.ai/){:target="_blank" rel="noopener"}, [Scalyr (acquired)](https://www.dataset.com/){:target="_blank" rel="noopener"}, [Veho ($1.5b)](https://shipveho.com/){:target="_blank" rel="noopener"}, [Vetcove (🤫)](https://www.vetcove.com/){:target="_blank" rel="noopener"}.
+Team's previous fund and angel investments: [Etched ($5b)](https://www.etched.com/){:target="_blank" rel="noopener"}, [Hightouch ($1.2b)](https://hightouch.com/){:target="_blank" rel="noopener"}, [Mashgin ($1.5b)](https://www.mashgin.com/){:target="_blank" rel="noopener"}, [Placer ($1.5b)](https://www.placer.ai/){:target="_blank" rel="noopener"}, [Sublime Security (~$950m)]([https://sublime.security/])){:target="_blank" rel="noopener"}, [Veho ($1.5b)](https://shipveho.com/){:target="_blank" rel="noopener"}, [Vetcove (🤫)](https://www.vetcove.com/){:target="_blank" rel="noopener"}.
 
 <sub>[↑ back to top](#top)</sub>
 
