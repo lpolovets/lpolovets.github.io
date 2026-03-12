@@ -7,7 +7,7 @@
 [Investing Style](https://humbaventures.com/metadata#investing-pace-and-style) &#124; [Team](https://humbaventures.com/metadata#investor-bios) &#124; [Focus Areas](https://humbaventures.com/metadata#focus-areas) &#124; [Process](https://humbaventures.com/metadata#process) &#124; [What We Look For](https://humbaventures.com/metadata#what-we-look-for-in-potential-investments) &#124; [Ethics](https://humbaventures.com/metadata#ethics)
 
 ### INVESTING PACE AND STYLE
-We make about ten $250k-$1m investments each year. We participate in pre-seed and seed rounds, and can lead or co-lead smaller pre-seed rounds.
+We make about fifteen $500k-$1m investments each year. We participate in pre-seed and seed rounds, and can lead or co-lead smaller rounds.
 
 When partnering with founders, we strive to be highly engaged but not meddlesome.
 
@@ -55,6 +55,7 @@ A typical diligence timeline is 2-3 weeks.
 There are no hard and fast rules when it comes to building or investing in startups, but below are some company and founder qualities that we love to see.
 
 - Spiky founders -- are you top 1% or even top 0.01% in something that you do?
+- Unique products -- we love companies that have zero startup competition. If you're making something that takes a few years to develop and you're the only one doing it, you'll have a huge first mover advantage after you launch.
 - Founder/market fit -- the more esoteric and challenging the sector you're in, the more we like to see past experience with the sector and with your target customers.
 - Deliberate decision making -- we love founders that have navigated the [idea maze](https://cdixon.org/2013/08/04/the-idea-maze){:target="_blank" rel="noopener"} and can articulate the reasoning behind major strategic decisions they've made.
 - Not overly capital intensive -- the less capital you need to get your product into customers' hands, the more of a fit we will be. Many of the companies we work with will have revenue or some commercial validation before a Series A, and almost all will have commercial validation before a Series B or C.
