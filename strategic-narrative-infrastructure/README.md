@@ -32,4 +32,4 @@ A few examples:
 
 Please check it out [here](https://chatgpt.com/g/g-6822735f9fd4819198d6d07f9bb59ae3-american-dynamism-copy-editor){:target="_blank" rel="noopener"} -- and don't forget to thank us when you raised your $50m friends and family round from a large multistage VC.
 
-You can check out our past VC initiatives [here](https://humbaventures.com/af).
+You can check out our some of our bold prior VC initiatives [here](https://humbaventures.com/af).
