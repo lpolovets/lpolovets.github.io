@@ -10,7 +10,7 @@ American Dynamism is a powerful movement championing startups that solve critica
 
 However, like many movements, American Dynamism has its own lingo, which can take a while to master. This is the perfect place for a VC like us to add value to aspiring founders.
 
-Presenting the American Dynamism Copy Editor! You input your idea, and we'll help you American Dynamismmaxx it.
+Presenting the [American Dynamism Pitch Writer](https://chatgpt.com/g/g-6822735f9fd4819198d6d07f9bb59ae3-american-dynamism-copy-editor)! You input your idea, and we'll help you American Dynamismmaxx it.
 
 A few examples:
 
@@ -30,4 +30,6 @@ Neon colored washing machines
 
 > Neon-colored washing machines are a bold reindustrialization play to reassert American dominance in the domestic appliance battlespace by transforming mundane laundry units into high-visibility morale infrastructure. By integrating vibrant, signal-amplifying exteriors into core cleaning hardware, this platform enhances household readiness, strengthens manufacturing differentiation against foreign adversaries, and ensures our homefront operates with unmistakable operational flair in contested consumer environments.
 
-Please check it out [here](https://chatgpt.com/g/g-6822735f9fd4819198d6d07f9bb59ae3-american-dynamism-copy-editor) -- and don't forget to thank us when you raised your $50m friends and family round for a large multistage VC.
+Please check it out [here](https://chatgpt.com/g/g-6822735f9fd4819198d6d07f9bb59ae3-american-dynamism-copy-editor) -- and don't forget to thank us when you raised your $50m friends and family round from a large multistage VC.
+
+You can check out our past VC initiatives [here](https://humbaventures.com/af).
