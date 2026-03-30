@@ -13,7 +13,7 @@ It's clear to us that AI-generated companies are the future, and so we're going 
 
 Here are our new investing criteria:
 1. **Is your company less than 3 weeks old but wildly profitable?** (If you're not wildly profitable, maybe venture capital funding is not for you.)
-2. **Have at least 10 competitors launch this week to "validate the space"?** (If not, maybe what you're building is just too hard and you should consider pivoting to a different ChatGPT prompt.)
+2. **Have at least 10 competitors launched this week to "validate the space"?** (If not, maybe what you're building is just too hard and you should consider pivoting to a different ChatGPT prompt.)
 3. **Can you vibe code, ~~test,~~ and ship 3 major features during our pitch meeting?** (If not, how will you move faster than your competition from the previous bullet point?)
 4. **Is _at least_ 100% of your code written by Cursor or Claude?** (We are extremely bullish on companies without any engineers on the team. The less technical skill required, the better.)
 
