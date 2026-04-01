@@ -64,8 +64,9 @@ Most of the companies below are in stealth mode, unless their homepage links are
 ⚙️ Custom cast metal parts.  
 🤖 Custom robot hardware provider.  
 🔩 Marketplace for industrial components. ([Volition](https://www.govolition.com/){:target="_blank" rel="noopener"})  
-💉 MRI-guided high precision brain surgery.  
 🏭 Modern OS for manufacturing companies. ([Heliux](https://www.heliux.com/){:target="_blank" rel="noopener"})  
+👀 Monitoring and auto-remediation tools for data center hardware.  
+💉 MRI-guided high precision brain surgery.
 🪚 Next gen sawmills. ([The Lumber Manufactory](https://www.lumbermanufactory.com/){:target="_blank" rel="noopener"})    
 🦾 Software infrastructure for robot arms. ([Jacobi Robotics](https://jacobirobotics.com/){:target="_blank" rel="noopener"}) 
 
