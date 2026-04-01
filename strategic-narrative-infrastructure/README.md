@@ -29,4 +29,4 @@ A few examples:
 
 Please check it out [here](https://chatgpt.com/g/g-6822735f9fd4819198d6d07f9bb59ae3-american-dynamism-copy-editor){:target="_blank" rel="noopener"} -- and don't forget to thank us when you raise your $50M friends-and-family round from a large multistage VC.
 
-You can check out some of our bold prior VC initiatives [here](https://humbaventures.com/af).
+You can check out some of our prior bold VC initiatives [here](https://humbaventures.com/af).
