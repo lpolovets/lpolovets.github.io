@@ -5,7 +5,7 @@
 <a href="#top"></a>
 ![Logo](../humba_logo.png)
 
-American Dynamism is a powerful movement championing startups that solve critical national problems in areas like defense, aerospace, manufacturing, and education. It's also produced some of the most distinctive pitch language in venture. Naturally, this felt like an obvious place for a VC like us to add value.
+American Dynamism is a movement championing startups that solve critical national problems in areas like defense, aerospace, manufacturing, and education. It's also produced some of the most distinctive pitch language in venture. Naturally, this felt like an obvious place for a VC like us to add value.
 
 Presenting the [American Dynamism Pitch Writer](https://chatgpt.com/g/g-6822735f9fd4819198d6d07f9bb59ae3-american-dynamism-copy-editor){:target="_blank" rel="noopener"}! Enter your idea, and we'll help you American Dynamism-maxx it.
 
