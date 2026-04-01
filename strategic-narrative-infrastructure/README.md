@@ -5,9 +5,9 @@
 <a href="#top"></a>
 ![Logo](../humba_logo.png)
 
-American Dynamism is a powerful movement championing startups that solve critical national problems in areas like defense, aerospace, manufacturing, and education. It's also generated some of the most distinctive pitch language in venture. Naturally, this is exactly where a VC like us can add value.
+American Dynamism is a powerful movement championing startups that solve critical national problems in areas like defense, aerospace, manufacturing, and education. It's also produced some of the most distinctive pitch language in venture. Naturally, this is exactly where a VC like us can add value.
 
-Presenting the [American Dynamism Pitch Writer](https://chatgpt.com/g/g-6822735f9fd4819198d6d07f9bb59ae3-american-dynamism-copy-editor){:target="_blank" rel="noopener"}! You input your idea, and we'll help you American Dynamism-maxx it.
+Presenting the [American Dynamism Pitch Writer](https://chatgpt.com/g/g-6822735f9fd4819198d6d07f9bb59ae3-american-dynamism-copy-editor){:target="_blank" rel="noopener"}! Enter your idea, and we'll help you American Dynamism-maxx it.
 
 A few examples:
 
@@ -23,10 +23,10 @@ A few examples:
 
 > A blockchain-based prediction markets app is a civilian-facing intelligence aggregation layer that hardens national decision-making by crowd-sourcing probabilistic forecasts in real time across contested information environments. By leveraging decentralized consensus as a resilience mechanism against adversarial manipulation, this platform transforms retail speculation into a forward-deployed strategic asset that strengthens situational awareness, capital efficiency, and ultimately American dominance in the global information battlespace.
 
-"Neon colored washing machines":
+"Neon-colored washing machines":
 
 > Neon-colored washing machines are a bold reindustrialization play to reassert American dominance in the domestic appliance battlespace by transforming mundane laundry units into high-visibility morale infrastructure. By integrating vibrant, signal-amplifying exteriors into core cleaning hardware, this platform enhances household readiness, strengthens manufacturing differentiation against foreign adversaries, and ensures our homefront operates with unmistakable operational flair in contested consumer environments.
 
-Please check it out [here](https://chatgpt.com/g/g-6822735f9fd4819198d6d07f9bb59ae3-american-dynamism-copy-editor){:target="_blank" rel="noopener"} -- and don't forget to thank us when you raise your $50m friends and family round from a large multistage VC.
+Please check it out [here](https://chatgpt.com/g/g-6822735f9fd4819198d6d07f9bb59ae3-american-dynamism-copy-editor){:target="_blank" rel="noopener"} -- and don't forget to thank us when you raise your $50m friends-and-family round from a large multistage VC.
 
 You can check out some of our bold prior VC initiatives [here](https://humbaventures.com/af).
