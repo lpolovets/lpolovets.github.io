@@ -8,13 +8,13 @@
 
 American Dynamism is a powerful movement championing startups that solve critical national problems in areas like defense, aerospace, manufacturing, and education. It supports builders strengthening U.S. national interests, reindustrialization, and infrastructure, often operating at the intersection of hardware and software.
 
-However, like many movements, American Dynamism has its own lingo, which can take a while to master. This is the perfect place for a VC like us to add value to aspiring founders.
+However, like many movements, American Dynamism has its own lingo, which can take a while to master. Naturally, this is exactly where a VC like us can add value.
 
-Presenting the [American Dynamism Pitch Writer](https://chatgpt.com/g/g-6822735f9fd4819198d6d07f9bb59ae3-american-dynamism-copy-editor){:target="_blank" rel="noopener"}! You input your idea, and we'll help you American Dynamismmaxx it.
+Presenting the [American Dynamism Pitch Writer](https://chatgpt.com/g/g-6822735f9fd4819198d6d07f9bb59ae3-american-dynamism-copy-editor){:target="_blank" rel="noopener"}! You input your idea, and we'll help you American Dynamism-maxx it.
 
 A few examples:
 
-"Gluten free chocolate chip cookies":
+"Gluten-American Dynamism-maxxmfree chocolate chip cookies":
 
 > Gluten-free chocolate chip cookies represent a strategic reconfiguration of the American dessert industrial base to operate in allergen-contested environments without sacrificing caloric superiority. By decoupling wheat dependencies and onshoring alternative flour inputs, this platform ensures resilient, inclusive treat production that can be forward-deployed across diverse dietary theaters while maintaining dominance in the baked-goods supply chain.
 
@@ -30,6 +30,6 @@ A few examples:
 
 > Neon-colored washing machines are a bold reindustrialization play to reassert American dominance in the domestic appliance battlespace by transforming mundane laundry units into high-visibility morale infrastructure. By integrating vibrant, signal-amplifying exteriors into core cleaning hardware, this platform enhances household readiness, strengthens manufacturing differentiation against foreign adversaries, and ensures our homefront operates with unmistakable operational flair in contested consumer environments.
 
-Please check it out [here](https://chatgpt.com/g/g-6822735f9fd4819198d6d07f9bb59ae3-american-dynamism-copy-editor){:target="_blank" rel="noopener"} -- and don't forget to thank us when you raised your $50m friends and family round from a large multistage VC.
+Please check it out [here](https://chatgpt.com/g/g-6822735f9fd4819198d6d07f9bb59ae3-american-dynamism-copy-editor){:target="_blank" rel="noopener"} -- and don't forget to thank us when you raise your $50m friends and family round from a large multistage VC.
 
-You can check out our some of our bold prior VC initiatives [here](https://humbaventures.com/af).
+You can check out some of our bold prior VC initiatives [here](https://humbaventures.com/af).
