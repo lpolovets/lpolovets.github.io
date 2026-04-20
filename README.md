@@ -62,7 +62,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🦱 Automated wig manufacturing. ([The Renatural](https://therenatural.com/){:target="_blank" rel="noopener"})   
 📐 Automation of design for manufacturing.  
 ⚙️ Custom cast metal parts.  
-🤖 Custom robot hardware provider.  
+🤖 Custom robot hardware provider. ([Anvil](https://anvil.bot/){:target="_blank" rel="noopener"})  
 🔩 Marketplace for industrial components. ([Volition](https://www.govolition.com/){:target="_blank" rel="noopener"})  
 🏭 Modern OS for manufacturing companies. ([Heliux](https://www.heliux.com/){:target="_blank" rel="noopener"})  
 👀 Monitoring and auto-remediation tools for data center hardware.  
@@ -73,6 +73,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 #### Bio and food
 💊 AI for designing simple pill variants of injectable antibody drugs.  
 🐟 Automation solutions for fish processing. ([Shinkei](https://www.shinkei.systems/){:target="_blank" rel="noopener"})  
+👀 Cell therapy for corneal blindness.  
 🖥️ Data warehouse for genomic data.  
 🍏 Hardware-based precision crop load management. ([Orchard Robotics](https://www.orchard-robotics.com/){:target="_blank" rel="noopener"})   
 ⚕️ Hardware device for continuous biomarker monitoring. ([Adaptyx](https://adaptyx.bio/){:target="_blank" rel="noopener"})  
