@@ -52,7 +52,7 @@ Team's previous fund and angel investments: [CloudTrucks ($850m)](https://www.cl
 
 ### PORTFOLIO
 
-Most of the companies below are in stealth mode, unless their homepage links are included. Companies are listed in core theme that they fall into.
+Most of the companies below are in stealth mode, unless their homepage links are included. Companies are listed in the core theme that they fall into.
 
 
 #### Automation, robotics, and manufacturing
