@@ -63,6 +63,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 📐 Automation of design for manufacturing.  
 ⚙️ Custom cast metal parts.  
 🤖 Custom robot hardware provider. ([Anvil](https://anvil.bot/){:target="_blank" rel="noopener"})  
+🏗 Design software for accelerating data center construction.  
 🔩 Marketplace for industrial components. ([Volition](https://www.govolition.com/){:target="_blank" rel="noopener"})  
 🏭 Modern OS for manufacturing companies. ([Heliux](https://www.heliux.com/){:target="_blank" rel="noopener"})  
 👀 Monitoring and auto-remediation tools for data center hardware.  
@@ -91,6 +92,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🏭 Affordable, dispatchable baseload geothermal power. ([Critical Energy](https://criticalenergy.com/){:target="_blank" rel="noopener"})  
 🌦 Distributed network of balloon-based weather sensors. ([Windborne](https://windbornesystems.com/){:target="_blank" rel="noopener"})  
 🌽 Efficient conversion of waste into biochar fertilizer.  
+⛏️ Environmentally friendly process for extracting valuable metals and minerals from mining waste.  
 🌲 Forest monitoring and inventory management using drones and robots. ([Treeswift](https://www.treeswift.com/){:target="_blank" rel="noopener"})  
 ⚛️ Isotope enrichment for fission and fusion reactor fuels. ([Hexium](https://www.hexium.us/){:target="_blank" rel="noopener"})  
 ♻️ Pre-treatment process for extracting and refining critical battery elements.  
