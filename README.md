@@ -64,6 +64,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 ⚙️ Custom cast metal parts.  
 🤖 Custom robot hardware provider. ([Anvil](https://anvil.bot/){:target="_blank" rel="noopener"})  
 🏗 Design software for accelerating data center construction.  
+✨ Fast, precise laser milling.  
 🔩 Marketplace for industrial components. ([Volition](https://www.govolition.com/){:target="_blank" rel="noopener"})  
 🏭 Modern OS for manufacturing companies. ([Heliux](https://www.heliux.com/){:target="_blank" rel="noopener"})  
 👀 Monitoring and auto-remediation tools for data center hardware.  
@@ -98,6 +99,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 ♻️ Pre-treatment process for extracting and refining critical battery elements.  
 📝 Site selection and permitting software for large cleantech projects. ([Blumen Systems](https://www.blumensystems.com/){:target="_blank" rel="noopener"})    
 🔋 Solid state commercial-scale hydrogen batteries.  
+🚰 Water harvesting from air in low-humidity environments.  
 
 #### Defense and Aerospace
 📑 AI-enabled finance, compliance, and workforce solutions for defense companies.  
