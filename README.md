@@ -46,13 +46,16 @@ Anna-Sofia ([<img src="../linkedin_logo.png" width="14" height="14">](https://ww
 - Previously at 8VC, Founders Fund, and Bridgewater
 - Executive Editor of the Stanford Daily
   
-Team's previous fund and angel investments: [CloudTrucks ($850m)](https://www.cloudtrucks.com/){:target="_blank" rel="noopener"}, [Dusty Robotics (🤫)](https://www.dustyrobotics.com/){:target="_blank" rel="noopener"}, [Hightouch ($1.2b)](https://hightouch.com/){:target="_blank" rel="noopener"}, [Mashgin ($1.5b)](https://www.mashgin.com/){:target="_blank" rel="noopener"}, [Placer ($1.5b)](https://www.placer.ai/){:target="_blank" rel="noopener"}, [Scalyr (acquired)](https://www.dataset.com/){:target="_blank" rel="noopener"}, [Veho ($1.5b)](https://shipveho.com/){:target="_blank" rel="noopener"}, [Vetcove (🤫)](https://www.vetcove.com/){:target="_blank" rel="noopener"}.
+Team's previous fund and angel investments: [CloudTrucks ($850m)](https://www.cloudtrucks.com/){:target="_blank" rel="noopener"}, [Dusty Robotics (🤫)](https://www.dustyrobotics.com/){:target="_blank" rel="noopener"}, [Hightouch ($2.75b)](https://hightouch.com/){:target="_blank" rel="noopener"}, [Mashgin ($1.5b)](https://www.mashgin.com/){:target="_blank" rel="noopener"}, [Placer ($1.5b)](https://www.placer.ai/){:target="_blank" rel="noopener"}, [Scalyr (acquired)](https://www.dataset.com/){:target="_blank" rel="noopener"}, [Veho ($1.5b)](https://shipveho.com/){:target="_blank" rel="noopener"}, [Vetcove (🤫)](https://www.vetcove.com/){:target="_blank" rel="noopener"}.
 
 <sub>[↑ back to top](#top)</sub>
 
 ### PORTFOLIO
 
 Most of the companies below are in stealth mode, unless their homepage links are included. Companies are listed in the core theme that they fall into.
+
+[Manufacturing](#manufacturing) · [Robotics and automation](#robotics-and-automation) · [Bio and food](#bio-and-food) · [Climate and energy](#climate-and-energy) · [Defense and Aerospace](#defense-and-aerospace) · [Hardware products](#hardware-products) · 
+
 
 #### Manufacturing
 🖨 3D printer that can produce production-grade carbon fiber parts quickly and affordably.  
@@ -102,7 +105,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🔋 Solid state commercial-scale hydrogen batteries.  
 🚰 Water harvesting from air in low-humidity environments.  
 
-#### Defense and Aerospace
+#### Defense and aerospace
 📑 AI-enabled finance, compliance, and workforce solutions for defense companies.  
 🚁 Autonomous drone swarms for military applications. ([Swarm Aero](https://www.swarm.aero/){:target="_blank" rel="noopener"})   
 📝 Compliance and collaboration software for government primes and subcontractors. ([GovPort](https://www.govport.com/){:target="_blank" rel="noopener"})  
