@@ -54,19 +54,20 @@ Team's previous fund and angel investments: [CloudTrucks ($850m)](https://www.cl
 
 Most of the companies below are in stealth mode, unless their homepage links are included. Companies are listed in the core theme that they fall into.
 
-
-#### Automation, robotics, and manufacturing
+#### Manufacturing
 🖨 3D printer that can produce production-grade carbon fiber parts quickly and affordably.  
-📦 Adaptable ASRS (automated storage and retrieval system) for warehouses. ([Mytra](https://mytra.ai/){:target="_blank" rel="noopener"})   
 ☕ An electrochemical processing platform that improves the taste of beverages without any additives.   
 🦱 Automated wig manufacturing. ([The Renatural](https://therenatural.com/){:target="_blank" rel="noopener"})   
 📐 Automation of design for manufacturing.  
 ⚙️ Custom cast metal parts.  
-🤖 Custom robot hardware provider. ([Anvil](https://anvil.bot/){:target="_blank" rel="noopener"})  
-🏗 Design software for accelerating data center construction.  
 ✨ Fast, precise laser milling.  
 🔩 Marketplace for industrial components. ([Volition](https://www.govolition.com/){:target="_blank" rel="noopener"})  
 🏭 Modern OS for manufacturing companies. ([Heliux](https://www.heliux.com/){:target="_blank" rel="noopener"})  
+
+#### Robotics and automation
+📦 Adaptable ASRS (automated storage and retrieval system) for warehouses. ([Mytra](https://mytra.ai/){:target="_blank" rel="noopener"})   
+🤖 Custom robot hardware provider. ([Anvil](https://anvil.bot/){:target="_blank" rel="noopener"})  
+🏗 Design software for accelerating data center construction.  
 👀 Monitoring and auto-remediation tools for data center hardware.  
 💉 MRI-guided high precision brain surgery.  
 🪚 Next gen sawmills. ([The Lumber Manufactory](https://www.lumbermanufactory.com/){:target="_blank" rel="noopener"})    
