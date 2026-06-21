@@ -7,18 +7,14 @@
 ![Logo](../humba_logo.png)
 </a>
 
-# The Humba Ventures Fellowship<sup> _BETA_</sup>
+# The Humba Ventures Fellowship~~<sup> _BETA_</sup>~~
 
-<span style="color: red;">[Applications are currently closed. We expect the next set of fellowships to start in early 2026.]</span>
-
-The Humba Ventures Fellowship is a part-time program for scientists, technologists, founders, and domain experts who want a closer look at how ambitious technical ideas get funded. Over five weeks, Fellows will get a seat at the table, join live pitch meetings, work with frontier founders, and learn how investors evaluate markets, teams, and technologies. Whether your background is in materials, biotech, semiconductors, space, or something else entirely, the Fellowship is a chance to share your expertise, sharpen your thinking, and help shape what gets built next!
-
-We're going to run this Fellowship three times this year, with 1-2 Fellows at a time. If the first few cohorts are a success, we'll run the program on a regular basis in the future.
+The Humba Ventures Fellowship is a part-time program for scientists, technologists, founders, and domain experts who want a closer look at how ambitious technical ideas get funded. Over six weeks, Fellows will get a seat at the table, join live pitch meetings, work with frontier founders, and learn how investors evaluate markets, teams, and technologies. Whether your background is in materials, biotech, semiconductors, space, or something else entirely, the Fellowship is a chance to share your expertise, sharpen your thinking, and help shape what gets built next!
 
 ## Who This Is For
 We're looking for curious, sharp minds with deep technical or operational expertise. You might be a scientist, engineer, researcher, ex-founder, startup operator or domain specialist. Whether you're working at a lab, industry, between ventures, or simply exploring what's next, if you've ever wanted to understand how early-stage deep tech companies get funded, and have ideas about what should be built, we'd love to meet you.
 
-For now, Fellows must be based in the US or Canada, and your schedule should be flexible enough that you can join 5-10 hours of pitches and meetings each week.
+For now, Fellows must be based in the US or Canada, and your schedule should be flexible enough that you can join 5-10 hours of pitches and meetings each week. We will email you about new pitch meetings 12-48 hours out, so the program works well if your schedule is relatively flexible.
 
 ## What You'll Do
 As a Fellow, you'll get hands-on exposure to how we evaluate and support companies:
@@ -28,15 +24,17 @@ As a Fellow, you'll get hands-on exposure to how we evaluate and support compani
 - Attend weekly AMAs and short talks on the venture model, investing frameworks, and startup building
 
 ## What To Expect
-The Fellowship is a compensated, 5-week, part-time program designed to fit alongside a full-time role or research schedule. Fellows commit roughly 5 — 10 hours per week, joining pitch meetings as their schedules allow, plus a weekly AMA with Humba's investing team, and a few short sessions diving into how venture works behind the scenes.
+The Fellowship is a compensated, 7-week, part-time program designed to fit alongside a full-time role or research schedule. Fellows commit roughly 5 — 10 hours per week, joining pitch meetings as their schedules allow, plus a weekly AMA with Humba's investing team, and a few short sessions diving into how venture works behind the scenes.
 
 ## Why We're Doing This
 We believe the best investment decisions and insights come from collaboration with people who've built, researched, or operated in these fields firsthand. This is a way for us to learn from your expertise, widen our lens, and maybe help you on your next chapter as a founder, investor, or technologist. It's also a chance to become part of Humba's growing community of technologists, passionate about building at the edge of the possible.
 
 ## How To Apply
-The first 3 batches with 1-2 Fellows each will be:
-* July 28 — August 29
-* September 1 — October 3
-* October 6 — November 7
+The application takes about 30 minutes and can be found at: [TBD]
+
+The next 3 batches with 2-3 Fellows each will be:
+* July 13 - August 21
+* August 24 - October 2
+* October 5 — November 13
 
 **Applications are currently closed**. Updates on future cohorts will be posted on Humba's [blog](https://blog.humbaventures.com/){:target="_blank" rel="noopener"}.
