@@ -7,7 +7,7 @@
 ![Logo](../humba_logo.png)
 </a>
 
-# The Humba Ventures Deep Tech Fellowship
+# Deep Tech Fellowship
 
 The Humba Ventures Deep Tech Fellowship is a part-time program for scientists, technologists, founders, and domain experts who want a closer look at how ambitious technical ideas get funded. Over six weeks, Fellows will get a seat at the table, join live pitch meetings, work with frontier founders, and learn how investors evaluate markets, teams, and technologies. Whether your background is in materials, biotech, semiconductors, space, or something else entirely, the Fellowship is a chance to share your expertise, sharpen your thinking, and help shape what gets built next!
 
