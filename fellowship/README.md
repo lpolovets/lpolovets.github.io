@@ -24,7 +24,7 @@ As a Fellow, you'll get hands-on exposure to how we evaluate and support compani
 - Attend weekly AMAs and short talks on the venture model, investing frameworks, and startup building
 
 ## What To Expect
-The Fellowship is a compensated, 7-week, part-time program designed to fit alongside a full-time role or research schedule. Fellows commit roughly 5 — 10 hours per week, joining pitch meetings as their schedules allow, plus a weekly AMA with Humba's investing team, and a few short sessions diving into how venture works behind the scenes.
+The Fellowship is a compensated, 6-week, part-time program designed to fit alongside a full-time role or research schedule. Fellows commit roughly 5 — 10 hours per week, joining pitch meetings as their schedules allow, plus a weekly AMA with Humba's investing team, and a few short sessions diving into how venture works behind the scenes.
 
 ## Why We're Doing This
 We believe the best investment decisions and insights come from collaboration with people who've built, researched, or operated in these fields firsthand. This is a way for us to learn from your expertise, widen our lens, and maybe help you on your next chapter as a founder, investor, or technologist. It's also a chance to become part of Humba's growing community of technologists, passionate about building at the edge of the possible. So far, half of previous fellows continued with their existing roles, while the rest became founders or VCs or joined interesting startups that they met through the program. There are no expectations for the program other than having fun and learning together.
