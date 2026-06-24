@@ -103,7 +103,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 ♻️ Pre-treatment process for extracting and refining critical battery elements.  
 📝 Site selection and permitting software for large cleantech projects. ([Blumen Systems](https://www.blumensystems.com/){:target="_blank" rel="noopener"})    
 🔋 Solid state commercial-scale hydrogen batteries.  
-🚰 Water harvesting from air in low-humidity environments.  
+🚰 Water harvesting from air in low-humidity environments. ([AquaPoro](https://www.aquaporo.com/){:target="_blank" rel="noopener"})  
 
 #### Defense and aerospace
 📑 AI-enabled finance, compliance, and workforce solutions for defense companies.  
