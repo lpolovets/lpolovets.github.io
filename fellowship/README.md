@@ -8,14 +8,12 @@
 </a>
 
 # Deep Tech Fellowship
-### A six-week, paid fellowship for deep technical experts who want a front-row seat to early-stage deep tech investing.
-
-Apply [here](https://airtable.com/appXTuJS9xxv67Z6E/pag16qLvJSUlwABzY/form){:target="_blank" rel="noopener"}.
+**[Apply here](https://airtable.com/appXTuJS9xxv67Z6E/pag16qLvJSUlwABzY/form){:target="_blank" rel="noopener"}**
 
 The Humba Ventures Deep Tech Fellowship is a part-time program for scientists, technologists, founders, and domain experts who want a closer look at how ambitious technical ideas get funded. Over six weeks, Fellows will get a seat at the table, join live pitch meetings, work with frontier founders, and learn how investors evaluate markets, teams, and technologies. Whether your background is in materials, biotech, semiconductors, space, or something else entirely, the Fellowship is a chance to share your expertise, sharpen your thinking, and help shape what gets built next.
 
 ## Who This Is For
-We're looking for curious, sharp minds with deep technical or operational expertise. You might be a scientist, engineer, researcher, ex-founder, startup operator, or domain specialist. Whether you're working at a lab, at a company, between ventures, or simply exploring what's next, if you've ever wanted to understand how early-stage deep tech companies get funded, and have ideas about what should be built, we'd love to meet you. In terms of level of experience, past fellows have typically either had a Masters or PhD, and/or at least a few years of work experience.
+We're looking for curious, sharp minds with deep technical or operational expertise. You might be a scientist, engineer, researcher, ex-founder, startup operator, or domain specialist. Whether you're working at a lab, at a company, between ventures, or simply exploring what's next, if you've ever wanted to understand how early-stage deep tech companies get funded, and have ideas about what should be built, we'd love to meet you. In terms of level of experience, past fellows have typically either had a Master's or PhD, and/or at least a few years of work experience.
 
 Fellows must be based in the US or Canada, and your schedule should be flexible enough that you can join 5-10 hours of pitches and meetings each week during Pacific business hours. We will email you about new pitch meetings 12-48 hours out, so the program works well if your schedule is relatively flexible -- and not so well if it's not.
 
@@ -32,9 +30,9 @@ The Fellowship is a compensated, 6-week, part-time program designed to fit along
 By the end of the fellowship, fellows should have a sharper understanding of how deep tech companies are evaluated, what makes a technical startup fundable, how founders pitch frontier technologies, and where their own expertise may translate into company-building, investing, or advisory work.
 
 ## Why We're Doing This
-We believe the best investment decisions and insights come from collaboration with people who've built, researched, or operated in these fields firsthand. This is a way for us to learn from your expertise, widen our lens, and maybe help you on your next chapter as a founder, investor, or technologist. It's also a chance to become part of Humba's growing community of technologists, passionate about building at the edge of the possible. So far, half of previous fellows continued with their existing roles, while the rest became founders or VCs or joined interesting startups that they met through the program. There are no expectations for the program other than having fun and learning together.
+We believe the best investment decisions and insights come from collaboration with people who've built, researched, or operated in these fields firsthand. This is a way for us to learn from your expertise, widen our lens, and maybe help you on your next chapter as a founder, investor, or technologist. It's also a chance to become part of Humba's growing community of technologists, passionate about building at the edge of the possible. So far, about half of past fellows have continued in their existing roles, while others have become founders, joined venture firms, or taken roles at startups they encountered through the program. There are no expectations for the program other than having fun and learning together.
 
-## Review from Past Fellows
+## Reviews from Past Fellows
 
 > The biggest value of the Humba Fellowship was the combination of breadth and access: I got **exposure to dozens of early-stage deep tech companies**, which sharpened my understanding of what great looks like, and I had direct access to learn from one of the leading investors in the space. The network of fellows was also exceptional - **I left with friendships and connections that I expect will last for decades**.
 
@@ -61,7 +59,7 @@ We believe the best investment decisions and insights come from collaboration wi
 ## Areas of Interest
 Some areas of expertise that our team is especially excited about (applicants in these areas receive a slight boost):
 
-* **Advanced manufacturing & industrials**: processing engineering, manufacturing, industrial infrastructure (PLCs, chemicals, continuous processes), skilled trades (e.g. welding)
+* **Advanced manufacturing & industrials**: process engineering, manufacturing, industrial infrastructure (PLCs, chemicals, continuous processes), skilled trades (e.g. welding)
 * **Energy, materials & critical infrastructure**: nuclear energy, critical minerals, power electronics, petroleum engineering, subsea autonomy
 * **Compute, sensing & electronics**: chips/chip design, photonics, lasers, RF, quantum sensing
 * **Aerospace, defense & robotics**: satellites and space infrastructure, defense business development, robotics and VLAs
@@ -73,7 +71,7 @@ Some areas of expertise that our team is especially excited about (applicants in
 
 We will reach out to finalists and conduct 20-minute virtual interviews the week of July 6, and the first 6-week cohort will kick off on July 13.
 
-The next 3 batches with 2-3 Fellows each will be:
+The next 3 cohorts with 2-3 Fellows each will be:
 * July 13 - August 21
 * August 24 - October 2
 * October 5 — November 13
