@@ -8,12 +8,12 @@
 </a>
 
 # Deep Tech Fellowship
-**[Apply here](https://airtable.com/appXTuJS9xxv67Z6E/pag16qLvJSUlwABzY/form){:target="_blank" rel="noopener"}**
+**Summary:** a six-week, paid fellowship for technical and operational experts who want a front-row seat to early-stage deep tech investing. [Apply here](https://airtable.com/appXTuJS9xxv67Z6E/pag16qLvJSUlwABzY/form){:target="_blank" rel="noopener"}
 
 The Humba Ventures Deep Tech Fellowship is a part-time program for scientists, technologists, founders, and domain experts who want a closer look at how ambitious technical ideas get funded. Over six weeks, Fellows will get a seat at the table, join live pitch meetings, work with frontier founders, and learn how investors evaluate markets, teams, and technologies. Whether your background is in materials, biotech, semiconductors, space, or something else entirely, the Fellowship is a chance to share your expertise, sharpen your thinking, and help shape what gets built next.
 
 ## Who This Is For
-We're looking for curious, sharp minds with deep technical or operational expertise. You might be a scientist, engineer, researcher, ex-founder, startup operator, or domain specialist. Whether you're working at a lab, at a company, between ventures, or simply exploring what's next, if you've ever wanted to understand how early-stage deep tech companies get funded, and have ideas about what should be built, we'd love to meet you. In terms of level of experience, past fellows have typically either had a Master's or PhD, and/or at least a few years of work experience.
+We're looking for curious, sharp minds with deep technical or operational expertise. You might be a scientist, engineer, researcher, ex-founder, startup operator, or domain specialist. Whether you're working at a lab, at a company, between ventures, or simply exploring what's next, if you've ever wanted to understand how early-stage deep tech companies get funded, and have ideas about what should be built, we'd love to meet you. Past fellows have typically had a master’s degree, PhD, or several years of relevant work experience.
 
 Fellows must be based in the US or Canada, and your schedule should be flexible enough that you can join 5-10 hours of pitches and meetings each week during Pacific business hours. We will email you about new pitch meetings 12-48 hours out, so the program works well if your schedule is relatively flexible -- and not so well if it's not.
 
@@ -30,7 +30,7 @@ The Fellowship is a compensated, 6-week, part-time program designed to fit along
 By the end of the fellowship, fellows should have a sharper understanding of how deep tech companies are evaluated, what makes a technical startup fundable, how founders pitch frontier technologies, and where their own expertise may translate into company-building, investing, or advisory work.
 
 ## Why We're Doing This
-We believe the best investment decisions and insights come from collaboration with people who've built, researched, or operated in these fields firsthand. This is a way for us to learn from your expertise, widen our lens, and maybe help you on your next chapter as a founder, investor, or technologist. It's also a chance to become part of Humba's growing community of technologists, passionate about building at the edge of the possible. So far, about half of past fellows have continued in their existing roles, while others have become founders, joined venture firms, or taken roles at startups they encountered through the program. There are no expectations for the program other than having fun and learning together.
+We believe the best investment decisions and insights come from collaboration with people who've built, researched, or operated in these fields firsthand. This is a way for us to learn from your expertise, widen our lens, and maybe help you on your next chapter as a founder, investor, or technologist. It's also a chance to become part of Humba's growing community of technologists, passionate about building at the edge of the possible. So far, about half of past fellows have continued in their existing roles, while others have become founders, joined venture firms, or taken roles at startups they encountered through the program. There is no required post-fellowship commitment; our goal is to build a high-trust community of exceptional technical people who are curious about company-building, investing, and frontier technologies.
 
 ## Reviews from Past Fellows
 
