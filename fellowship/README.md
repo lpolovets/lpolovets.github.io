@@ -77,7 +77,7 @@ Some areas of expertise that our team is especailly excited about (applicants in
 
 
 ## How To Apply
-The application takes about 30 minutes and can be found at: [TBD]
+The application takes about 30 minutes and can be found [here](https://airtable.com/appXTuJS9xxv67Z6E/pag16qLvJSUlwABzY/form){:target="_blank" rel="noopener"}.
 
 Applications are due 11:59pm on July 3. We will reach out to finalists and conduct 20-minute virtual interviews the week of July 6, and the first 6-week cohort will kick off on July 13.
 
