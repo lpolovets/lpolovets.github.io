@@ -8,11 +8,14 @@
 </a>
 
 # Deep Tech Fellowship
+### A six-week, paid fellowship for deep technical experts who want a front-row seat to early-stage deep tech investing.
 
-The Humba Ventures Deep Tech Fellowship is a part-time program for scientists, technologists, founders, and domain experts who want a closer look at how ambitious technical ideas get funded. Over six weeks, Fellows will get a seat at the table, join live pitch meetings, work with frontier founders, and learn how investors evaluate markets, teams, and technologies. Whether your background is in materials, biotech, semiconductors, space, or something else entirely, the Fellowship is a chance to share your expertise, sharpen your thinking, and help shape what gets built next!
+Apply [here](https://airtable.com/appXTuJS9xxv67Z6E/pag16qLvJSUlwABzY/form){:target="_blank" rel="noopener"}.
+
+The Humba Ventures Deep Tech Fellowship is a part-time program for scientists, technologists, founders, and domain experts who want a closer look at how ambitious technical ideas get funded. Over six weeks, Fellows will get a seat at the table, join live pitch meetings, work with frontier founders, and learn how investors evaluate markets, teams, and technologies. Whether your background is in materials, biotech, semiconductors, space, or something else entirely, the Fellowship is a chance to share your expertise, sharpen your thinking, and help shape what gets built next.
 
 ## Who This Is For
-We're looking for curious, sharp minds with deep technical or operational expertise. You might be a scientist, engineer, researcher, ex-founder, startup operator or domain specialist. Whether you're working at a lab, at a company, between ventures, or simply exploring what's next, if you've ever wanted to understand how early-stage deep tech companies get funded, and have ideas about what should be built, we'd love to meet you. In terms of level of experience, past fellows have typically either had a Masters or PhD, and/or at least a few years of work experience.
+We're looking for curious, sharp minds with deep technical or operational expertise. You might be a scientist, engineer, researcher, ex-founder, startup operator, or domain specialist. Whether you're working at a lab, at a company, between ventures, or simply exploring what's next, if you've ever wanted to understand how early-stage deep tech companies get funded, and have ideas about what should be built, we'd love to meet you. In terms of level of experience, past fellows have typically either had a Masters or PhD, and/or at least a few years of work experience.
 
 Fellows must be based in the US or Canada, and your schedule should be flexible enough that you can join 5-10 hours of pitches and meetings each week during Pacific business hours. We will email you about new pitch meetings 12-48 hours out, so the program works well if your schedule is relatively flexible -- and not so well if it's not.
 
@@ -31,55 +34,42 @@ We believe the best investment decisions and insights come from collaboration wi
 
 ## Review from Past Fellows
 
-> The biggest value of the Humba Fellowship was the combination of breadth and access: I got exposure to dozens of early-stage deep tech companies, which sharpened my understanding of what great looks like, and I had direct access to learn from one of the leading investors in the space. The network of fellows was also exceptional—I left with friendships and connections that I expect will last for decades.
+> The biggest value of the Humba Fellowship was the combination of breadth and access: I got **exposure to dozens of early-stage deep tech companies**, which sharpened my understanding of what great looks like, and I had direct access to learn from one of the leading investors in the space. The network of fellows was also exceptional - **I left with friendships and connections that I expect will last for decades**.
 
 <br>
 
-> The fellowship gave me insight into how VC's think from the other side of the table and gain insights into what's getting funded right now. Got total freedom to jump into calls and ask questions. Proved really invaluable now that I'm doing my own startup.
+> The fellowship **gave me insight into how VC's think** from the other side of the table and gain insights into what's getting funded right now. Got total freedom to jump into calls and ask questions. Proved really invaluable now that I'm doing my own startup.
 
 <br>
 
-> As an engineer, it’s easy to focus narrowly on technical merits. Sitting in on pitches challenged that instinct, forcing me to evaluate products in context: market size, competitors, longitudinal outlook, and viability. The Humba fellowship sharpened how I assess early-stage deep tech companies. Anna and Leo were great, and I loved going down rabbit holes with them.
+> As an engineer, it’s easy to focus narrowly on technical merits. Sitting in on pitches challenged that instinct, forcing me to evaluate products in context: market size, competitors, longitudinal outlook, and viability. The Humba fellowship **sharpened how I assess early-stage deep tech companies**. Anna and Leo were great, and I loved going down rabbit holes with them.
 
 <br>
 
-> As a former SpaceX engineer and early startup employee, I found the Humba Fellowship to be an incredible opportunity to get smart fast on the world of deep tech VC, startup fundraising, and diligence from a leading VC's perspective. Learning from Leo and Anna while investing in cutting-edge tech and meeting with pre-seed founders is worth every minute no matter your role today or in the future. Do yourself a favor and apply!
+> As a former SpaceX engineer and early startup employee, I found the Humba Fellowship to be an incredible opportunity to get smart fast on the world of deep tech VC, startup fundraising, and diligence from a leading VC's perspective. **Learning from Leo and Anna while investing in cutting-edge tech and meeting with pre-seed founders is worth every minute** no matter your role today or in the future. Do yourself a favor and apply!
 
 <br>
 
-> The Humba fellowship was a great opportunity for my professional development. Being involved in the diligence side on so many different opportunities gave me a much deeper understanding of the process and what makes both a good pitch and good investment from the other side of the table. It was great getting a chance to know and work with Leo and Anna, as well as the other fellows.
+> The Humba fellowship was a great opportunity for my professional development. Being involved in the diligence side on so many different opportunities **gave me a much deeper understanding of the process and what makes both a good pitch and good investment** from the other side of the table. It was great getting a chance to know and work with Leo and Anna, as well as the other fellows.
 
 <br>
 
-> The Humba fellowship gave me the confidence to leave my job and start a company. The fellowship demystifies the process of how deep tech startups get funding. As an engineer who's since started a company, this program's served as a really actionable launchpad to take the leap from industry to entrepreneurship. Looking at the career trajectories of last year's cohort, the Humba Fellowship is starting to feel like a talent hotbed for the next generation of deep tech founders and investors.
+> **The Humba fellowship gave me the confidence to leave my job and start a company**. The fellowship demystifies the process of how deep tech startups get funding. As an engineer who's since started a company, this program's served as a really actionable launchpad to take the leap from industry to entrepreneurship. Looking at the career trajectories of last year's cohort, the Humba Fellowship is starting to feel like a talent hotbed for the next generation of deep tech founders and investors.
 
 ## Areas of Interest
 Some areas of expertise that our team is especially excited about (applicants in these areas receive a slight boost):
-* chemistry
-* chips/chip design
-* critical minerals
-* defense biz dev
-* industrials infrastructure (e.g. PLCs, chemicals, continuous processes)
-* lasers
-* manufacturing
-* nuclear energy
-* petroleum engineers
-* pharma biz dev
-* photonics
-* power electronics
-* process engineering
-* quantum sensing
-* RF
-* robotics & VLAs
-* satellites and space infrastructure
-* skilled trades (e.g. welding)
-* subsea autonomy
+
+* **Advanced manufacturing & industrials**: processing engineering, manufacturing, industrial infrastructure (PLCs, chemicals, continuous processes), skilled trades (e.g. welding)
+* **Energy, materials & critical infrastructure**: nuclear energy, critical minerals, power electronics, petroleum engineering, subsea autonomy
+* **Compute, sensing & electronics**: chips/chip design, photonics, lasers, RF, quantum sensing
+* **Aerospace, defense & robotics**: satellites and space infrastructure, defense business development, robotics and VLAs
+* **Bio & pharma**: chemistry, pharma business development
 
 
 ## How To Apply
-The application takes about 30 minutes and can be found [here](https://airtable.com/appXTuJS9xxv67Z6E/pag16qLvJSUlwABzY/form){:target="_blank" rel="noopener"}.
+**Apply by July 3, 2026 at 11:59pm PT.** The [application](https://airtable.com/appXTuJS9xxv67Z6E/pag16qLvJSUlwABzY/form){:target="_blank" rel="noopener"} takes about 30 minutes.
 
-Applications are due 11:59pm on July 3. We will reach out to finalists and conduct 20-minute virtual interviews the week of July 6, and the first 6-week cohort will kick off on July 13.
+We will reach out to finalists and conduct 20-minute virtual interviews the week of July 6, and the first 6-week cohort will kick off on July 13.
 
 The next 3 batches with 2-3 Fellows each will be:
 * July 13 - August 21
