@@ -54,7 +54,7 @@ Team's previous fund and angel investments: [CloudTrucks ($850m)](https://www.cl
 
 Most of the companies below are in stealth mode, unless their homepage links are included. Companies are listed in the core theme that they fall into.
 
-[Manufacturing](#manufacturing) · [Robotics and automation](#robotics-and-automation) · [Bio and food](#bio-and-food) · [Climate and energy](#climate-and-energy) · [Defense and Aerospace](#defense-and-aerospace) · [Hardware products](#hardware-products) · 
+[Manufacturing](#manufacturing) · [Robotics and automation](#robotics-and-automation) · [Bio and food](#bio-and-food) · [Climate and energy](#climate-and-energy) · [Defense and Aerospace](#defense-and-aerospace) · [Hardware products](#hardware-products)
 
 
 #### Manufacturing
