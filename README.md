@@ -70,11 +70,14 @@ Most of the companies below are in stealth mode, unless their homepage links are
 #### Robotics and automation
 📦 Adaptable ASRS (automated storage and retrieval system) for warehouses. ([Mytra](https://mytra.ai/){:target="_blank" rel="noopener"})   
 🤖 Custom robot hardware provider. ([Anvil](https://anvil.bot/){:target="_blank" rel="noopener"})  
-🏗 Design software for accelerating data center construction.  
-👀 Monitoring and auto-remediation tools for data center hardware.  
 💉 MRI-guided high precision brain surgery.  
 🪚 Next gen sawmills. ([The Lumber Manufactory](https://www.lumbermanufactory.com/){:target="_blank" rel="noopener"})    
 🦾 Software infrastructure for robot arms. ([Jacobi Robotics](https://jacobirobotics.com/){:target="_blank" rel="noopener"}) 
+
+#### Chips and data centers
+🏗 Design software for accelerating data center construction.  
+👀 Monitoring and auto-remediation tools for data center hardware.  
+🗄 Reducing the memory bottleneck in AI inference with algorithms and custom chips.  
 
 #### Bio and food
 💊 AI for designing simple pill variants of injectable antibody drugs.  
