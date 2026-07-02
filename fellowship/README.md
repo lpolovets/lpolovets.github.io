@@ -57,14 +57,14 @@ We believe the best investment decisions and insights come from collaboration wi
 > **The Humba fellowship gave me the confidence to leave my job and start a company**. The fellowship demystifies the process of how deep tech startups get funding. As an engineer who's since started a company, this program's served as a really actionable launchpad to take the leap from industry to entrepreneurship. Looking at the career trajectories of last year's cohort, the Humba Fellowship is starting to feel like a talent hotbed for the next generation of deep tech founders and investors.
 
 ## How To Apply
-**Apply by July 5, 2026 at 11:59pm PT.** The [application](https://airtable.com/appXTuJS9xxv67Z6E/pag16qLvJSUlwABzY/form){:target="_blank" rel="noopener"} takes about 30 minutes.
+**Apply by July 9, 2026 at 11:59pm ET.** The [application](https://airtable.com/appXTuJS9xxv67Z6E/pag16qLvJSUlwABzY/form){:target="_blank" rel="noopener"} takes about 30 minutes.
 
-We will reach out to finalists and conduct 20-minute virtual interviews the week of July 6, and the first 6-week cohort will kick off on July 13.
+We will reach out to finalists and conduct 20-minute virtual interviews during the weeks of July 6 and July 13, and the first 6-week cohort will kick off on July 20.
 
 The 2026 cohorts with 2-3 Fellows each will be:
-* July 13 - August 21
-* August 24 - October 2
-* October 5 — November 13
+* July 20 - August 28
+* August 31 - October 9
+* October 12 — November 20
 
 Updates on future cohorts will be posted on Humba's [blog](https://blog.humbaventures.com/){:target="_blank" rel="noopener"}.
  
