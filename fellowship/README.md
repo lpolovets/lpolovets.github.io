@@ -10,7 +10,7 @@
 # Deep Tech Fellowship
 **A six-week, paid fellowship for technical and operational experts who want a front-row seat to early-stage deep tech investing. [Apply here](https://airtable.com/appXTuJS9xxv67Z6E/pag16qLvJSUlwABzY/form){:target="_blank" rel="noopener"}.**
 
-The Humba Ventures Deep Tech Fellowship is a part-time program for scientists, technologists, founders, and domain experts who want to understand how ambitious technical ideas get funded. Over six weeks, Fellows will get a seat at the table, join live pitch meetings, work with frontier founders, and learn how investors evaluate markets, teams, and technologies. Whether your background is in materials, biotech, semiconductors, space, or something else entirely, the Fellowship is a chance to share your expertise, sharpen your thinking, and help shape what gets built next.
+The Humba Ventures Deep Tech Fellowship is a part-time virtual program for scientists, technologists, founders, and domain experts who want to understand how ambitious technical ideas get funded. Over six weeks, Fellows will get a seat at the table, join live pitch meetings, work with frontier founders, and learn how investors evaluate markets, teams, and technologies. Whether your background is in materials, biotech, semiconductors, space, or something else entirely, the Fellowship is a chance to share your expertise, sharpen your thinking, and help shape what gets built next.
 
 ## Who This Is For
 We're looking for curious, sharp minds with deep technical or operational expertise. You might be a scientist, engineer, researcher, ex-founder, startup operator, or domain specialist. Whether you're working at a lab, at a company, between ventures, or simply exploring what's next, if you've ever wanted to understand how early-stage deep tech companies get funded, and have ideas about what should be built, we'd love to meet you. Past fellows have typically had a master’s degree, PhD, or several years of relevant work experience.
@@ -55,16 +55,6 @@ We believe the best investment decisions and insights come from collaboration wi
 <br>
 
 > **The Humba fellowship gave me the confidence to leave my job and start a company**. The fellowship demystifies the process of how deep tech startups get funding. As an engineer who's since started a company, this program's served as a really actionable launchpad to take the leap from industry to entrepreneurship. Looking at the career trajectories of last year's cohort, the Humba Fellowship is starting to feel like a talent hotbed for the next generation of deep tech founders and investors.
-
-## Areas of Interest
-Some areas of expertise that our team is especially excited about (applicants in these areas receive a slight boost):
-
-* **Advanced manufacturing & industrials**: process engineering, manufacturing, industrial infrastructure (PLCs, chemicals, continuous processes), skilled trades (e.g. welding)
-* **Energy, materials & critical infrastructure**: nuclear energy, critical minerals, power electronics, petroleum engineering, subsea autonomy
-* **Compute, sensing & electronics**: chips/chip design, photonics, lasers, RF, quantum sensing
-* **Aerospace, defense & robotics**: satellites and space infrastructure, defense business development, robotics and VLAs
-* **Bio & pharma**: chemistry, pharma business development
-
 
 ## How To Apply
 **Apply by July 3, 2026 at 11:59pm PT.** The [application](https://airtable.com/appXTuJS9xxv67Z6E/pag16qLvJSUlwABzY/form){:target="_blank" rel="noopener"} takes about 30 minutes.
