@@ -64,7 +64,7 @@ We will reach out to finalists and conduct 20-minute virtual interviews during t
 The 2026 cohorts with 2-3 Fellows each will be:
 * July 20 - August 28
 * August 31 - October 9
-* October 12 — November 20
+* October 12 - November 20
 
 Updates on future cohorts will be posted on Humba's [blog](https://blog.humbaventures.com/){:target="_blank" rel="noopener"}.
  
