@@ -67,3 +67,4 @@ The 2026 cohorts with 2-3 Fellows each will be:
 * October 5 — November 13
 
 Updates on future cohorts will be posted on Humba's [blog](https://blog.humbaventures.com/){:target="_blank" rel="noopener"}.
+ 
