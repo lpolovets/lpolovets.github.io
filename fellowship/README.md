@@ -57,7 +57,7 @@ We believe the best investment decisions and insights come from collaboration wi
 > **The Humba fellowship gave me the confidence to leave my job and start a company**. The fellowship demystifies the process of how deep tech startups get funding. As an engineer who's since started a company, this program's served as a really actionable launchpad to take the leap from industry to entrepreneurship. Looking at the career trajectories of last year's cohort, the Humba Fellowship is starting to feel like a talent hotbed for the next generation of deep tech founders and investors.
 
 ## How To Apply
-**Apply by July 9, 2026 at 11:59pm ET.** The [application](https://airtable.com/appXTuJS9xxv67Z6E/pag16qLvJSUlwABzY/form){:target="_blank" rel="noopener"} takes about 30 minutes.
+**Apply by July 9, 2026 at 11:59pm ET.** The [application](https://airtable.com/appXTuJS9xxv67Z6E/pag16qLvJSUlwABzY/form){:target="_blank" rel="noopener"} takes about 20-30 minutes.
 
 We will reach out to finalists and conduct 20-minute virtual interviews during the weeks of July 6 and July 13, and the first 6-week cohort will kick off on July 20.
 
