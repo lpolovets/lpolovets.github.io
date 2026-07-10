@@ -8,6 +8,8 @@
 </a>
 
 # Deep Tech Fellowship
+**<div style="color: red;">Applications for 2026 cohorts are currently closed. Please follow Humba's [blog](https://blog.humbaventures.com/) for news about future annual cohorts.</div>**
+
 **A six-week, paid virtual fellowship for technical and operational experts who want a front-row seat to early-stage deep tech investing. [Apply here](https://airtable.com/appXTuJS9xxv67Z6E/pag16qLvJSUlwABzY/form){:target="_blank" rel="noopener"}.**
 
 The Humba Ventures Deep Tech Fellowship is a part-time virtual program for scientists, technologists, founders, and domain experts who want to understand how ambitious technical ideas get funded. Over six weeks, Fellows will get a seat at the table, join live pitch meetings, work with frontier founders, and learn how investors evaluate markets, teams, and technologies. Whether your background is in materials, biotech, semiconductors, space, or something else entirely, the Fellowship is a chance to share your expertise, sharpen your thinking, and help shape what gets built next.
@@ -57,14 +59,4 @@ We believe the best investment decisions and insights come from collaboration wi
 > **The Humba fellowship gave me the confidence to leave my job and start a company**. The fellowship demystifies the process of how deep tech startups get funding. As an engineer who's since started a company, this program's served as a really actionable launchpad to take the leap from industry to entrepreneurship. Looking at the career trajectories of last year's cohort, the Humba Fellowship is starting to feel like a talent hotbed for the next generation of deep tech founders and investors.
 
 ## How To Apply
-**Apply by July 9, 2026 at 11:59pm ET.** The [application](https://airtable.com/appXTuJS9xxv67Z6E/pag16qLvJSUlwABzY/form){:target="_blank" rel="noopener"} takes about 20-30 minutes.
-
-We will reach out to finalists and conduct 20-minute virtual interviews during the weeks of July 6 and July 13, and the first 6-week cohort will kick off on July 20.
-
-The 2026 cohorts with 2-3 Fellows each will be:
-* July 20 - August 28
-* August 31 - October 9
-* October 12 - November 20
-
-Updates on future cohorts will be posted on Humba's [blog](https://blog.humbaventures.com/){:target="_blank" rel="noopener"}.
- 
+**<div style="color: red;">Applications for 2026 cohorts are currently closed. Please follow Humba's [blog](https://blog.humbaventures.com/) for news about future annual cohorts.</div>**
