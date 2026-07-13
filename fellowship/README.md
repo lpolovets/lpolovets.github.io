@@ -8,7 +8,7 @@
 </a>
 
 # Deep Tech Fellowship
-**<div style="color: red;">Applications for 2026 cohorts are currently closed. Please follow Humba's [blog](https://blog.humbaventures.com/) for news about future annual cohorts.</div>**
+**Applications for 2026 cohorts are currently closed. Please follow Humba's [blog](https://blog.humbaventures.com/) for news about future annual cohorts.**
 
 **A six-week, paid virtual fellowship for technical and operational experts who want a front-row seat to early-stage deep tech investing. [Apply here](https://airtable.com/appXTuJS9xxv67Z6E/pag16qLvJSUlwABzY/form){:target="_blank" rel="noopener"}.**
 
@@ -59,4 +59,4 @@ We believe the best investment decisions and insights come from collaboration wi
 > **The Humba fellowship gave me the confidence to leave my job and start a company**. The fellowship demystifies the process of how deep tech startups get funding. As an engineer who's since started a company, this program's served as a really actionable launchpad to take the leap from industry to entrepreneurship. Looking at the career trajectories of last year's cohort, the Humba Fellowship is starting to feel like a talent hotbed for the next generation of deep tech founders and investors.
 
 ## How To Apply
-**<div style="color: red;">Applications for 2026 cohorts are currently closed. Please follow Humba's [blog](https://blog.humbaventures.com/) for news about future annual cohorts.</div>**
+**Applications for 2026 cohorts are currently closed. Please follow Humba's [blog](https://blog.humbaventures.com/) for news about future annual cohorts.**
