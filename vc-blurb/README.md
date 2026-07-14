@@ -1,0 +1,11 @@
+[Humba Ventures](https://humbaventures.com/) is an early-stage fund focused on deep tech and American Dynamism companies. We write $750k-$1.5m checks and we've invested in everything from organoids and battery recycling to wig-making robots and interceptor missiles.
+
+We've backed companies like [Mytra](https://mytra.ai/){:target="_blank" rel="noopener"} (Eclipse + Greenoaks), [Antares](https://antaresindustries.com/){:target="_blank" rel="noopener"} (Caffeinated + AltCap), [Northwood Space](https://www.northwoodspace.io/){:target="_blank" rel="noopener"} (a16z + Founders Fund), and [Swarm Aero](https://www.swarm.aero/){:target="_blank" rel="noopener"} (Founders Fund + Khosla).
+
+Why founders choose to work with us:
+* **We're highly technical partners.** Leo was LinkedIn's second engineering hire and brings an engineer's mindset to company building. Anna has published extensively on [deep](https://blog.humbaventures.com/s/how-its-built){:target="_blank" rel="noopener"} [tech](https://research.contrary.com/foundations-and-frontiers){:target="_blank" rel="noopener"} and helps technical founders communicate complex ideas clearly to customers, recruits, and investors.
+* **We're a small fund with a big platform.** We're a sister fund to Susa Ventures ($750m+ AUM; seed investor in Robinhood, Flexport, and others). Founders get the attention of a boutique fund with the network and resources of a much larger platform, from temporary SF office space to recruiting support and 100+ partner discounts.
+* **We help founders raise great rounds.** Our companies raise $2-$3 of co-investment for every $1 we invest, and our seed-to-Series A graduation rate is 3x+ the industry average. Fundraising is one of the highest-leverage ways we can help, so we spend a lot of time on it.
+* **We're engaged but not meddlesome**. We have (optional) monthly catch-ups with every early stage founder, and we help with closing hires, GTM, strategy, investor decks -- whatever's highest leverage. If we're not the best person to help, we'll connect you to someone who is -- or step aside. We don't panic, judge, or micromanage when things aren't working well; we just help you think clearly and move forward.
+
+If you'd like to learn more, visit our [website](https://humbaventures.com/) for our portfolio, writing, and more about how we work with founders.
