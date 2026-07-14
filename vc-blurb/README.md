@@ -1,11 +1,7 @@
-# Humba Ventures
+**Check size**: $750k–$1.5m
 
-**Check size**: $750k-$1.5m
+**Valuation**: We occasionally make exceptions, but most investments are at $30m post-money or below.
 
-**Valuation range**: We'll make 1-2 exceptions per year, but mostly invest at $30m post-money or less.
+**Focus**: Deep tech and American Dynamism. About 90% of our portfolio involves building in the physical world (hardware, robotics, manufacturing, bio, defense, climate/energy, space, chips, etc). The other 10% is software for industrial sectors like defense and manufacturing.
 
-**Focus areas**: We love everything related to deep tech or American Dynamism. 90% of our investments have some physical aspect to them, while 10% are building software for industries like defense or manufacturing.
-
-In practice, the most common categories that we invest in are hardware, robotics, bio, manufacturing, defense, and climate/energy. But we're open-minded and have invested in things like chips, agtech, and space.
-
-We like spiky founders that are working on unique ideas. The fewer modern competitors a company has, the more likely we are to be a good fit.
+**Taste**: We like spiky founders working on unconventional ideas. The fewer venture-backed competitors a company has, the more likely we are to be a good fit.
