@@ -4,4 +4,4 @@
 
 **Focus**: Deep tech and American Dynamism. About 90% of our portfolio involves building in the physical world (hardware, robotics, manufacturing, bio, defense, climate/energy, space, chips, etc). The other 10% is software for industrial sectors like defense and manufacturing.
 
-**Taste**: We like spiky founders working on unconventional ideas. The fewer venture-backed competitors a company has, the more likely we are to be a good fit.
+**Taste**: We back spiky founders pursuing unconventional ideas. We especially love markets with few venture-backed competitors, where technical depth, operational difficulty, or non-consensus insight creates a real barrier to entry.
