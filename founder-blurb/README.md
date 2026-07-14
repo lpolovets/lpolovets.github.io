@@ -1,4 +1,4 @@
-[Humba Ventures](https://humbaventures.com/) is a $40m pre-seed and seed fund focused on deep tech and American Dynamism companies. We are a true generalist fund that's invested in everything from organoids and battery recycling to wig-making robots and interceptor missiles.
+[Humba Ventures](https://humbaventures.com/) is an early-stage fund focused on deep tech and American Dynamism companies. We've invested in everything from organoids and battery recycling to wig-making robots and interceptor missiles.
 
 We've backed companies like [Mytra](https://mytra.ai/){:target="_blank" rel="noopener"} (Eclipse + Greenoaks), [Antares](https://antaresindustries.com/){:target="_blank" rel="noopener"} (Caffeinated + AltCap), [Northwood Space](https://www.northwoodspace.io/){:target="_blank" rel="noopener"} (a16z + Founders Fund), and [Swarm Aero](https://www.swarm.aero/){:target="_blank" rel="noopener"} (Founders Fund + Khosla).
 
