@@ -10,7 +10,7 @@
 # Deep Tech Fellowship
 **Applications for 2026 cohorts are currently closed. Please follow Humba's [blog](https://blog.humbaventures.com/) for news about future annual cohorts.**
 
-**A six-week, paid virtual fellowship for technical and operational experts who want a front-row seat to early-stage deep tech investing. [Apply here](https://airtable.com/appXTuJS9xxv67Z6E/pag16qLvJSUlwABzY/form){:target="_blank" rel="noopener"}.**
+**A six-week, paid virtual fellowship for technical and operational experts who want a front-row seat to early-stage deep tech investing.**
 
 The Humba Ventures Deep Tech Fellowship is a part-time virtual program for scientists, technologists, founders, and domain experts who want to understand how ambitious technical ideas get funded. Over six weeks, Fellows will get a seat at the table, join live pitch meetings, work with frontier founders, and learn how investors evaluate markets, teams, and technologies. Whether your background is in materials, biotech, semiconductors, space, or something else entirely, the Fellowship is a chance to share your expertise, sharpen your thinking, and help shape what gets built next.
 
