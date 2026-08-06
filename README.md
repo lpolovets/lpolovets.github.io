@@ -124,6 +124,7 @@ Most of the companies below are in stealth mode, unless their homepage links are
 #### Hardware products
 👓 Fast, automated eye exam platform. ([Eyebot](https://eyebot.co/){:target="_blank" rel="noopener"})  
 ☕ Intelligent beverage dispenser for coffee shops and restaurants. ([Sidework](https://www.sidework.co/){:target="_blank" rel="noopener"})  
+🤥 Retail fraud detection using x-rays.  
 📦 Ultralight drones for package delivery. ([Airbound](https://www.airbound.com/){:target="_blank" rel="noopener"})  
 🧺 Washer/dryer that doesn't require a plumbing connection.  
 
