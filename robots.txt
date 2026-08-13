@@ -2,3 +2,4 @@ User-agent: *
 Allow: *
 Sitemap: https://humbaventures.com/reference/sitemap.xml
 Sitemap: https://humbaventures.com/sitemap.xml
+Sitemap: https://humbaventures.com/jobs/sitemap.xml
