@@ -58,11 +58,11 @@ Most of the companies below are in stealth mode, unless their homepage links are
 
 
 #### Defense and aerospace
-📑 AI-enabled finance, compliance, and workforce solutions for defense companies.  
+📑 AI-enabled finance, compliance, and workforce solutions for defense companies.  ([Arkenstone](https://arkenstonedefense.com/){:target="_blank" rel="noopener"})   
 🚁 Autonomous drone swarms for military applications. ([Swarm Aero](https://www.swarm.aero/){:target="_blank" rel="noopener"})   
 📝 Compliance and collaboration software for government primes and subcontractors. ([GovPort](https://www.govport.com/){:target="_blank" rel="noopener"})  
 🛡 Cybersecurity risk assessment and insurance platform.  
-🚀 Highly manufacturable interceptor missiles.  
+🚀 Highly manufacturable interceptor missiles.  ([Furientis](https://www.furientis.com/){:target="_blank" rel="noopener"})   
 🛰 Modern ground station network for satellites. ([Northwood Space](https://www.northwoodspace.io/){:target="_blank" rel="noopener"})  
 🏭 Nuclear microreactors for defense and space applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"})  
 🧑‍🤝‍🧑 Paperwork automation and easier compliance for defense and government applications.  ([Conductor AI](https://www.conductorai.co/){:target="_blank" rel="noopener"})  
