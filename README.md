@@ -54,8 +54,28 @@ Team's previous fund and angel investments: [Etched ($20b)](https://www.etched.c
 
 Most of the companies below are in stealth mode, unless their homepage links are included. Companies are listed in the core theme that they fall into.
 
-[Manufacturing](#manufacturing) · [Robotics and automation](#robotics-and-automation) · [Bio and food](#bio-and-food) · [Climate and energy](#climate-and-energy) · [Defense and Aerospace](#defense-and-aerospace) · [Hardware products](#hardware-products)
+[Defense and Aerospace](#defense-and-aerospace) · [Robotics and automation](#robotics-and-automation) · [Manufacturing](#manufacturing) · [Chips and data centers](#chips-and-data-centers) · [Bio and food](#bio-and-food) · [Climate and energy](#climate-and-energy) · [Hardware products](#hardware-products)
 
+
+#### Defense and aerospace
+📑 AI-enabled finance, compliance, and workforce solutions for defense companies.  
+🚁 Autonomous drone swarms for military applications. ([Swarm Aero](https://www.swarm.aero/){:target="_blank" rel="noopener"})   
+📝 Compliance and collaboration software for government primes and subcontractors. ([GovPort](https://www.govport.com/){:target="_blank" rel="noopener"})  
+🛡 Cybersecurity risk assessment and insurance platform.  
+🚀 Highly manufacturable interceptor missiles.  
+🛰 Modern ground station network for satellites. ([Northwood Space](https://www.northwoodspace.io/){:target="_blank" rel="noopener"})  
+🏭 Nuclear microreactors for defense and space applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"})  
+🧑‍🤝‍🧑 Paperwork automation and easier compliance for defense and government applications.  ([Conductor AI](https://www.conductorai.co/){:target="_blank" rel="noopener"})  
+🌎 Search engine for geospatial data that targets defense & government use cases. ([Danti](https://danti.ai/){:target="_blank" rel="noopener"})  
+🔒 Security middleware platform that gives users control and visibility over their security posture. ([LimaCharlie](https://limacharlie.io/){:target="_blank" rel="noopener"})  
+🤿 Underwater sensing and communication network.  
+
+#### Robotics and automation
+📦 Adaptable ASRS (automated storage and retrieval system) for warehouses. ([Mytra](https://mytra.ai/){:target="_blank" rel="noopener"})   
+🤖 Custom robot hardware provider. ([Anvil](https://anvil.bot/){:target="_blank" rel="noopener"})  
+💉 MRI-guided high precision brain surgery.  
+🪚 Next gen sawmills. ([The Lumber Manufactory](https://www.lumbermanufactory.com/){:target="_blank" rel="noopener"})    
+🦾 Software infrastructure for robot arms. ([Jacobi Robotics](https://jacobirobotics.com/){:target="_blank" rel="noopener"}) 
 
 #### Manufacturing
 🖨 3D printer that can produce production-grade carbon fiber parts quickly and affordably.  
@@ -67,13 +87,6 @@ Most of the companies below are in stealth mode, unless their homepage links are
 🧑‍🏭 Fast high-mix manufacturing for frontier hardware companies.  
 🔩 Marketplace for industrial components. ([Volition](https://www.govolition.com/){:target="_blank" rel="noopener"})  
 🏭 Modern OS for manufacturing companies. ([Heliux](https://www.heliux.com/){:target="_blank" rel="noopener"})  
-
-#### Robotics and automation
-📦 Adaptable ASRS (automated storage and retrieval system) for warehouses. ([Mytra](https://mytra.ai/){:target="_blank" rel="noopener"})   
-🤖 Custom robot hardware provider. ([Anvil](https://anvil.bot/){:target="_blank" rel="noopener"})  
-💉 MRI-guided high precision brain surgery.  
-🪚 Next gen sawmills. ([The Lumber Manufactory](https://www.lumbermanufactory.com/){:target="_blank" rel="noopener"})    
-🦾 Software infrastructure for robot arms. ([Jacobi Robotics](https://jacobirobotics.com/){:target="_blank" rel="noopener"}) 
 
 #### Chips and data centers
 🏗 Design software for accelerating data center construction.  
@@ -109,19 +122,6 @@ Most of the companies below are in stealth mode, unless their homepage links are
 📝 Site selection and permitting software for large cleantech projects. ([Blumen Systems](https://www.blumensystems.com/){:target="_blank" rel="noopener"})    
 🔋 Solid state commercial-scale hydrogen batteries.  
 🚰 Water harvesting from air in low-humidity environments. ([AquaPoro](https://www.aquaporo.com/){:target="_blank" rel="noopener"})  
-
-#### Defense and aerospace
-📑 AI-enabled finance, compliance, and workforce solutions for defense companies.  
-🚁 Autonomous drone swarms for military applications. ([Swarm Aero](https://www.swarm.aero/){:target="_blank" rel="noopener"})   
-📝 Compliance and collaboration software for government primes and subcontractors. ([GovPort](https://www.govport.com/){:target="_blank" rel="noopener"})  
-🛡 Cybersecurity risk assessment and insurance platform.  
-🚀 Highly manufacturable interceptor missiles.  
-🛰 Modern ground station network for satellites. ([Northwood Space](https://www.northwoodspace.io/){:target="_blank" rel="noopener"})  
-🏭 Nuclear microreactors for defense and space applications. ([Antares](https://www.antaresindustries.com/){:target="_blank" rel="noopener"})  
-🧑‍🤝‍🧑 Paperwork automation and easier compliance for defense and government applications.  ([Conductor AI](https://www.conductorai.co/){:target="_blank" rel="noopener"})  
-🌎 Search engine for geospatial data that targets defense & government use cases. ([Danti](https://danti.ai/){:target="_blank" rel="noopener"})  
-🔒 Security middleware platform that gives users control and visibility over their security posture. ([LimaCharlie](https://limacharlie.io/){:target="_blank" rel="noopener"})  
-🤿 Underwater sensing and communication network.  
 
 #### Hardware products
 👓 Fast, automated eye exam platform. ([Eyebot](https://eyebot.co/){:target="_blank" rel="noopener"})  
