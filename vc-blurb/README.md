@@ -4,6 +4,6 @@
 
 **Geography**: US and Canada.
 
-**Focus**: Deep tech and American Dynamism. About 90% of our portfolio involves building in the physical world (hardware, robotics, manufacturing, bio, defense, climate/energy, space, chips, etc). The other 10% is software for industrial sectors like defense and manufacturing.
+**Focus**: Deep tech and American Dynamism. Almost all of our investments involve building in the physical world (i.e. software + hardware or lab work, not pure software). We are open to any sector, and the ones we invest in most have been hardware, robotics, manufacturing, bio, defense, energy, and the chip/data center ecosystem.
 
 **Taste**: We back spiky founders pursuing unconventional ideas. We especially love markets with few venture-backed competitors, where technical depth, operational difficulty, or non-consensus insight creates a real barrier to entry.
